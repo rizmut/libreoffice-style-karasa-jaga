@@ -6,40 +6,17 @@ gh_repo="libreoffice-style-karasa-jaga"
 gh_desc="Karasa Jaga LibreOffice icon themes"
 
 cat <<- EOF
-                  NNmmddddddddmm
-             Nmdhhhhhhhhhhhhhhhhhhdm
-          Nmdhhhhhysssooooosssyyhhhhhdm
-        Ndhhhhysooooooooooooooooossyhhhhd
-      Mmhhhhsooooooooooooooooooooooosyhhhhm
-    MNdhhhsooooooooooooooooooooooooooooyhhhdN
-   MNhhhhoooooo+////////////////////////ohhhhN
-  MNhhhhoooooo+`                       -oshhhhN
-  Mdhhhoooooo/                        :oooshhhdM
-  Nhhhyooooo:          .:::::::::::::/oooooyhhhN
-  mhhhsoooo:```  `    -ooooooooooooooooooooshhhm
-  mhhhsoooooooo/..-`  `:oooooooooooooooooooshhhm
-  mhhhsoooooooooo/`--`  `/oooooooooooooooooshhhm
-  Nhhhyoooooooooooo/`--   ./oooooooooooooooyhhhN
-   dhhhsooooooooooooo:`--   .++oooooooooooshhhd
-   Nhhhhsoooo:                /ooooooooooshhhh
-    Nhhhhsoo-               `+ooooooooooshhhhN
-     Ndhhhyo////////////////+ooooooooooyhhhdN
-      Mmhhhhysoooooooooooooooooooooosyhhhhm
-        NdhhhhyssoooooooooooooooossyhhhhdN
-           mdhhhhhyyssssssssssyyhhhhhdmN
-             NmdhhhhhhhhhhhhhhhhhhdmN
-                   mmddddddddmmNN
-
 
   $gh_desc
   https://github.com/rizmut/$gh_repo
+  
+  
 EOF
 
 temp_dir="$(mktemp -d)"
 
 echo "=> Getting the latest version from GitHub ..."
-curl -O "/tmp/$gh_repo.tar.gz" \
-  https://github.com/rizmut/$gh_repo/archive/master.tar.gz
+curl -L "https://github.com/rizmut/$gh_repo/archive/master.tar.gz" -o "/tmp/$gh_repo.tar.gz"
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
