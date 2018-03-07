@@ -35,6 +35,7 @@ for dir in \
   [ -d "$dir" ] || continue
   sudo ln -sf "/usr/share/libreoffice/share/config/images_karasa_Jaga.zip" "$dir"
 done
+echo "=> Pushing to git ..."
 git add .
 git commit -m "New build"
 git push origin master
