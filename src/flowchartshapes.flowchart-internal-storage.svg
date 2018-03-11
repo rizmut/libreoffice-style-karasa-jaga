@@ -16,7 +16,7 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="flowchartshapes.flowchart-internal-storage.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.flowchart-internal-storage.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
    inkscape:version="0.92.2 (unknown)">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,10 +90,10 @@
        xlink:href="#linearGradient7422"
        inkscape:collect="always" />
     <linearGradient
-       y2="-157.17735"
-       x2="222.32156"
-       y1="429.62332"
-       x1="-1.0705026"
+       y2="-265.62833"
+       x2="148.58893"
+       y1="685.96204"
+       x1="82.625992"
        gradientTransform="matrix(0.40973888,0,0,0.24845378,46.138617,23.258463)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient2360"
@@ -158,7 +158,7 @@
      inkscape:snap-page="true"
      inkscape:snap-global="false"
      inkscape:zoom="1.2247144"
-     inkscape:cx="129.8657"
+     inkscape:cx="-18.740375"
      inkscape:cy="2.8240404"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -183,7 +183,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="fill:url(#linearGradient3320);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.59424603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 92.96177,9.2074207 C 80.270317,19.830214 69.036933,31.313178 61.01255,44.308983 l 4.968085,42.458879 c 0.534439,-3.391424 49.465715,-49.1771 50.393245,-52.449114 V 30.215233 9.2074207 Z"
+     d="M 92.96177,9.2074207 C 80.270317,19.830214 52.706595,82.753742 44.682212,95.749547 l 21.298423,-8.981685 c 0.534439,-3.391424 49.465715,-49.1771 50.393245,-52.449114 V 30.215233 9.2074207 Z"
      id="path3318"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
@@ -195,15 +195,7 @@
      y="4.4408921e-16"
      x="128"
      id="image37379"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAE7SURB
-VDiNxZWxTsMwEIZ/X4IaWsTEwsDEUMHGWInHQOHl+gSGHYmRAfZ2QJUqVUh0KSNRQmhsM4Q4jpI0
-thrESVFsn/3d5c9ZxwCAc+6hRwvDUDDOuff6Nc76BF8EC98vJjeTEwwHBABYrBMIqXB5Nmw8yBhr
-XI9TibvnDwCABo8CD6MgV2RwQBBS4ehQu1th1YBCj/1ykenD+VuBiDphVXAZvAYuHiKyyrITfP+y
-Af06vrcSCsDsLXICS1WONfj2+lRrPFt9QkiFq/NjpyyjJMP08b0KNjcVGu+Sosm3U+O2eRvMCWxm
-7PIDrcBFZbhYI5iINMgsu73BNhp3Ac0v7NTYJru9M/63qjCt9YL0VhUmqNeqiFMJoryRpFuBTChE
-iX1jYYwhTmUdPH1Y1jY/zTdOGVcCAX/TTH8A7KNPzN6vAJwAAAAASUVORK5CYII=
-"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAE7SURB VDiNxZWxTsMwEIZ/X4IaWsTEwsDEUMHGWInHQOHl+gSGHYmRAfZ2QJUqVUh0KSNRQmhsM4Q4jpI0 thrESVFsn/3d5c9ZxwCAc+6hRwvDUDDOuff6Nc76BF8EC98vJjeTEwwHBABYrBMIqXB5Nmw8yBhr XI9TibvnDwCABo8CD6MgV2RwQBBS4ehQu1th1YBCj/1ykenD+VuBiDphVXAZvAYuHiKyyrITfP+y Af06vrcSCsDsLXICS1WONfj2+lRrPFt9QkiFq/NjpyyjJMP08b0KNjcVGu+Sosm3U+O2eRvMCWxm 7PIDrcBFZbhYI5iINMgsu73BNhp3Ac0v7NTYJru9M/63qjCt9YL0VhUmqNeqiFMJoryRpFuBTChE iX1jYYwhTmUdPH1Y1jY/zTdOGVcCAX/TTH8A7KNPzN6vAJwAAAAASUVORK5CYII= "
      preserveAspectRatio="none"
      height="128"
      width="128" />
@@ -219,16 +211,7 @@ iX1jYYwhTmUdPH1Y1jY/zTdOGVcCAX/TTH8A7KNPzN6vAJwAAAAASUVORK5CYII=
      y="4.4408921e-16"
      x="-128"
      id="image37310"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAF2SURB
-VDiNxdLNSsNAEAfw/2y2bYrYFPGiCK0glRpfQPAmeNZL/Lj5JnkTPfmRg+C1B0+CL2AsFtEqoheF
-piKJNcl6SmoaFZu0dU6zLPNjZnbJMAyp7sy7GGBU5SvOg8PG8iTGclIq8O3dw9HZMwAghOWMBDmb
-Dvb8bh7CRATOORRFSYRalgWirszChDEwxr4t+kv01kc6BgAhRGI8MGIwESWGg/oYHFymgb/G0FYx
-tMcLs94d9Ru99aOB08boOx4kHPlujLHEuBDiHzpO+4AxmIicvdqNv1gu5qslhaYm8n2BTy826veW
-uGi2bCJiAEAAYBiGdOlUljiTtgCxzSWWr8wUJLWs8LnpcTAWncT3Ba4fX2E2Lbfx0PZcz7cB2nd9
-72BBbpxrmubFZtd3b2Xw9qoE0oiwlskwUksKV8vFLACYzVbHvLPczofvQ+DEgzDgFmr6zqwTWctv
-I+qGmSXbW+GcNiGwDgAC4tgV4hA5fqprauen2k9X93g43TEZTQAAAABJRU5ErkJggg==
-"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAF2SURB VDiNxdLNSsNAEAfw/2y2bYrYFPGiCK0glRpfQPAmeNZL/Lj5JnkTPfmRg+C1B0+CL2AsFtEqoheF piKJNcl6SmoaFZu0dU6zLPNjZnbJMAyp7sy7GGBU5SvOg8PG8iTGclIq8O3dw9HZMwAghOWMBDmb Dvb8bh7CRATOORRFSYRalgWirszChDEwxr4t+kv01kc6BgAhRGI8MGIwESWGg/oYHFymgb/G0FYx tMcLs94d9Ru99aOB08boOx4kHPlujLHEuBDiHzpO+4AxmIicvdqNv1gu5qslhaYm8n2BTy826veW uGi2bCJiAEAAYBiGdOlUljiTtgCxzSWWr8wUJLWs8LnpcTAWncT3Ba4fX2E2Lbfx0PZcz7cB2nd9 72BBbpxrmubFZtd3b2Xw9qoE0oiwlskwUksKV8vFLACYzVbHvLPczofvQ+DEgzDgFmr6zqwTWctv I+qGmSXbW+GcNiGwDgAC4tgV4hA5fqprauen2k9X93g43TEZTQAAAABJRU5ErkJggg== "
      preserveAspectRatio="none"
      height="128"
      width="128" />
