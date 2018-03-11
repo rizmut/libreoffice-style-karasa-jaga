@@ -16,7 +16,7 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="flowchartshapes.flowchart-internal-storage.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.flowchart-internal-storage.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
    inkscape:version="0.92.2 (unknown)">
@@ -110,28 +110,6 @@
        x2="286.96298"
        y2="-90.271233" />
     <linearGradient
-       gradientTransform="matrix(1.9523919,0,0,1.5942461,-65.037295,-32.215347)"
-       y2="48"
-       x2="193.125"
-       y1="22"
-       x1="88.5625"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3320"
-       xlink:href="#linearGradient3310"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient3310"
-       inkscape:collect="always">
-      <stop
-         id="stop3312"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop3314"
-         offset="1"
-         style="stop-color:#ffffff;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7422"
        id="linearGradient37405"
@@ -158,7 +136,7 @@
      inkscape:snap-page="true"
      inkscape:snap-global="false"
      inkscape:zoom="1.2247144"
-     inkscape:cx="-18.740375"
+     inkscape:cx="-167.34645"
      inkscape:cy="2.8240404"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -181,12 +159,6 @@
      d="M 11.626118,9.2074205 V 118.79258 H 116.37388 V 48.105095 30.215407 9.2074205 Z"
      id="path37359"
      inkscape:connector-curvature="0" />
-  <path
-     style="fill:url(#linearGradient3320);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.59424603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 92.96177,9.2074207 C 80.270317,19.830214 52.706595,82.753742 44.682212,95.749547 l 21.298423,-8.981685 c 0.534439,-3.391424 49.465715,-49.1771 50.393245,-52.449114 V 30.215233 9.2074207 Z"
-     id="path3318"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
   <path
      style="fill:url(#linearGradient37405);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.6329999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 32.042969 5.0917969 L 32.042969 35.998047 L 7.5605469 35.998047 L 7.5605469 40.617188 L 32.042969 40.617188 L 32.042969 119.33984 L 36.662109 119.33984 L 36.662109 40.617188 L 120.43945 40.617188 L 120.43945 35.998047 L 36.662109 35.998047 L 36.662109 5.0917969 L 32.042969 5.0917969 z "
