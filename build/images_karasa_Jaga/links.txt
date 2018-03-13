@@ -2,9 +2,10 @@ avmedia/res/av02048.png cmd/sc_open.png
 avmedia/res/av02053.png cmd/sc_ok.png
 avmedia/res/avl02048.png cmd/lc_open.png
 avmedia/res/avl02053.png cmd/lc_ok.png
+cmd/32/alignvcenter.png cmd/32/alignverticalcenter.png
 cmd/32/calloutshapes.png cmd/32/calloutshapes.round-rectangular-callout.png
 cmd/32/cellvertbottom.png cmd/32/alignbottom.png
-cmd/32/cellvertcenter.png cmd/32/alignvcenter.png
+cmd/32/cellvertcenter.png cmd/32/alignverticalcenter.png
 cmd/32/cellverttop.png cmd/32/aligntop.png
 cmd/32/fillcolor.png cmd/32/formatarea.png
 cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-internal-storage.png
@@ -153,7 +154,7 @@ cmd/lc_bulletliststyle.png cmd/lc_defaultbullet.png
 cmd/lc_calloutshapes.png cmd/lc_calloutshapes.round-rectangular-callout.png
 cmd/lc_cellprotection.png cmd/lc_protect.png
 cmd/lc_cellvertbottom.png cmd/lc_alignbottom.png
-cmd/lc_cellvertcenter.png cmd/lc_alignvcenter.png
+cmd/lc_cellvertcenter.png cmd/lc_alignverticalcenter.png
 cmd/lc_cellverttop.png cmd/lc_aligntop.png
 cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
@@ -333,7 +334,7 @@ cmd/sc_bulletliststyle.png cmd/sc_defaultbullet.png
 cmd/sc_calloutshapes.png cmd/sc_calloutshapes.round-rectangular-callout.png
 cmd/sc_cellprotection.png cmd/sc_protect.png
 cmd/sc_cellvertbottom.png cmd/sc_alignbottom.png
-cmd/sc_cellvertcenter.png cmd/sc_alignvcenter.png
+cmd/sc_cellvertcenter.png cmd/sc_alignverticalcenter.png
 cmd/sc_cellverttop.png cmd/sc_aligntop.png
 cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
 cmd/sc_charbackcolor.png cmd/sc_backcolor.png
