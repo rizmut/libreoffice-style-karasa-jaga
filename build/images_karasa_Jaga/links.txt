@@ -2,6 +2,8 @@ avmedia/res/av02048.png cmd/sc_open.png
 avmedia/res/av02053.png cmd/sc_ok.png
 avmedia/res/avl02048.png cmd/lc_open.png
 avmedia/res/avl02053.png cmd/lc_ok.png
+cmd/32/accepttracedchange.png cmd/32/accepttrackedchanges.png 
+cmd/32/accepttrackedchange.png cmd/32/accepttrackedchanges.png
 cmd/32/alignvcenter.png cmd/32/alignverticalcenter.png
 cmd/32/calloutshapes.png cmd/32/calloutshapes.round-rectangular-callout.png
 cmd/32/cellvertbottom.png cmd/32/alignbottom.png
@@ -19,6 +21,8 @@ cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertfilecontrol.png cmd/32/filecontrol.png
 cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
 cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
+cmd/32/objectbackone.png cmd/32/backward.png
+cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/starshapes.png cmd/32/starshapes.star5.png
 cmd/32/trackchangesbar.png cmd/32/trackchanges.png
 cmd/ar/lc_bold.png cmd/lc_bold.png
