@@ -17,7 +17,7 @@
    id="svg2368"
    inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="moveupsubitems.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/moveupsubitems.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/moveupsubitems.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
@@ -128,16 +128,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="30.338965"
-     inkscape:cy="49.857581"
+     inkscape:cx="30.390475"
+     inkscape:cy="40.6854"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="691"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      inkscape:snap-global="false"
@@ -150,7 +150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,30 +215,6 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g2988"
-       transform="translate(0,19.201909)">
-      <rect
-         style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.45277929;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect2984"
-         width="24.117319"
-         height="0.79911435"
-         x="-26.766098"
-         y="272.73099"
-         rx="0"
-         ry="0"
-         transform="scale(-1,1)" />
-      <rect
-         transform="scale(-1,1)"
-         ry="0"
-         rx="0"
-         y="268.45963"
-         x="-31.315063"
-         height="0.79911435"
-         width="28.666285"
-         id="rect2986"
-         style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.5838747;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
        id="g1652"
        transform="matrix(0,-1.9709068,1.9709068,0,-555.59019,301.97742)">
       <path
@@ -259,6 +235,30 @@
          d="m 9.4293781,283.45843 3.1749999,2.11666 H 9.4293781 Z"
          style="display:inline;fill:url(#linearGradient4010);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.3883189,0,0,1,-12.533774,8.7091111)"
+       id="g851">
+      <rect
+         style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.04014599;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect847"
+         width="12.362844"
+         height="0.79911435"
+         x="-31.584126"
+         y="278.95242"
+         rx="0"
+         ry="0"
+         transform="scale(-1,1)" />
+      <rect
+         transform="scale(-1,1)"
+         ry="0"
+         rx="0"
+         y="283.22379"
+         x="-28.299965"
+         height="0.79911435"
+         width="9.07868"
+         id="rect849"
+         style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:0.8913464;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
