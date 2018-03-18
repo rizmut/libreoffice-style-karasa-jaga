@@ -16,7 +16,7 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="fontworkshapetype.fontwork-circle-pour.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/fontworkshapetype.fontwork-circle-pour.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/fontworkshapetype.fontwork-arch-right-pour.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
    inkscape:version="0.92.2 (unknown)">
@@ -49,9 +49,9 @@
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="2.4494288"
-     inkscape:cx="85.180477"
-     inkscape:cy="84.442615"
+     inkscape:zoom="2"
+     inkscape:cx="128.38355"
+     inkscape:cy="80.598422"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -64,30 +64,18 @@
      style="opacity:1;fill:#f6f8fa;fill-opacity:1;stroke:none;stroke-width:6.18841791;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 64 2.8125 A 61.187176 61.187176 0 0 0 2.8125 64 A 61.187176 61.187176 0 0 0 64 125.1875 A 61.187176 61.187176 0 0 0 125.1875 64 A 61.187176 61.187176 0 0 0 64 2.8125 z M 64 21.591797 A 42.407284 42.407284 0 0 1 106.4082 64 A 42.407284 42.407284 0 0 1 64 106.4082 A 42.407284 42.407284 0 0 1 21.591797 64 A 42.407284 42.407284 0 0 1 64 21.591797 z "
      id="circle20802" />
-  <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="4.0105028"
-     inkscape:original="M 65 14.763672 L 9.2363281 122.76367 L 65 122.76367 L 120.76367 122.76367 L 65 14.763672 z "
-     style="opacity:1;fill:#7d9ece;fill-opacity:1;stroke:none;stroke-width:4.4907279;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
-     id="path20747"
-     d="m 64.976562,10.753906 a 4.0109039,4.0109039 0 0 0 -3.541015,2.169922 L 5.671875,120.92383 a 4.0109039,4.0109039 0 0 0 3.5644531,5.84961 H 65 120.76367 a 4.0109039,4.0109039 0 0 0 3.56445,-5.84961 L 68.564453,12.923828 a 4.0109039,4.0109039 0 0 0 -3.587891,-2.169922 z"
-     transform="matrix(1,0,0,-1,122.77441,132.76364)" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="rect3937"
-     d="m 132.01013,9.9994599 h 55.76429 55.76428 L 187.77442,117.99946 Z"
-     style="opacity:1;fill:#f7f8fa;fill-opacity:0.99607843;stroke:none;stroke-width:4.4907279;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216" />
   <image
-     y="-128"
-     x="250.77441"
-     id="image20725"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaAgMAAADUJKRdAAAACVBMVEUAAABGS1xGS1zx3aOQAAAA
-A3RSTlMAKcws4tWuAAAAOklEQVQIW1XFQRHAMAgAsLBDAJKQMP9q+tkOmk8YL5458j7jvvR1q32Q
-+yT2hV43ag7IOSHmAv3vcwCw7QQrjmKHzAAAAABJRU5ErkJggg==
+     y="0"
+     x="128"
+     id="image20797"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAA70lEQVR4Xr2WsQ2DMBBFQ8MS9IxA
+5waJNNkApfYALIGgoWMNTwENDJVvyUrD6YeA9JFe4zM8+e6w/WDP8/XOQAU8mEAASyKkMZ/mZORT
+VNKAEewnGUHzj6AAHVhNAWdN7xa/JCUYwH6TAZRkJURyTVZYoo4INjADD1zCp7GNyLpD4UlNelCT
+dNegJzVrvi1MuqsF+YkGykFLujGLooqs5CBhMrKyKoq8VROWLppGu2Y+BicjMFMBl82GaIqBYAT8
+ZZGdoRADixFwN0TOEC0ykSx1smaQtbfsh5VtQZJNVXJMyA4+yVGuvJzor1uyC+QHv+KXE9ip9w8A
+AAAASUVORK5CYII=
 "
      preserveAspectRatio="none"
      height="128"
-     width="128"
-     transform="scale(1,-1)" />
+     width="128" />
 </svg>
