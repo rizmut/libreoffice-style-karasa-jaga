@@ -156,6 +156,7 @@ cmd/ko/sc_underline.png cmd/sc_underline.png
 cmd/ko/sc_underlinedouble.png cmd/sc_underlinedouble.png
 cmd/lc_adjust.png cmd/lc_zoomoptimal.png
 cmd/lc_alignframemenu.png cmd/lc_objectalign.png
+cmd/lc_alignvcenter.png cmd/lc_alignverticalcenter.png
 cmd/lc_anchormenu.png cmd/lc_toggleanchortype.png
 cmd/lc_arrangeframemenu.png cmd/lc_bringtofront.png
 cmd/lc_arrangemenu.png cmd/lc_bringtofront.png
@@ -339,6 +340,7 @@ cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_adjust.png cmd/sc_zoomoptimal.png
 cmd/sc_advancedmode.png cmd/sc_toggleobjectrotatemode.png
 cmd/sc_alignframemenu.png cmd/sc_objectalign.png
+cmd/sc_alignvcenter.png cmd/sc_alignverticalcenter.png
 cmd/sc_anchormenu.png cmd/sc_toggleanchortype.png
 cmd/sc_arrangeframemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrangemenu.png cmd/sc_bringtofront.png
