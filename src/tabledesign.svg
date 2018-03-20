@@ -17,9 +17,9 @@
    height="127.74194"
    viewBox="0 0 127.74194 127.74194"
    sodipodi:docname="tabledesign.svg"
-   inkscape:export-filename="/usr/lib/libreoffice/share/config/images_karasa_Jaga/cmd/32/tabledesign.png"
-   inkscape:export-xdpi="22.545454"
-   inkscape:export-ydpi="22.545454">
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/tabledesign.png"
+   inkscape:export-xdpi="24.049999"
+   inkscape:export-ydpi="24.049999">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -544,20 +544,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="741"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-page="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="38.313248"
-     inkscape:cy="10.022407"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="45.422043"
+     inkscape:cy="69.285254"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid38301"
+       spacingx="3.9999999"
+       spacingy="3.9999999" />
+  </sodipodi:namedview>
   <g
      id="g4241"
-     transform="translate(-2,0)">
+     transform="translate(-1.8709727,-2.129028)">
     <rect
        style="fill:url(#linearGradient3733);fill-opacity:1;stroke:none"
        id="rect3723"
@@ -567,7 +573,7 @@
        y="25.870972" />
     <path
        id="rect3956"
-       d="m 5.8709716,21.870974 0,4 0,16 0,4 0,16 0,4 0,16 0,4 0,15.999996 0,4 4,0 20.0000004,0 4,0 28,0 4,0 28,0 4,0 19.999998,0 4,0 0,-4 0,-15.999996 0,-4 0,-16 0,-4 0,-16 0,-4 0,-16 0,-4 -4,0 -19.999998,0 -4,0 -28,0 -4,0 -28,0 -4,0 -20.0000004,0 -4,0 z m 4,4 20.0000004,0 0,16 -20.0000004,0 0,-16 z m 24.0000004,0 28,0 0,16 -28,0 0,-16 z m 32,0 28,0 0,16 -28,0 0,-16 z m 32,0 19.999998,0 0,16 -19.999998,0 0,-16 z m -88.0000004,20 20.0000004,0 0,16 -20.0000004,0 0,-16 z m 24.0000004,0 28,0 0,16 -28,0 0,-16 z m 32,0 28,0 0,16 -28,0 0,-16 z m 32,0 19.999998,0 0,16 -19.999998,0 0,-16 z m -88.0000004,20 20.0000004,0 0,16 -20.0000004,0 0,-16 z m 24.0000004,0 28,0 0,16 -28,0 0,-16 z m 32,0 28,0 0,16 -28,0 0,-16 z m 32,0 19.999998,0 0,16 -19.999998,0 0,-16 z m -88.0000004,20 20.0000004,0 0,15.999996 -20.0000004,0 0,-15.999996 z m 24.0000004,0 28,0 0,15.999996 -28,0 0,-15.999996 z m 32,0 28,0 0,15.999996 -28,0 0,-15.999996 z m 32,0 19.999998,0 0,15.999996 -19.999998,0 0,-15.999996 z"
+       d="m 5.8709716,21.870974 v 4 16 4 16 4 16 4 15.999996 4 h 4 20.0000004 4 28 4 28 4 19.999998 4 v -4 -15.999996 -4 -16 -4 -16 -4 -16 -4 h -4 -19.999998 -4 -28 -4 -28 -4 -20.0000004 z m 4,4 H 29.870972 v 16 H 9.8709716 Z m 24.0000004,0 h 28 v 16 h -28 z m 32,0 h 28 v 16 h -28 z m 32,0 h 19.999998 v 16 H 97.870972 Z m -88.0000004,20 H 29.870972 v 16 H 9.8709716 Z m 24.0000004,0 h 28 v 16 h -28 z m 32,0 h 28 v 16 h -28 z m 32,0 h 19.999998 v 16 H 97.870972 Z m -88.0000004,20 H 29.870972 v 16 H 9.8709716 Z m 24.0000004,0 h 28 v 16 h -28 z m 32,0 h 28 v 16 h -28 z m 32,0 h 19.999998 v 16 H 97.870972 Z m -88.0000004,20 H 29.870972 V 101.87097 H 9.8709716 Z m 24.0000004,0 h 28 v 15.999996 h -28 z m 32,0 h 28 v 15.999996 h -28 z m 32,0 H 117.87097 V 101.87097 H 97.870972 Z"
        style="fill:url(#linearGradient4657);fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
