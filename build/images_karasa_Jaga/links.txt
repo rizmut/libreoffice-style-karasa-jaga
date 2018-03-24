@@ -34,6 +34,7 @@ cmd/32/mailmergewizard.png cmd/32/dsbformletter.png
 cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
 cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 cmd/32/objectbackone.png cmd/32/backward.png
+cmd/32/objects3dtoolbox.png cmd/32/cube.png
 cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
@@ -296,7 +297,7 @@ cmd/lc_underlinesimple.png cmd/lc_underline.png
 cmd/lc_updateall.png cmd/lc_reload.png
 cmd/lc_updatecurindex.png cmd/lc_reload.png
 cmd/lc_view100.png cmd/lc_zoom100percent.png
-cmd/lc_view3d.png cmd/lc_objects3dtoolbox.png
+cmd/lc_view3d.png cmd/lc_cube.png
 cmd/lc_viewsidebarstyles.png cmd/lc_designerdialog.png
 cmd/lc_wrapmenu.png cmd/lc_wrapon.png
 cmd/lc_zoom.png cmd/lc_zoomoptimal.png
@@ -483,7 +484,7 @@ cmd/sc_underlinesimple.png cmd/sc_underline.png
 cmd/sc_updateall.png cmd/sc_reload.png
 cmd/sc_updatecurindex.png cmd/sc_reload.png
 cmd/sc_view100.png cmd/sc_zoom100percent.png
-cmd/sc_view3d.png cmd/sc_objects3dtoolbox.png
+cmd/sc_view3d.png cmd/sc_cube.png
 cmd/sc_viewsidebarstyles.png cmd/sc_designerdialog.png
 cmd/sc_wrapmenu.png cmd/sc_wrapon.png
 cmd/sc_zoom.png cmd/sc_zoomoptimal.png
@@ -713,6 +714,7 @@ svtools/res/folder.png formula/res/fapclose.png
 svtools/res/fp011.png fpicker/res/fp015.png
 svtools/res/up_large.png cmd/lc_upsearch.png
 svtools/res/up_small.png cmd/sc_upsearch.png
+svx/res/convrt3d.png cmd/lc_convertinto3d.png
 svx/res/cd020.png cmd/sc_undo.png
 svx/res/cd021.png cmd/sc_redo.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
