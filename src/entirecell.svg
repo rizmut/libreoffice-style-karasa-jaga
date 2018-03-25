@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -385,26 +385,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3323-4"
-       id="linearGradient1661"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0384874,0,0,0.91306627,2.3325107,8.8245729)"
-       x1="46.048"
-       y1="128.01709"
-       x2="46.048"
-       y2="16.6203" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10867-2"
-       id="linearGradient1663"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.1290284,-2.1290267)"
-       x1="120"
-       y1="-32.325989"
-       x2="120"
-       y2="104.05867" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3323-4"
        id="linearGradient3733-4"
        x1="46.048"
        y1="128.01709"
@@ -455,16 +435,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="741"
+     inkscape:window-width="1364"
+     inkscape:window-height="747"
      id="namedview4"
      showgrid="true"
      inkscape:snap-page="false"
-     inkscape:zoom="8.0000002"
-     inkscape:cx="27.715799"
-     inkscape:cy="87.357232"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="100.26643"
+     inkscape:cy="-26.752945"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -511,13 +491,13 @@
     <g
        id="g2355">
       <path
-         style="fill:url(#linearGradient1663);fill-opacity:1;stroke:none"
+         style="fill:#30b142;fill-opacity:1;stroke:none"
          d="m 59.871094,41.871094 v 4 16 4 h 4 28 4 v -4 -16 -4 h -4 -28 z m 4,4 h 28 v 16 h -28 z"
          id="path1657"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccc" />
       <path
-         style="fill:url(#linearGradient1661);fill-opacity:1;stroke:none"
+         style="fill:#b5ffaa;fill-opacity:1;stroke:none"
          d="m 63.871094,45.871094 v 16 h 28 v -16 z"
          id="rect1655"
          inkscape:connector-curvature="0"
@@ -559,4 +539,25 @@
        style="fill:url(#linearGradient4657-7);fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
+  <image
+     y="20.22187"
+     x="-32.213203"
+     id="image919"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAoJJREFU
+OI21Ul9IU2EcPd/2fZcrF8oLPQyltx4WhKPoYXsNLNFgPhQxsREy2IOE9JBCoggNVzLKHCSR9FCD
+G8ggR5NJ7GH4HvWweothsLsQasVlXp3u14Ob7LKl808Hfi/nd87hx/k+pmka4YTh8/kYB4De3l7L
+Ynl5+VgcANhO+toa/lswa7VjX3mkKa+JZ43aWsd9fX2WRTKZbODwbgTvb0ct1PU3d5t6AYC3cm0N
+DKxl7aGCbYd4kqN1XAHwmwCVHb9jLbmrIyLMvX0Kl/MiHsbH0T3dDUmSLF6g+t2IyDL7cbqu48aV
+W+A7AkuhFaTTaWxsbFh0e8GVyo5l9ucq4DY7ZmZm8HxuHt3XriL8chqlUmlPB1QfL5VaaejpX5xh
+GLjsuQQhBEKhEEzTxOTEJG4+8OKOOwjOd/8Db2try7rd7j/1AYVCweVwOD4343Rdl22wdwkh7AAQ
+iUSwubmJpccpGn80XvRc8PwAAM4YW2SM2etDGGNlxlimGWeapipBOs853/NEo1GYpslmZ2fbY7HY
+r8HBwTMcwKIsy1J9iCRJn2RZ/taMKxQKHZ2dHX4hhFzbBQIBGIaBhYUFNjAwcDYYDN7jXq/3y2t6
+1W4p8xRyDQVXufnFF+XI8JMdIQT6+/sBAIZhQNM0bG1tVdLp9E8Apxv8LaAjk8msT01NUbFYpGw2
+S4qiUCqVong8ngcwB+CcxUFEXQfN6uqqJxwO57a3tymRSKzn83lzaGiInE4nlUol8vv9H4io6ygX
+Q1GUgMvlWgEwPDo6+nFtbY16enool8vR2NjYVwCOIwXXQ1VVXyKR0A3DKMdise+qqsYASAcaWwAH
+MKEoShzAfVSv/Qvz+mLi4lkRmQAAAABJRU5ErkJggg==
+"
+     preserveAspectRatio="none"
+     height="22"
+     width="22" />
 </svg>
