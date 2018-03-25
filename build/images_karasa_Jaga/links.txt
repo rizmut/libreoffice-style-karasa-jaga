@@ -720,6 +720,7 @@ svtools/res/up_small.png cmd/sc_upsearch.png
 svx/res/convrt3d.png cmd/lc_convertinto3d.png
 svx/res/cd020.png cmd/sc_undo.png
 svx/res/cd021.png cmd/sc_redo.png
+svx/res/fill_color.png cmd/sc_fillcolor.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
 svx/res/fontworkaligncentered_26.png cmd/lc_alignhorizontalcenter.png
 svx/res/fontworkalignjustified_16.png cmd/sc_alignblock.png
@@ -807,5 +808,6 @@ sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 sw/res/styfamnu.png sw/res/sf05.png
 vcl/res/closedoc.png sfx2/res/closedoc.png
+vcl/res/index.png cmd/sc_insertindexesentry.png
 vcl/source/src/msgbox.png vcl/res/msgbox.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
