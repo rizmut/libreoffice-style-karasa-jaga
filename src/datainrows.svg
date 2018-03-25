@@ -19,7 +19,7 @@
    version="1.0"
    sodipodi:docname="datainrows.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/datainrows.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/datainrows.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
    sodipodi:modified="TRUE">
@@ -93,7 +93,7 @@
        inkscape:collect="always"
        id="linearGradient7159">
       <stop
-         style="stop-color:#0968ef;stop-opacity:1;"
+         style="stop-color:#284cc6;stop-opacity:1"
          offset="0"
          id="stop7161" />
       <stop
@@ -198,15 +198,6 @@
        y2="112.0004"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0384875,0,0,1.5000375,-3.0769232,-64.004803)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6330"
-       id="linearGradient3984"
-       x1="40.999996"
-       y1="6.6740131"
-       x2="43.08831"
-       y2="205.91148"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7159"
@@ -716,14 +707,14 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999995"
-     inkscape:cx="152.94693"
-     inkscape:cy="-48.162254"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="12.565681"
+     inkscape:cy="37.45796"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      width="128px"
      height="128px"
-     showgrid="false"
+     showgrid="true"
      showborder="true"
      inkscape:window-width="1090"
      inkscape:window-height="704"
@@ -757,7 +748,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1596,7 +1587,7 @@
            y="31.479925" /></flowRegion><flowPara
          id="flowPara3218"
          style="font-size:10px;line-height:1.25"> </flowPara></flowRoot>    <path
-       style="fill:url(#linearGradient3984);fill-opacity:1;stroke:none"
+       style="fill:#284cc6;fill-opacity:1;stroke:none"
        d="m 4,24 v 4 16 4 16 4 16 4 h 4 24 4 V 84 68 64 48 44 28 24 H 32 8 Z m 4,4 H 32 V 44 H 8 Z M 8,48 H 32 V 64 H 8 Z M 8,68 H 32 V 84 H 8 Z"
        id="rect3956"
        inkscape:connector-curvature="0"
