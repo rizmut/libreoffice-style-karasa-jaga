@@ -15,11 +15,11 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg2414"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="lc_paraspacedecrease.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_paraspacedecrease.png"
-   inkscape:export-xdpi="16.5"
-   inkscape:export-ydpi="16.5">
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_paraspacedecrease.png"
+   inkscape:export-xdpi="16.500002"
+   inkscape:export-ydpi="16.500002">
   <defs
      id="defs2408">
     <linearGradient
@@ -125,18 +125,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7510873"
-     inkscape:cx="29.186099"
-     inkscape:cy="57.612128"
+     inkscape:zoom="2.7179417"
+     inkscape:cx="26.613418"
+     inkscape:cy="58.554778"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843"
+       spacingx="1.5393723"
+       spacingy="1.5393723"
+       empspacing="2" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2411">
     <rdf:RDF>
@@ -199,54 +206,53 @@
          style="display:inline;fill:url(#linearGradient3033);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       id="g3054"
-       transform="translate(0,-0.23046133)">
+       id="g4559">
       <rect
-         y="266.31729"
-         x="18.179865"
-         height="0.97216552"
+         y="266.21255"
+         x="18.472467"
+         height="1.5393542"
          width="13.880363"
          id="rect901"
-         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.23579858;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.29671559;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.23579858;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect903"
+         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.29671559;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4552"
          width="13.880363"
-         height="0.97216552"
-         x="18.179865"
-         y="270.5506" />
+         height="1.5393542"
+         x="18.446457"
+         y="270.83066" />
       <rect
-         y="274.78394"
-         x="18.179865"
-         height="0.97216552"
+         y="275.44879"
+         x="18.446457"
+         height="1.5393542"
          width="13.880363"
-         id="rect905"
-         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.23579858;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect4554"
+         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.29671559;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g3062"
-       transform="translate(0,18.290376)">
+       id="g4567"
+       transform="translate(-2.0735352e-6,16.933083)">
       <rect
-         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.23579858;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3056"
+         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.29671559;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4561"
          width="13.880363"
-         height="0.97216552"
-         x="18.179865"
-         y="266.31729" />
+         height="1.5393542"
+         x="18.472467"
+         y="266.21255" />
       <rect
-         y="270.5506"
-         x="18.179865"
-         height="0.97216552"
+         y="270.83066"
+         x="18.446457"
+         height="1.5393542"
          width="13.880363"
-         id="rect3058"
-         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.23579858;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect4563"
+         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.29671559;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.23579858;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3060"
+         style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.29671559;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4565"
          width="13.880363"
-         height="0.97216552"
-         x="18.179865"
-         y="274.78394" />
+         height="1.5393542"
+         x="18.446457"
+         y="275.44879" />
     </g>
   </g>
 </svg>
