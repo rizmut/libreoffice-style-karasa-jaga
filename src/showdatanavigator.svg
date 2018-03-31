@@ -15,7 +15,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="showdatanavigator.svg"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/showdatanavigator.png"
    inkscape:export-xdpi="24"
@@ -62,15 +62,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7422-5"
-       id="linearGradient883"
-       x1="0.7109372"
-       y1="280.31348"
-       x2="52.089344"
-       y2="284.35278"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3369-0"
        id="linearGradient891"
        x1="15.772552"
@@ -78,6 +69,15 @@
        x2="15.772549"
        y2="271.75427"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7422-5"
+       id="linearGradient3549"
+       gradientUnits="userSpaceOnUse"
+       x1="15.772552"
+       y1="289.35416"
+       x2="15.772549"
+       y2="271.75427" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -86,22 +86,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7510873"
-     inkscape:cx="109.92464"
-     inkscape:cy="50.106578"
+     inkscape:zoom="1.3755437"
+     inkscape:cx="-21.283274"
+     inkscape:cy="-33.381367"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid832" />
+       id="grid832"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       empspacing="2" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -120,18 +123,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <path
-       sodipodi:type="inkscape:offset"
-       inkscape:radius="0.82732034"
-       inkscape:original="M 1.5390625 271.22461 L 1.5390625 289.40234 L 32.21875 289.40234 L 32.21875 271.22461 L 1.5390625 271.22461 z "
-       style="opacity:1;fill:url(#linearGradient883);fill-opacity:1;stroke:none;stroke-width:1.28534579;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
-       id="rect826"
-       d="m 1.5390625,270.39648 a 0.82740307,0.82740307 0 0 0 -0.828125,0.82813 v 18.17773 a 0.82740307,0.82740307 0 0 0 0.828125,0.82813 H 32.21875 a 0.82740307,0.82740307 0 0 0 0.828125,-0.82813 v -18.17773 a 0.82740307,0.82740307 0 0 0 -0.828125,-0.82813 z" />
     <rect
-       y="271.22534"
-       x="1.5387855"
-       height="18.176905"
-       width="30.679535"
+       style="opacity:1;fill:url(#linearGradient3549);fill-opacity:1;stroke:none;stroke-width:1.28534579;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
+       id="rect3545"
+       width="31.749998"
+       height="20.10833"
+       x="1.0583333"
+       y="270.54166"
+       ry="1.058331"
+       rx="1.0583315" />
+    <rect
+       y="271.59998"
+       x="2.1166666"
+       height="17.991678"
+       width="29.633333"
        id="rect828"
        style="opacity:1;fill:url(#linearGradient891);fill-opacity:1;stroke:none;stroke-width:1.28534579;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216" />
     <text
