@@ -15,8 +15,8 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   sodipodi:docname="sc_removebullets.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/sc_removebullets.png"
+   sodipodi:docname="sc_bulletsandnumberingdialog.svg"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/sc_outlinebullet.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12"
    inkscape:version="0.92.3 (unknown)">
@@ -54,6 +54,37 @@
        y2="290"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.3574389,0,0,1.3574389,-295.60663,-97.982603)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4372"
+       id="linearGradient4637"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98063819,0,0,0.98063819,-516.53881,-336.24591)"
+       x1="533.97046"
+       y1="62.640213"
+       x2="533.97046"
+       y2="69.536903" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4372"
+       id="linearGradient20037"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98063819,0,0,0.98063819,-516.53881,-336.24591)"
+       x1="533.97046"
+       y1="62.640213"
+       x2="533.97046"
+       y2="69.536903" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath871">
+      <rect
+         style="opacity:0.98999999;fill:#bf0361;fill-opacity:1;stroke:none;stroke-width:6.1648283;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect873"
+         width="65.25"
+         height="90.25"
+         x="62.75"
+         y="37.75" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,9 +93,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="44.348413"
-     inkscape:cy="51.622948"
+     inkscape:zoom="1.979899"
+     inkscape:cx="80.881427"
+     inkscape:cy="24.841187"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -138,5 +169,49 @@
        rx="0"
        ry="0"
        transform="scale(-1,1)" />
+    <g
+       id="g4629"
+       transform="translate(0.21723557,-0.15650863)">
+      <circle
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient20037);stroke-width:5.88382959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4368"
+         transform="scale(1,-1)"
+         cx="6.6317096"
+         cy="-272.99435"
+         r="1.4709573" />
+      <circle
+         id="path3596"
+         style="display:inline;opacity:1;fill:#bfd9ff;fill-opacity:1;stroke:none;stroke-width:1.96127641;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="6.6317096"
+         cy="272.99435"
+         r="1.4709573" />
+    </g>
+    <g
+       transform="translate(0.23239687,14.660172)"
+       id="g4635">
+      <circle
+         r="1.4709573"
+         cy="-272.99435"
+         cx="6.6317096"
+         transform="scale(1,-1)"
+         id="circle4631"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4637);stroke-width:5.88382959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="1.4709573"
+         cy="272.99435"
+         cx="6.6317096"
+         style="display:inline;opacity:1;fill:#bfd9ff;fill-opacity:1;stroke:none;stroke-width:1.96127641;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4633" />
+    </g>
+    <image
+       transform="matrix(0.26458333,0,0,0.26458333,2.0916666e-7,263.13332)"
+       y="3.5527137e-15"
+       x="-3.5527137e-15"
+       id="image866"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAABsQAAAbEBYZgoDgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFBSURB VDiNpZOxagJREEXP6hK0WHgRFFJYSIoUIRB7sckXxMoybBuSwg8wv2GadKJVLANp8wMLklKChYTF lcgGsjHGNyl0F0GjLk71Zph75s7AM0SEfcIE6DizD0DF1I4vz5OH5iJRp0dU46hf32kDJGJOXYm9 ASbAz+//Dc+PD1ez6eQkzKOjH1jcdd5eTIDPbwGMtYDpJDi+vbkuhLnWGhFBa02j0SgsABpIbrTq eR6+70cO8vk8IsKSg83R7/dpNpsMBgOKxSK1Wg1Y3MAPtgNc18W2bZRStFqtyMlODsJmx3GwLIt0 Oh3VErsCer0e5XKZSqWC53mICCIyB+yyQi6XI5VKAWBZVvwVSqUSw+GQbrfLaDRaAYyr91/tdeIL cz4tm82ilCIIAmzbjgDGtu9cr9efMpnM2XJf+HZd1/gDVeannRjlk14AAAAASUVORK5CYII= "
+       preserveAspectRatio="none"
+       height="128"
+       width="128"
+       clip-path="url(#clipPath871)" />
   </g>
 </svg>
