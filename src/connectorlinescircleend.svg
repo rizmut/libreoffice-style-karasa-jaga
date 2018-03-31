@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="connectorlinescircleend.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -33,6 +34,26 @@
          offset="1"
          style="stop-color:#aecffc;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient6293"
+       x1="19.99999"
+       y1="3.99999"
+       x2="23.99999"
+       y2="59.999989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.9999886,-39.999997)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient21558"
+       x1="-16"
+       y1="36"
+       x2="-16"
+       y2="-32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(128,87.981623)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284274"
-     inkscape:cx="51.183026"
-     inkscape:cy="44.9827"
+     inkscape:zoom="4.0000004"
+     inkscape:cx="67.503116"
+     inkscape:cy="79.425993"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -52,9 +73,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -80,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,14 +116,6 @@
        height="4"
        x="24"
        y="20" />
-    <rect
-       transform="scale(-1)"
-       y="-40"
-       x="-36"
-       height="36"
-       width="36"
-       id="rect9950-3"
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.98431373;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4.81291389;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 50.140625 20 L 73.71875 108 L 77.859375 108 L 54.28125 20 L 50.140625 20 z "
@@ -115,11 +128,18 @@
        id="rect9400"
        style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.01338601;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
-       transform="scale(-1,1)"
+       id="path910-5"
+       style="opacity:0.98999999;fill:url(#linearGradient21558);fill-opacity:1;stroke:none;stroke-width:7.71822214;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="18.009184"
-       cy="106"
-       cx="-109.98794"
-       id="path910"
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:7.71822214;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       cy="105.99081"
+       cx="109.99081" />
+    <rect
+       style="opacity:0.98999999;fill:url(#linearGradient6293);fill-opacity:1;stroke:none;stroke-width:5.33333158;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9950"
+       width="31.99999"
+       height="31.99999"
+       x="9.0734866e-06"
+       y="-36"
+       transform="scale(1,-1)" />
   </g>
 </svg>

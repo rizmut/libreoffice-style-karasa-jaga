@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="sc_linearrowcircle.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -33,6 +34,16 @@
          offset="1"
          style="stop-color:#aecffc;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       gradientTransform="translate(6.4293975e-6,-47.989589)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient25969"
+       x1="-108"
+       y1="128"
+       x2="-108"
+       y2="60"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -42,7 +53,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142137"
-     inkscape:cx="73.840247"
+     inkscape:cx="-51.671194"
      inkscape:cy="75.842931"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,9 +63,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -80,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,29 +99,25 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g934"
-       transform="matrix(-1,0,0,1,127.9779,0)">
-      <rect
-         transform="scale(-1,1)"
-         y="56"
-         x="-120"
-         height="8"
-         width="120"
-         id="rect858"
-         style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.90243244;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path860"
-         d="M 128,60 95,40 103,60 95,80 Z"
-         style="fill:#4d4d4d;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         r="20.010406"
-         cy="60"
-         cx="19.988308"
-         id="path910"
-         style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:8.57588863;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
+    <rect
+       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.90243244;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect858"
+       width="120"
+       height="8"
+       x="7.9779"
+       y="56" />
+    <circle
+       transform="scale(-1,1)"
+       r="20.010406"
+       cy="60"
+       cx="-107.98959"
+       id="path910-7"
+       style="opacity:0.98999999;fill:url(#linearGradient25969);fill-opacity:1;stroke:none;stroke-width:8.57588863;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:0.99215686;fill-rule:evenodd;stroke:none;stroke-width:1.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -0.0221,60 33,-20 -8,20 8,20 z"
+       id="path860"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>

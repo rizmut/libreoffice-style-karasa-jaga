@@ -13,7 +13,7 @@
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284274"
-     inkscape:cx="76.414827"
-     inkscape:cy="38.099128"
+     inkscape:zoom="2.0000002"
+     inkscape:cx="22.97286"
+     inkscape:cy="82.571495"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -52,9 +52,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -88,12 +88,17 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4.1681056;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect858"
-       width="120.00001"
-       height="4"
-       x="3.9999962"
-       y="60" />
+    <g
+       id="g5269"
+       transform="matrix(1,0,0,-1,-1.387852e-5,127.99999)">
+      <rect
+         transform="rotate(45)"
+         y="-1.9999995"
+         x="10.509664"
+         height="4"
+         width="160.00002"
+         id="rect858"
+         style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:4.81291389;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="sc_connectorcurvecircles.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -33,6 +34,26 @@
          offset="1"
          style="stop-color:#aecffc;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       gradientTransform="translate(4.9706573e-6,4.4277679e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient25969"
+       x1="-108"
+       y1="128"
+       x2="-108"
+       y2="60"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient26205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(87.979192,-87.979183)"
+       x1="-108"
+       y1="128"
+       x2="-108"
+       y2="60" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -42,7 +63,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284273"
-     inkscape:cx="88.569715"
+     inkscape:cx="25.813992"
      inkscape:cy="62.080298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,9 +73,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1">
@@ -79,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,19 +135,19 @@
        x="32"
        y="104" />
     <circle
-       transform="scale(-1,1)"
-       r="20.010406"
-       cy="20.010406"
+       style="opacity:0.98999999;fill:url(#linearGradient26205);fill-opacity:1;stroke:none;stroke-width:8.57588863;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle26203"
        cx="-20.010406"
-       id="path910"
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:8.57588863;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:8.57588863;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle24078"
-       cx="-107.98959"
-       cy="107.98959"
+       cy="20.010406"
        r="20.010406"
        transform="scale(-1,1)" />
+    <circle
+       transform="scale(-1,1)"
+       r="20.010406"
+       cy="107.98959"
+       cx="-107.98959"
+       id="path910-3"
+       style="opacity:0.98999999;fill:url(#linearGradient25969);fill-opacity:1;stroke:none;stroke-width:8.57588863;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path24112"
        d="m 96,16 v 8 c 6.648,0 12,7.136 12,16 v 4 c 0,8.859623 -5.3468,15.992957 -11.990234,16 l 0.01953,7.998047 c 6.173923,-0.01086 11.522653,-3.420826 14.863283,-7.875 C 114.23854,55.661763 116,50.042108 116,44 V 40 C 116,33.957892 114.23854,28.338237 110.89258,23.876953 107.54662,19.41567 102.18641,16 96,16 Z"

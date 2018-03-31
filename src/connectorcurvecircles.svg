@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="connectorcurvecircles.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -33,6 +34,26 @@
          offset="1"
          style="stop-color:#aecffc;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient21558"
+       x1="-16"
+       y1="36"
+       x2="-16"
+       y2="-32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-91.981623,91.990816)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient26517"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.0407715e-7,3.990816)"
+       x1="-16"
+       y1="36"
+       x2="-16"
+       y2="-32" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -42,8 +63,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="22.782923"
-     inkscape:cy="47.785342"
+     inkscape:cx="72.235241"
+     inkscape:cy="50.882582"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -52,9 +73,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -80,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,19 +130,19 @@
        x="24"
        y="20" />
     <circle
-       transform="scale(-1,1)"
-       r="18.009184"
-       cy="22"
        cx="-18.009184"
-       id="path910"
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:7.71822214;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:7.71822214;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle975"
-       cx="-109.99081"
-       cy="110"
+       cy="22"
        r="18.009184"
+       style="opacity:0.98999999;fill:url(#linearGradient26517);fill-opacity:1;stroke:none;stroke-width:7.71822214;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle26515"
        transform="scale(-1,1)" />
+    <circle
+       transform="scale(-1,1)"
+       id="path910-5"
+       style="opacity:0.98999999;fill:url(#linearGradient21558);fill-opacity:1;stroke:none;stroke-width:7.71822214;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="18.009184"
+       cy="110"
+       cx="-109.99081" />
     <path
        style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:0.99215686;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 96,20 v 4 c 6.648,0 12,7.136 12,16 v 8 c 0,8.864 -5.352,16 -12,16 v 4 c 4.75527,0 8.93585,-2.598715 11.69336,-6.275391 C 110.45087,58.047934 112,53.237089 112,48 V 40 C 112,34.762911 110.45087,29.952066 107.69336,26.275391 104.93585,22.598715 100.75527,20 96,20 Z"

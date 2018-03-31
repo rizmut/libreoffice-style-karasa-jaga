@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
@@ -14,13 +15,45 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg1022"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="lc_connectorlinescircles.svg"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_connectorlinescircles.png"
    inkscape:export-xdpi="16.500002"
    inkscape:export-ydpi="16.500002">
   <defs
-     id="defs1016" />
+     id="defs1016">
+    <linearGradient
+       id="linearGradient6330">
+      <stop
+         id="stop6332"
+         offset="0"
+         style="stop-color:#0968ef;stop-opacity:1;" />
+      <stop
+         id="stop6334"
+         offset="1"
+         style="stop-color:#aecffc;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(0,2.0436626e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient44161"
+       x1="-6.1574893"
+       y1="273.90939"
+       x2="-6.1574893"
+       y2="255.43694"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6330"
+       id="linearGradient59912"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-23.097845,23.094454)"
+       x1="-6.1574893"
+       y1="273.90939"
+       x2="-6.1574893"
+       y2="255.43694" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,16 +62,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="52.791675"
+     inkscape:cx="-10.601182"
      inkscape:cy="54.378883"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -55,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,17 +118,17 @@
        style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.71831405;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        transform="scale(-1,1)"
+       id="path910-6"
+       style="opacity:0.98999999;fill:url(#linearGradient44161);fill-opacity:1;stroke:none;stroke-width:2.30760479;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="5.3844109"
-       cy="268.52161"
-       cx="-5.3844109"
-       id="path910"
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:2.30760479;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       cy="268.51773"
+       cx="-5.3844109" />
     <circle
-       style="opacity:0.98999999;fill:#0066ff;fill-opacity:0.99215686;stroke:none;stroke-width:2.30760479;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle20981"
        cx="-28.482256"
        cy="291.61218"
        r="5.3844109"
+       style="opacity:0.98999999;fill:url(#linearGradient59912);fill-opacity:1;stroke:none;stroke-width:2.30760479;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle59910"
        transform="scale(-1,1)" />
   </g>
 </svg>
