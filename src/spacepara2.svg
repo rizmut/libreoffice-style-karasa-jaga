@@ -234,16 +234,14 @@
          offset="1"
          id="stop2403-8" />
     </linearGradient>
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2399-7"
-       id="radialGradient3107"
-       cx="5.1767578"
-       cy="15.755859"
-       fx="5.1767578"
-       fy="15.755859"
-       r="4.1767578"
-       gradientTransform="matrix(4,0,0,14.48679,0.6785774,-164.25181)"
+       id="linearGradient27766"
+       x1="32"
+       y1="-56"
+       x2="32"
+       y2="28"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -253,9 +251,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="122.93662"
-     inkscape:cy="59.949124"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="71.342657"
+     inkscape:cy="62.374534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -297,7 +295,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -347,7 +345,7 @@
        style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:5.74817657;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#radialGradient3107);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.67329991"
+       style="fill:url(#linearGradient27766);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.67329991"
        d="M 21.389515,3.492194 4.6785774,23.54689 l 3.4843752,3.32032 9.8828124,-6.51564 -0.01564,31.14064 v 5.2578 3.7578 l 0.01564,47.14844 -9.8828124,-6.5156 -3.4843752,3.32028 16.7109376,20.04688 16.703125,-20.04688 -3.320313,-3.32028 -10.046874,6.5156 -0.0078,-47.14844 v -9.0156 l 0.0078,-31.14064 10.046874,6.51564 3.320313,-3.32032 z"
        id="path9301" />
   </g>
