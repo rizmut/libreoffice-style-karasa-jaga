@@ -185,7 +185,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3291"
-       id="linearGradient2768"
+       id="linearGradient2793"
        gradientUnits="userSpaceOnUse"
        x1="64"
        y1="83.729706"
@@ -194,7 +194,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3186"
-       id="linearGradient2770"
+       id="linearGradient2795"
        gradientUnits="userSpaceOnUse"
        x1="64"
        y1="24"
@@ -203,7 +203,7 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3283"
-       id="radialGradient2772"
+       id="radialGradient2797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(23,-1e-6,6.1024648e-7,14.035669,-1452,156.4281)"
        cx="66"
@@ -222,7 +222,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
      inkscape:cx="99.037323"
-     inkscape:cy="66.509855"
+     inkscape:cy="109.367"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -258,12 +258,12 @@
      transform="translate(0,-263.13332)">
     <g
        id="g3346"
-       transform="matrix(-0.21003157,-0.21003152,-0.21003152,0.21003157,44.853703,279.8362)"
+       transform="matrix(-0.20128023,-0.20128018,-0.20128018,0.20128023,43.690351,279.8458)"
        mask="url(#mask3495)">
       <g
          id="g3281">
         <rect
-           style="opacity:0.85;fill:none;fill-opacity:1;stroke:url(#linearGradient3357);stroke-width:12.59692322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3238)"
+           style="opacity:0.85;fill:none;fill-opacity:1;stroke:url(#linearGradient3357);stroke-width:12.59692287;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3238)"
            id="rect3224"
            width="28"
            height="84"
@@ -289,13 +289,13 @@
            height="84"
            width="32"
            id="rect3218"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:url(#radialGradient3361);stroke-width:6.73333886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:none;fill-opacity:1;stroke:url(#radialGradient3361);stroke-width:6.73333883;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <g
          transform="translate(0,4)"
          id="g3276">
         <rect
-           style="opacity:0.6;fill:none;fill-opacity:1;stroke:url(#linearGradient2768);stroke-width:13.46667771;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3272)"
+           style="opacity:0.6;fill:none;fill-opacity:1;stroke:url(#linearGradient2793);stroke-width:13.46667767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3272)"
            id="rect3256"
            width="3.8369908"
            height="94.031357"
@@ -304,7 +304,7 @@
            rx="1.5109713"
            ry="2.6081538" />
         <rect
-           style="opacity:1;fill:url(#linearGradient2770);fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:url(#linearGradient2795);fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect3246"
            width="8.8527822"
            height="93.523018"
@@ -320,7 +320,7 @@
            height="92.870979"
            width="8.526763"
            id="rect3250"
-           style="opacity:1;fill:url(#radialGradient2772);fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:url(#radialGradient2797);fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <use
          height="128"
