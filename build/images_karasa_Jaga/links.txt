@@ -37,6 +37,7 @@ cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
 cmd/32/objectforwardone.png cmd/32/forward.png
+cmd/32/ordercrit.png cmd/32/datasort.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
 cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
@@ -256,6 +257,7 @@ cmd/lc_objectmirrorvertical.png cmd/sc_flipvertical.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
 cmd/lc_openfromcalc.png cmd/lc_open.png
 cmd/lc_openfromwriter.png cmd/lc_open.png
+cmd/lc_ordercrit.png cmd/lc_datasort.png
 cmd/lc_outlinedown.png cmd/lc_movedown.png
 cmd/lc_outlineleft.png cmd/lc_incrementlevel.png
 cmd/lc_outlineright.png cmd/lc_decrementlevel.png
@@ -441,6 +443,7 @@ cmd/sc_objectforwardone.png cmd/sc_forward.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
 cmd/sc_openfromcalc.png cmd/sc_open.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
+cmd/sc_ordercrit.png cmd/sc_datasort.png
 cmd/sc_outlinedown.png cmd/sc_movedown.png
 cmd/sc_outlineleft.png cmd/sc_incrementlevel.png
 cmd/sc_outlineright.png cmd/sc_decrementlevel.png
