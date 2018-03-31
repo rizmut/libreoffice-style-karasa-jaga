@@ -14,7 +14,7 @@
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="sc_glueescapedirectionbottom.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -134,11 +134,11 @@
        xlink:href="#linearGradient2399"
        id="linearGradient1552"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.540151,-0.540151,0.48613592,0.48613592,109.29919,95.671562)"
+       gradientTransform="matrix(0.540151,0.540151,0.48613592,-0.48613592,113.29919,30.671584)"
        x1="-21.213205"
        y1="-80.024391"
-       x2="25.455845"
-       y2="-104.6518" />
+       x2="48.161743"
+       y2="-154.92334" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -147,9 +147,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="24.010684"
-     inkscape:cy="-10.373086"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="72.592848"
+     inkscape:cy="44.826738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -157,10 +157,10 @@
      showborder="true"
      inkscape:showpageshadow="false"
      showgrid="true"
-     inkscape:window-width="1364"
-     inkscape:window-height="747"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1">
@@ -225,11 +225,19 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#bf0000;fill-opacity:1;stroke:none;stroke-width:0.74327344"
-       d="M 58.75 68 C 57.226501 68 56 69.226501 56 70.75 L 56 105.25 C 56 105.45196 56.025466 105.64658 56.066406 105.83594 L 56.060547 107.9375 L 44.039062 100.13281 L 40.0625 104.10547 L 60.050781 128.11523 L 80.0625 104.125 L 75.888672 100.14844 L 64.060547 107.94141 L 64.115234 88.144531 L 64 88.144531 L 64 70.75 C 64 69.226501 62.773499 68 61.25 68 L 58.75 68 z "
-       id="rect264" />
+       d="m 62.634766,67.884775 c -1.326544,0 -2.424904,0.93158 -2.6875,2.177734 h -0.002 v 0.0039 c -0.03841,0.183703 -0.06055,0.37292 -0.06055,0.56836 v 2.115234 50.384767 2.11523 c 0,0.19544 0.02214,0.38466 0.06055,0.56836 v 0.004 h 0.002 C 60.209862,127.06842 61.308222,128 62.634766,128 h 2.5 c 1.323068,0 2.421211,-0.92673 2.6875,-2.16797 l 0.123046,-0.006 0.02539,-17.97071 H 68 L 67.986328,97.943368 68,88.029306 h -0.0293 l -0.02539,-17.970703 -0.123046,-0.0059 c -0.266289,-1.241232 -1.364432,-2.167969 -2.6875,-2.167969 z"
+       id="rect264"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="6.1681662"
+       inkscape:original="M 47.029297 41.373047 L 41.373047 47.029297 L 58.34375 64 L 41.373047 80.970703 L 47.029297 86.626953 L 64 69.65625 L 80.970703 86.626953 L 86.626953 80.970703 L 69.65625 64 L 86.626953 47.029297 L 80.970703 41.373047 L 64 58.34375 L 47.029297 41.373047 z "
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.69832772"
+       id="path41994"
+       d="m 46.939453,35.205078 a 6.168783,6.168783 0 0 0 -4.271484,1.806641 l -5.65625,5.65625 a 6.168783,6.168783 0 0 0 0,8.722656 L 49.621094,64 37.011719,76.609375 a 6.168783,6.168783 0 0 0 0,8.722656 l 5.65625,5.65625 a 6.168783,6.168783 0 0 0 8.722656,0 L 64,78.378906 76.609375,90.988281 a 6.168783,6.168783 0 0 0 8.722656,0 l 5.65625,-5.65625 a 6.168783,6.168783 0 0 0 0,-8.722656 L 78.378906,64 90.988281,51.390625 a 6.168783,6.168783 0 0 0 0,-8.722656 l -5.65625,-5.65625 a 6.168783,6.168783 0 0 0 -8.722656,0 L 64,49.621094 51.390625,37.011719 a 6.168783,6.168783 0 0 0 -4.451172,-1.806641 z" />
     <path
        style="fill:url(#linearGradient1552);fill-opacity:1;stroke:none;stroke-width:0.69832772"
-       d="M 76.970564,84.970562 60,68 43.02944,84.970563 37.372584,79.313708 54.343146,62.343146 37.372584,45.372582 43.02944,39.715728 60,56.686291 76.970564,39.715728 l 5.65686,5.656856 -16.970569,16.970562 16.970569,16.97056 z"
+       d="M 80.97056,41.372584 63.999996,58.343146 47.029436,41.372583 41.37258,47.029438 58.343142,64.000001 41.37258,80.970564 47.029436,86.627418 63.999996,69.656855 80.97056,86.627418 86.62742,80.970562 69.656851,64.000001 86.62742,47.02944 Z"
        id="rect248-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
