@@ -108,7 +108,7 @@
        x2="72"
        y2="116.40091"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99956976,0,0,0.91986376,-1.3912989,8.0415955)" />
+       gradientTransform="matrix(0.99956976,0,0,0.75753486,-1.3912989,9.7029786)" />
     <linearGradient
        id="linearGradient4518-3">
       <stop
@@ -447,9 +447,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999995"
-     inkscape:cx="-35.106627"
-     inkscape:cy="-1.7408147"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="-11.465709"
+     inkscape:cy="81.118738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -504,7 +504,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -513,8 +513,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:url(#linearGradient4524-4);fill-opacity:1;stroke-width:0.96600348"
-       d="m 17.4543,17.4561 0,98.9077 h 87.2715 l 0,-98.9077 z"
+       style="fill:url(#linearGradient4524-4);fill-opacity:1;stroke-width:0.87663388"
+       d="m 17.4543,17.4561 v 81.4534 h 87.2715 V 17.4561 Z"
        id="path3967"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
