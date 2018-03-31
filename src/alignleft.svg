@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
@@ -108,7 +107,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="14.533553"
+     inkscape:cx="-46.537876"
      inkscape:cy="74.00926"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -137,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -146,20 +145,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <image
-       y="263.13333"
-       x="-33.866665"
-       id="image4205"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACigAAAooBADmUnAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAC0SURB
-VDiNY2AYBVDAiMyxs7OrZ2BgECHTrDeHDh1qpNxJAwVQgsLe3r6MgcigYGRkXHbgwIELuORZ0BRP
-+vnzJyMuxchARkbmFzHqqA5GUwUcoKeKWgYig+Lfv38LDx8+fI4og6F8olIFAwPDPyLVURdQlCqY
-mJhuHjhwYArVXYUPoLjY2NiYi5eXl4kcgz5//vzv7Nmz32B8lCzNy8ub9e/fP2FyDObl5X3LwMDQ
-Q47eYQ4AUosvHTXJTdsAAAAASUVORK5CYII=
-"
-       preserveAspectRatio="none"
-       height="33.866665"
-       width="33.866665" />
     <rect
        style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.6674521;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2970"
