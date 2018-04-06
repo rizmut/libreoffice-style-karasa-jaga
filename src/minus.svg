@@ -15,11 +15,11 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg26051"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/res/minus.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/res/plus.png"
    inkscape:export-xdpi="6.7500005"
    inkscape:export-ydpi="6.7500005"
    inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="minus.svg">
+   sodipodi:docname="plus.svg">
   <defs
      id="defs26045">
     <linearGradient
@@ -75,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="66.985852"
-     inkscape:cy="45.580676"
+     inkscape:cx="13.857476"
+     inkscape:cy="85.623568"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -86,8 +86,7 @@
      inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:snap-page="false">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid26596"
@@ -124,8 +123,7 @@
        cy="280.06665"
        r="12.832871" />
     <g
-       id="g27206"
-       transform="rotate(-90,16.479696,280.52029)">
+       id="g27206">
       <path
          style="opacity:1;vector-effect:none;fill:#464646;fill-opacity:1;stroke:none;stroke-width:1.75568962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 8.5578693,274.86343 c -0.3839438,0 -0.7677491,0.14721 -1.0619467,0.44141 l -1.1697406,1.16974 c -0.5883952,0.5884 -0.5883952,1.53581 0,2.12421 l 9.404625,9.40463 c 0.330153,0.33015 0.773323,0.47504 1.202686,0.43469 0.429265,0.0403 0.872296,-0.10462 1.202367,-0.43469 l 9.404624,-9.40463 c 0.588396,-0.5884 0.588396,-1.53581 0,-2.12421 l -1.16974,-1.16974 c -0.588394,-0.5884 -1.535818,-0.5884 -2.124213,0 l -7.313038,7.31336 -7.3133572,-7.31336 c -0.2941976,-0.2942 -0.6783228,-0.44141 -1.0622665,-0.44141 z"
@@ -149,17 +147,5 @@
        preserveAspectRatio="none"
        height="33.753273"
        width="33.753273" />
-    <image
-       y="263.13333"
-       x="33.866665"
-       id="image27243"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAMAAADXT/YiAAAAQlBMVEWHlaOCkJ7u8vV8iZbi6e/a
-4+pzgI3k6/Dd5uxrd4Po7vMkLzhhbXjs8fXn7fJZY27z9vjw9PZQWmT4+vv2+fpKVF0vh+1DAAAA
-JklEQVR4AWNigAEmRiYwANPMYACkYQDG+gNnccFZzCgsJkYwYAYASxsB0J30lRYAAAAASUVORK5C
-YII=
-"
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
   </g>
 </svg>
