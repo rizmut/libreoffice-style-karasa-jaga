@@ -12,6 +12,7 @@ cmd/32/cellverttop.png cmd/32/aligntop.png
 cmd/32/closepreview.png cmd/32/closedoc.png
 cmd/32/closewin.png cmd/32/closedoc.png
 cmd/32/dbviewfunctions.png cmd/32/insertformula.png
+cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
 cmd/32/dsbeditdoc.png cmd/32/editdoc.png
 cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
 cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
@@ -200,6 +201,7 @@ cmd/lc_datastreamsplay.png avmedia/res/avl02049.png
 cmd/lc_datastreamsstop.png avmedia/res/avl02051.png
 cmd/lc_dbviewfunctions.png cmd/lc_insertformula.png
 cmd/lc_diagramarea.png cmd/lc_framedialog.png
+cmd/lc_diagramaxisall.png cmd/lc_diagramaxisxyz.png
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/lc_drawtext.png cmd/lc_text.png
@@ -383,6 +385,7 @@ cmd/sc_datastreamsplay.png avmedia/res/av02049.png
 cmd/sc_datastreamsstop.png avmedia/res/av02051.png
 cmd/sc_dbviewfunctions.png cmd/sc_insertformula.png
 cmd/sc_diagramarea.png cmd/sc_framedialog.png
+cmd/sc_diagramaxisall.png cmd/sc_diagramaxisxyz.png
 cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_drawselect.png cmd/sc_selectobject.png
 cmd/sc_drawtext.png cmd/sc_text.png
