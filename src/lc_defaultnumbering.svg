@@ -148,9 +148,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="2.5318082"
-     inkscape:cy="84.494186"
+     inkscape:zoom="1.4"
+     inkscape:cx="110.14259"
+     inkscape:cy="0.7337119"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -161,7 +161,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -178,7 +178,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -241,14 +241,6 @@
            id="tspan5002"
            sodipodi:role="line">2</tspan></text>
     </g>
-    <image
-       y="263.13333"
-       x="-33.866669"
-       id="image861"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHgSURB VDiN7ZO9a1NRGIefk9yb3DQQS2qVi16/oIVGJR1cxElncRDJP6AlCIpCei9Iq3iLg0My6eYoKA7W QUdBEHHQoo3WQdIhsR+KHxG9kdsmOTkObdql1FzMJD7TeXnPeXj58R74zyoCYPtoMZ62+icjyjv2 6EVpG3eOfy8UCpaU8mVgoRD3bNu+oAEYscTDWEQdDckILC0bAJZlLZbL5eGgYimlD6ABfPXVxcUf nGsu10faFzKZjAQ+BRW30QB+5fe9aV1feKv09UZXogAgBEN7DKanVsquRNHGj8fWzl2JAkA05JPX Tz9eJiy/QWdRCCGu2bZ9c1Px1NiuGWCmXXcYhdfJ9F1FAPRfKp06tKNnTKPZelWcP71w68h0Pp/f rZR6H1SolLrtOM6I4KoKpfVKdWs8XNVFK1nzaq1n4/uTSinhum40qNg0TZnNZhsAJM+XEgDDE7OT 6Svv6kFlG6EBVG8M/Dw4MX9Y0xsn5j57dwH+NgoNoM8pDw3u1R7XPFmuzPlnAXK53AfXdXuDik3T lCsTjxbjBwYiz8UWo0f6TW+n2fvgy8n7Z4QQFWApqLiNRjOhVz05G43Wo3okFNa1UB9haXQShVJq 3HGc/EY9scmjP25FKpVqrH79f4Df8CvUx/jR4uYAAAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="33.866669"
-       width="33.866669" />
     <rect
        style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.34253734;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect901"
