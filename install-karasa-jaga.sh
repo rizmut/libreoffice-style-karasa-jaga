@@ -30,7 +30,9 @@ for dir in \
   /usr/lib64/libreoffice/share/config \
   /usr/lib/libreoffice/share/config \
   /usr/local/lib/libreoffice/share/config \
-  /opt/libreoffice*/share/config; do
+  /opt/libreoffice*/share/config \
+  /usr/lib/openoffice/share/config \
+  /opt/openoffice*/share/config; do
   [ -d "$dir" ] || continue
   sudo ln -sf "/usr/share/libreoffice/share/config/images_karasa_Jaga.zip" "$dir"
 done
