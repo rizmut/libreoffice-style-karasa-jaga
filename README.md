@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/bu
 
 ### Extension Based Installation
 
-Since LibreOffice 6.0 there is support for installing icon set as an extension, simply download the extension from following link and open it with LibreOffice or, open __Tools__ → __Extension Manager...__Add__ and browse for local directory where the etension places
+Since LibreOffice 6.0 there is support for installing icon set as an extension, simply download the extension from following link and open it with LibreOffice or, open __Tools__ → __Extension Manager__ ... click __Add__ and browse for local directory where the extension placed
 
 ```
 https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/build/Karasa_Jaga-IconSet.oxt
