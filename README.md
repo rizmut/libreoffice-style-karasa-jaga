@@ -9,21 +9,21 @@ This icon theme for LibreOffice originally created for Sundara OS, heavily inspi
 
 **NOTE:** Go to _Tools_ → _Options_ → _LibreOffice_ → _View_ to enable the theme.
 
-### System Wide Installation
+# System Wide Installation
 ## For *NIX Family 
 
 Use the script to install the latest version directly from this repo (independently on your distro):
 ```
 curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/install-karasa-jaga.sh | sh
 ```
-# Remove
+### Remove
 ```
 curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/remove-karasa-jaga.sh | sh
 ```
 
 ## For Microsoft Windows 
 
-Simply download zipped archive (images_karasa_Jaga.zip) from build directory and copy (with administrator priviledges) to ```C:\Porgram Files\LibreOffice-<version-here>\config\share```
+Simply download zipped archive (```images_karasa_Jaga.zip```) from build directory and copy (with administrator priviledges) to ```C:\Program Files\LibreOffice-<version-here>\config\share```
 
 ```
 https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/build/images_karasa_Jaga.zip
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/bu
 ```
 
 
-### Extension Based Installation
+# Extension Based Installation
 
 Since LibreOffice 6.0 there is support for installing icon set as an extension, simply download the extension from following link and open it with LibreOffice or, open __Tools__ → __Extension Manager__ ... click __Add__ and browse for local directory where the extension placed
 
