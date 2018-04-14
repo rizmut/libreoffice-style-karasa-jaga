@@ -48,10 +48,13 @@ cmd/32/numberliststyle.png cmd/32/defaultnumbering.png
 cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
 cmd/32/objectforwardone.png cmd/32/forward.png
+cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
+cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/ordercrit.png cmd/32/datasort.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
 cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
+cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
 cmd/32/square.png cmd/32/basicshapes.quadrat.png
 cmd/32/square_rounded.png cmd/32/basicshapes.round-quadrat.png
 cmd/32/starshapes.png cmd/32/starshapes.star5.png
@@ -269,8 +272,8 @@ cmd/lc_numberformatdate.png cmd/lc_datefield.png
 cmd/lc_numberliststyle.png cmd/lc_defaultnumbering.png
 cmd/lc_objectbackone.png cmd/lc_backward.png
 cmd/lc_objectforwardone.png cmd/lc_forward.png
-cmd/lc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
-cmd/lc_objectmirrorvertical.png cmd/sc_flipvertical.png
+cmd/lc_objectmirrorhorizontal.png cmd/lc_fliphorizontal.png
+cmd/lc_objectmirrorvertical.png cmd/lc_flipvertical.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
 cmd/lc_openfromcalc.png cmd/lc_open.png
 cmd/lc_openfromwriter.png cmd/lc_open.png
@@ -296,6 +299,7 @@ cmd/lc_savegraphic.png cmd/lc_save.png
 cmd/lc_savesimple.png cmd/lc_save.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
 cmd/lc_shapesmenu.png cmd/lc_basicshapes.rectangle.png
+cmd/lc_sheetcommentmenu.png cmd/lc_insertannotation.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
 cmd/lc_scrolltonext.png cmd/lc_downsearch.png
 cmd/lc_scrolltoprevious.png cmd/lc_upsearch.png
@@ -457,6 +461,8 @@ cmd/sc_numberformattime.png cmd/sc_timefield.png
 cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 cmd/sc_objectbackone.png cmd/sc_backward.png
 cmd/sc_objectforwardone.png cmd/sc_forward.png
+cmd/sc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
+cmd/sc_objectmirrorvertical.png cmd/sc_flipvertical.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
 cmd/sc_openfromcalc.png cmd/sc_open.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
@@ -485,6 +491,7 @@ cmd/sc_scrolltoprevious.png cmd/sc_upsearch.png
 cmd/sc_selectmode.png cmd/sc_selectobject.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
 cmd/sc_shapesmenu.png cmd/sc_basicshapes.rectangle.png
+cmd/sc_sheetcommentmenu.png cmd/sc_insertannotation.png
 cmd/sc_showgraphics.png cmd/sc_graphic.png
 cmd/sc_showsinglepage.png cmd/sc_adddirect.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
