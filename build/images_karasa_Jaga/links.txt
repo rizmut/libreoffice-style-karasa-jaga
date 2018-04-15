@@ -55,6 +55,9 @@ cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
 cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
 cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
+cmd/32/sortdialog.png cmd/32/datasort.png
+cmd/32/sortdown.png cmd/32/sortdescending.png
+cmd/32/sortup.png cmd/32/sortascending.png
 cmd/32/square.png cmd/32/basicshapes.quadrat.png
 cmd/32/square_rounded.png cmd/32/basicshapes.round-quadrat.png
 cmd/32/starshapes.png cmd/32/starshapes.star5.png
@@ -305,6 +308,7 @@ cmd/lc_scrolltonext.png cmd/lc_downsearch.png
 cmd/lc_scrolltoprevious.png cmd/lc_upsearch.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_showgraphics.png cmd/lc_graphic.png
+cmd/lc_sortdialog.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
 cmd/lc_spelldialog.png cmd/lc_spelling.png
@@ -495,6 +499,7 @@ cmd/sc_sheetcommentmenu.png cmd/sc_insertannotation.png
 cmd/sc_showgraphics.png cmd/sc_graphic.png
 cmd/sc_showsinglepage.png cmd/sc_adddirect.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
+cmd/sc_sortdialog.png cmd/sc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
 cmd/sc_spelldialog.png cmd/sc_spelling.png
