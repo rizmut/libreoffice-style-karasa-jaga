@@ -13,7 +13,7 @@ cat <<- EOF
   
 EOF
 echo "=>Remove old extension"
-rm "build/Karasa_Jaga-IconSet.oxt"
+rm -f "build/Karasa_Jaga-IconSet.oxt"
 echo "=>Create the new one"
 cd "build"
 cp "images_karasa_Jaga.zip" \
