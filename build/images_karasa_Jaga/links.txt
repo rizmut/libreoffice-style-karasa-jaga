@@ -50,10 +50,14 @@ cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/ordercrit.png cmd/32/datasort.png
+cmd/32/pageformatdialog.png cmd/32/pagedialog.png
+cmd/32/pagesetup.png cmd/32/setdocumentproperties.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
 cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
 cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
+cmd/32/slidechangewindow.png cmd/32/dia.png
+cmd/32/slidesetup.png cmd/32/pagesetup.png
 cmd/32/sortdialog.png cmd/32/datasort.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
@@ -284,6 +288,7 @@ cmd/lc_outlineleft.png cmd/lc_incrementlevel.png
 cmd/lc_outlineright.png cmd/lc_decrementlevel.png
 cmd/lc_outlineup.png cmd/lc_moveup.png
 cmd/lc_pagedown.png cmd/lc_navigateforward.png
+cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 cmd/lc_pagesetup.png cmd/lc_setdocumentproperties.png
 cmd/lc_pageup.png cmd/lc_navigateback.png
 cmd/lc_pie.png cmd/lc_basicshapes.circle-pie.png
@@ -301,11 +306,12 @@ cmd/lc_savesimple.png cmd/lc_save.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
 cmd/lc_shapesmenu.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_sheetcommentmenu.png cmd/lc_insertannotation.png
+cmd/lc_showgraphics.png cmd/lc_graphic.png
+cmd/lc_slidechangewindow.png cmd/lc_dia.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
 cmd/lc_scrolltonext.png cmd/lc_downsearch.png
 cmd/lc_scrolltoprevious.png cmd/lc_upsearch.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
-cmd/lc_showgraphics.png cmd/lc_graphic.png
 cmd/lc_sortdialog.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
@@ -473,6 +479,7 @@ cmd/sc_outlineleft.png cmd/sc_incrementlevel.png
 cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineup.png cmd/sc_moveup.png
 cmd/sc_pagedown.png cmd/sc_navigateforward.png
+cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 cmd/sc_pagesetup.png cmd/sc_setdocumentproperties.png
 cmd/sc_pageup.png cmd/sc_navigateback.png
 cmd/sc_pie.png cmd/sc_basicshapes.circle-pie.png
@@ -495,6 +502,7 @@ cmd/sc_shapesmenu.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_sheetcommentmenu.png cmd/sc_insertannotation.png
 cmd/sc_showgraphics.png cmd/sc_graphic.png
 cmd/sc_showsinglepage.png cmd/sc_adddirect.png
+cmd/sc_slidechangewindow.png cmd/sc_dia.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
 cmd/sc_sortdialog.png cmd/sc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
@@ -711,6 +719,8 @@ sfx2/res/styfam2.png sw/res/sf02.png
 sfx2/res/styfam4.png sw/res/sf04.png
 sfx2/res/symphony/sidebar-animation-large.png cmd/lc_customanimation.png
 sfx2/res/symphony/sidebar-animation-small.png cmd/sc_customanimation.png
+sfx2/res/symphony/sidebar-colors-large.png cmd/lc_colorsettings.png
+sfx2/res/symphony/sidebar-colors-small.png cmd/sc_colorsettings.png
 sfx2/res/symphony/sidebar-functions-large.png cmd/lc_insertformula.png
 sfx2/res/symphony/sidebar-functions-small.png cmd/sc_insertformula.png
 sfx2/res/symphony/sidebar-gallery-large.png cmd/lc_gallery.png
