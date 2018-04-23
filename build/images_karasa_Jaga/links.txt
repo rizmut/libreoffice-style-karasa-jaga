@@ -13,7 +13,10 @@ cmd/32/cellverttop.png cmd/32/aligntop.png
 cmd/32/circle.png cmd/32/basicshapes.circle.png
 cmd/32/circlepie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/closepreview.png cmd/32/closedoc.png
+cmd/32/dataproviderrefresh.png cmd/32/calculate.png
 cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
+cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
+cmd/32/deletenote.png cmd/32/deleteannotation.png
 cmd/32/dsbeditdoc.png cmd/32/editdoc.png
 cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
 cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
@@ -32,6 +35,7 @@ cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/insertcolumnsbefore.png cmd/32/insertcolumns.png
 cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertfilecontrol.png cmd/32/filecontrol.png
+cmd/32/inputlinevisible.png cmd/32/insertformula.png
 cmd/32/insertobjctrl.png cmd/32/insertobject.png
 cmd/32/insertrowsbefore.png cmd/32/insertrows.png
 cmd/32/linenumberingdialog.png cmd/32/linenumberdialog.png
@@ -51,7 +55,7 @@ cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/ordercrit.png cmd/32/datasort.png
-cmd/32/outputqualitycolor.png cmd/32/insertgraphic.png
+cmd/32/outputqualitycolor.png cmd/32/graphic.png
 cmd/32/pageformatdialog.png cmd/32/pagedialog.png
 cmd/32/pagesetup.png cmd/32/setdocumentproperties.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
@@ -218,8 +222,11 @@ cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
 cmd/lc_commontaskbarvisible.png cmd/lc_autoformat.png
 cmd/lc_connectortoolbox.png cmd/lc_connector.png
 cmd/lc_convertinto3d.png cmd/lc_extrusiontoggle.png
+cmd/lc_dataproviderrefresh.png cmd/lc_calculate.png
 cmd/lc_datastreamsplay.png avmedia/res/avl02049.png
 cmd/lc_datastreamsstop.png avmedia/res/avl02051.png
+cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
+cmd/lc_deletenote.png cmd/lc_deleteannotation.png
 cmd/lc_diagramarea.png cmd/lc_framedialog.png
 cmd/lc_diagramaxisall.png cmd/lc_diagramaxisxyz.png
 cmd/lc_draw.png cmd/lc_reload.png
@@ -256,6 +263,7 @@ cmd/lc_insertcurrencyfield.png cmd/lc_currencyfield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
 cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
 cmd/lc_insertformspin.png cmd/lc_spinbutton.png
+cmd/lc_inputlinevisible.png cmd/lc_insertformula.png
 cmd/lc_insertobjctrl.png cmd/lc_insertobject.png
 cmd/lc_insertrowdialog.png cmd/lc_insertrows.png
 cmd/lc_insertrowsbefore.png cmd/lc_insertrows.png
@@ -290,7 +298,7 @@ cmd/lc_outlinedown.png cmd/lc_movedown.png
 cmd/lc_outlineleft.png cmd/lc_incrementlevel.png
 cmd/lc_outlineright.png cmd/lc_decrementlevel.png
 cmd/lc_outlineup.png cmd/lc_moveup.png
-cmd/lc_outputqualitycolor.png cmd/lc_insertgraphic.png
+cmd/lc_outputqualitycolor.png cmd/lc_graphic.png
 cmd/lc_pagedown.png cmd/lc_navigateforward.png
 cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 cmd/lc_pagesetup.png cmd/lc_setdocumentproperties.png
@@ -410,8 +418,11 @@ cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
 cmd/sc_commontaskbarvisible.png cmd/sc_autoformat.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
 cmd/sc_convertinto3d.png cmd/sc_extrusiontoggle.png
+cmd/sc_dataproviderrefresh.png cmd/sc_calculate.png
 cmd/sc_datastreamsplay.png avmedia/res/av02049.png
 cmd/sc_datastreamsstop.png avmedia/res/av02051.png
+cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
+cmd/sc_deletenote.png cmd/sc_deleteannotation.png
 cmd/sc_diagramarea.png cmd/sc_framedialog.png
 cmd/sc_diagramaxisall.png cmd/sc_diagramaxisxyz.png
 cmd/sc_draw.png cmd/sc_reload.png
@@ -446,6 +457,7 @@ cmd/sc_insertcolumnsleft.png cmd/sc_insertcolumns.png
 cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
 cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
+cmd/sc_inputlinevisible.png cmd/sc_insertformula.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
 cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
@@ -483,7 +495,7 @@ cmd/sc_outlinedown.png cmd/sc_movedown.png
 cmd/sc_outlineleft.png cmd/sc_incrementlevel.png
 cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineup.png cmd/sc_moveup.png
-cmd/sc_outputqualitycolor.png cmd/sc_insertgraphic.png
+cmd/sc_outputqualitycolor.png cmd/sc_graphic.png
 cmd/sc_pagedown.png cmd/sc_navigateforward.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 cmd/sc_pagesetup.png cmd/sc_setdocumentproperties.png
@@ -677,6 +689,7 @@ sc/res/time.png cmd/lc_timefield.png
 sch/res/lc30514.png cmd/lc_viewdatasourcebrowser.png
 sch/res/sc30514.png cmd/sc_viewdatasourcebrowser.png
 sch/res/sc30528.png cmd/sc_diagramtype.png
+sd/res/comments_indicator.png cmd/sc_showannotations.png
 sd/res/lc05928.png cmd/lc_autoformat.png
 sd/res/lc27015.png cmd/lc_importfromfile.png
 sd/res/lc27017.png cmd/lc_zoompanning.png
