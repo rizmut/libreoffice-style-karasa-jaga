@@ -28,6 +28,7 @@ cmd/32/flowchartshapes.flowchart-preparation.png cmd/32/basicshapes.hexagon.png
 cmd/32/flowchartshapes.flowchart-process.png cmd/32/basicshapes.quadrat.png
 cmd/32/functionbox.png cmd/32/insertformula.png
 cmd/32/functiondialog.png cmd/32/insertformula.png
+cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/insertcolumnsbefore.png cmd/32/insertcolumns.png
 cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertfilecontrol.png cmd/32/filecontrol.png
@@ -50,6 +51,7 @@ cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/ordercrit.png cmd/32/datasort.png
+cmd/32/outputqualitycolor.png cmd/32/insertgraphic.png
 cmd/32/pageformatdialog.png cmd/32/pagedialog.png
 cmd/32/pagesetup.png cmd/32/setdocumentproperties.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
@@ -243,6 +245,7 @@ cmd/lc_functiondialog.png cmd/lc_insertformula.png
 cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
 cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
 cmd/lc_graphic.png cmd/lc_insertgraphic.png
+cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertcolumndialog.png cmd/lc_insertcolumns.png
@@ -287,6 +290,7 @@ cmd/lc_outlinedown.png cmd/lc_movedown.png
 cmd/lc_outlineleft.png cmd/lc_incrementlevel.png
 cmd/lc_outlineright.png cmd/lc_decrementlevel.png
 cmd/lc_outlineup.png cmd/lc_moveup.png
+cmd/lc_outputqualitycolor.png cmd/lc_insertgraphic.png
 cmd/lc_pagedown.png cmd/lc_navigateforward.png
 cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 cmd/lc_pagesetup.png cmd/lc_setdocumentproperties.png
@@ -433,6 +437,7 @@ cmd/sc_functiondialog.png cmd/sc_insertformula.png
 cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_graphicdialog.png cmd/sc_graphic.png
+cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertcolumndialog.png cmd/sc_insertcolumns.png
@@ -478,6 +483,7 @@ cmd/sc_outlinedown.png cmd/sc_movedown.png
 cmd/sc_outlineleft.png cmd/sc_incrementlevel.png
 cmd/sc_outlineright.png cmd/sc_decrementlevel.png
 cmd/sc_outlineup.png cmd/sc_moveup.png
+cmd/sc_outputqualitycolor.png cmd/sc_insertgraphic.png
 cmd/sc_pagedown.png cmd/sc_navigateforward.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 cmd/sc_pagesetup.png cmd/sc_setdocumentproperties.png
