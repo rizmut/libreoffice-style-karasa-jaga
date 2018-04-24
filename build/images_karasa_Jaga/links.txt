@@ -13,6 +13,7 @@ cmd/32/cellverttop.png cmd/32/aligntop.png
 cmd/32/circle.png cmd/32/basicshapes.circle.png
 cmd/32/circlepie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/closepreview.png cmd/32/closedoc.png
+cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
 cmd/32/dataproviderrefresh.png cmd/32/calculate.png
 cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
 cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
@@ -35,8 +36,10 @@ cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/insertcolumnsbefore.png cmd/32/insertcolumns.png
 cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertfilecontrol.png cmd/32/filecontrol.png
+cmd/32/insobjctrl.png cmd/32/newdoc.png
 cmd/32/inputlinevisible.png cmd/32/insertformula.png
 cmd/32/insertobjctrl.png cmd/32/insertobject.png
+cmd/32/insertobjectchartfromfile.png cmd/32/open.png
 cmd/32/insertrowsbefore.png cmd/32/insertrows.png
 cmd/32/linenumberingdialog.png cmd/32/linenumberdialog.png
 cmd/32/mailmergefirstentry.png cmd/32/firstrecord.png
@@ -62,6 +65,8 @@ cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/recalcpivottable.png cmd/32/calculate.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
 cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
+cmd/32/selectmode.png cmd/32/selectobject.png
+cmd/32/setdefault.png cmd/32/resetattributes.png
 cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
 cmd/32/slidechangewindow.png cmd/32/dia.png
 cmd/32/slidesetup.png cmd/32/pagesetup.png
@@ -223,6 +228,7 @@ cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
 cmd/lc_commontaskbarvisible.png cmd/lc_autoformat.png
 cmd/lc_connectortoolbox.png cmd/lc_connector.png
 cmd/lc_convertinto3d.png cmd/lc_extrusiontoggle.png
+cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
 cmd/lc_dataproviderrefresh.png cmd/lc_calculate.png
 cmd/lc_datastreamsplay.png avmedia/res/avl02049.png
 cmd/lc_datastreamsstop.png avmedia/res/avl02051.png
@@ -266,11 +272,13 @@ cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
 cmd/lc_insertformspin.png cmd/lc_spinbutton.png
 cmd/lc_inputlinevisible.png cmd/lc_insertformula.png
 cmd/lc_insertobjctrl.png cmd/lc_insertobject.png
+cmd/lc_insertobjectchartfromfile.png cmd/lc_open.png
 cmd/lc_insertrowdialog.png cmd/lc_insertrows.png
 cmd/lc_insertrowsbefore.png cmd/lc_insertrows.png
 cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
-cmd/lc_inserttoolbox.png cmd/lc_drawchart.png
+cmd/lc_inserttoolbox.png cmd/lc_drawchart.png\
+cmd/lc_insobjctrl.png cmd/lc_newdoc.png
 cmd/lc_justifypara.png cmd/lc_alignblock.png
 cmd/lc_leftpara.png cmd/lc_alignleft.png
 cmd/lc_linenumberingdialog.png cmd/lc_linenumberdialog.png
@@ -317,15 +325,16 @@ cmd/lc_rowoperations.png cmd/lc_entirerow.png
 cmd/lc_savebasicas.png cmd/lc_saveas.png
 cmd/lc_savegraphic.png cmd/lc_save.png
 cmd/lc_savesimple.png cmd/lc_save.png
+cmd/lc_scrolltonext.png cmd/lc_downsearch.png
+cmd/lc_scrolltoprevious.png cmd/lc_upsearch.png
+cmd/lc_selectmode.png cmd/lc_selectobject.png
+cmd/lc_setdefault.png cmd/lc_resetattributes.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
 cmd/lc_shapesmenu.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_sheetcommentmenu.png cmd/lc_insertannotation.png
 cmd/lc_showgraphics.png cmd/lc_graphic.png
 cmd/lc_slidechangewindow.png cmd/lc_dia.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
-cmd/lc_scrolltonext.png cmd/lc_downsearch.png
-cmd/lc_scrolltoprevious.png cmd/lc_upsearch.png
-cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_sortdialog.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
@@ -420,6 +429,7 @@ cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
 cmd/sc_commontaskbarvisible.png cmd/sc_autoformat.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
 cmd/sc_convertinto3d.png cmd/sc_extrusiontoggle.png
+cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
 cmd/sc_dataproviderrefresh.png cmd/sc_calculate.png
 cmd/sc_datastreamsplay.png avmedia/res/av02049.png
 cmd/sc_datastreamsstop.png avmedia/res/av02051.png
@@ -458,6 +468,7 @@ cmd/sc_insertcolumnsbefore.png cmd/sc_insertcolumns.png
 cmd/sc_insertcolumnsleft.png cmd/sc_insertcolumns.png
 cmd/sc_insertcolumnsmenu.png cmd/sc_insertcolumns.png
 cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
+cmd/sc_insertobjectchartfromfile.png cmd/sc_open.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
 cmd/sc_inputlinevisible.png cmd/sc_insertformula.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
@@ -469,6 +480,7 @@ cmd/sc_insertrowsbefore.png cmd/sc_insertrows.png
 cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
+cmd/sc_insobjctrl.png cmd/sc_newdoc.png
 cmd/sc_justifypara.png cmd/sc_alignblock.png
 cmd/sc_leftpara.png cmd/sc_alignleft.png
 cmd/sc_linenumberingdialog.png cmd/sc_linenumberdialog.png
@@ -518,6 +530,7 @@ cmd/sc_savesimple.png cmd/sc_save.png
 cmd/sc_scrolltonext.png cmd/sc_downsearch.png
 cmd/sc_scrolltoprevious.png cmd/sc_upsearch.png
 cmd/sc_selectmode.png cmd/sc_selectobject.png
+cmd/sc_setdefault.png cmd/sc_resetattributes.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
 cmd/sc_shapesmenu.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_sheetcommentmenu.png cmd/sc_insertannotation.png
@@ -599,6 +612,10 @@ desktop/res/extension_16.png cmd/sc_addons.png
 extensions/source/scanner/minus.png sfx2/res/minus.png
 extensions/source/scanner/plus.png sfx2/res/plus.png
 formula/res/fx.png cmd/sc_insertformula.png
+framework/res/addtemplate_32.png cmd/32/newdoc.png
+framework/res/arrow.png cmd/sc_nextrecord.png
+framework/res/extension.png cmd/lc_insertplugin.png
+framework/res/info_26.png cmd/lc_helpindex.png
 fpicker/res/fp011.png res/sc06303.png
 fpicker/res/fp014.png res/newdoc.png
 reportdesign/res/sc30768.png cmd/sc_upsearch.png
