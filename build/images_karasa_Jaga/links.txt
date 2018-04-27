@@ -68,6 +68,7 @@ cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
 cmd/32/selectmode.png cmd/32/selectobject.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
 cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
+cmd/32/showruler.png cmd/32/ruler.png
 cmd/32/slidechangewindow.png cmd/32/dia.png
 cmd/32/slidesetup.png cmd/32/pagesetup.png
 cmd/32/sortdialog.png cmd/32/datasort.png
@@ -77,7 +78,6 @@ cmd/32/square.png cmd/32/basicshapes.quadrat.png
 cmd/32/square_rounded.png cmd/32/basicshapes.round-quadrat.png
 cmd/32/starshapes.png cmd/32/starshapes.star5.png
 cmd/32/symbolshapes.png cmd/32/symbolshapes.smiley.png
-cmd/32/trackchangesbar.png cmd/32/trackchanges.png
 cmd/32/wrapmenu.png cmd/32/wrapon.png
 cmd/ar/lc_bold.png cmd/lc_bold.png
 cmd/ar/lc_italic.png cmd/lc_italic.png
@@ -333,6 +333,7 @@ cmd/lc_shapeslinemenu.png cmd/lc_line.png
 cmd/lc_shapesmenu.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_sheetcommentmenu.png cmd/lc_insertannotation.png
 cmd/lc_showgraphics.png cmd/lc_graphic.png
+cmd/lc_showruler.png cmd/lc_ruler.png
 cmd/lc_slidechangewindow.png cmd/lc_dia.png
 cmd/lc_slidesetup.png cmd/lc_pagesetup.png
 cmd/lc_sortdialog.png cmd/lc_datasort.png
@@ -345,7 +346,7 @@ cmd/lc_square_rounded.png cmd/lc_basicshapes.round-quadrat.png
 cmd/lc_starshapes.png cmd/lc_starshapes.star5.png
 cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
-cmd/lc_trackchangesbar.png cmd/lc_trackchanges.png
+cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/lc_textalign.png cmd/lc_alignblock.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
@@ -536,6 +537,7 @@ cmd/sc_shapesmenu.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_sheetcommentmenu.png cmd/sc_insertannotation.png
 cmd/sc_showgraphics.png cmd/sc_graphic.png
 cmd/sc_showsinglepage.png cmd/sc_adddirect.png
+cmd/sc_showruler.png cmd/sc_ruler.png
 cmd/sc_slidechangewindow.png cmd/sc_dia.png
 cmd/sc_slidesetup.png cmd/sc_pagesetup.png
 cmd/sc_sortdialog.png cmd/sc_datasort.png
@@ -553,7 +555,7 @@ cmd/sc_textalign.png cmd/sc_alignblock.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
-cmd/sc_trackchangesbar.png cmd/sc_trackchanges.png
+cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 cmd/sc_underlinesimple.png cmd/sc_underline.png
 cmd/sc_updateall.png cmd/sc_reload.png
 cmd/sc_updatecurindex.png cmd/sc_reload.png
