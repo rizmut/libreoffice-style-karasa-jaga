@@ -70,7 +70,7 @@ cmd/32/setdefault.png cmd/32/resetattributes.png
 cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
 cmd/32/showruler.png cmd/32/ruler.png
 cmd/32/slidechangewindow.png cmd/32/dia.png
-cmd/32/slidesetup.png cmd/32/pagesetup.png
+cmd/32/slidesetup.png cmd/32/pagedialog.png
 cmd/32/sortdialog.png cmd/32/datasort.png
 cmd/32/sortdown.png cmd/32/sortdescending.png
 cmd/32/sortup.png cmd/32/sortascending.png
@@ -335,7 +335,7 @@ cmd/lc_sheetcommentmenu.png cmd/lc_insertannotation.png
 cmd/lc_showgraphics.png cmd/lc_graphic.png
 cmd/lc_showruler.png cmd/lc_ruler.png
 cmd/lc_slidechangewindow.png cmd/lc_dia.png
-cmd/lc_slidesetup.png cmd/lc_pagesetup.png
+cmd/lc_slidesetup.png cmd/lc_pagedialog.png
 cmd/lc_sortdialog.png cmd/lc_datasort.png
 cmd/lc_sortdown.png cmd/lc_sortdescending.png
 cmd/lc_sortup.png cmd/lc_sortascending.png
@@ -539,7 +539,7 @@ cmd/sc_showgraphics.png cmd/sc_graphic.png
 cmd/sc_showsinglepage.png cmd/sc_adddirect.png
 cmd/sc_showruler.png cmd/sc_ruler.png
 cmd/sc_slidechangewindow.png cmd/sc_dia.png
-cmd/sc_slidesetup.png cmd/sc_pagesetup.png
+cmd/sc_slidesetup.png cmd/sc_pagedialog.png
 cmd/sc_sortdialog.png cmd/sc_datasort.png
 cmd/sc_sortdown.png cmd/sc_sortdescending.png
 cmd/sc_sortup.png cmd/sc_sortascending.png
