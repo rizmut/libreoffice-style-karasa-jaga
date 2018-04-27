@@ -19,4 +19,9 @@
     <extension-description>
        <src xlink:href="pkg-desc/pkg-description.txt" />
     </extension-description>
+    <registration>
+        <simple-license accept-by="admin">
+            <license-text xlink:href="registration/license.txt" lang="en" />
+        </simple-license>
+</registration>
 </description>
