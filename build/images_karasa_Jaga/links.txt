@@ -60,6 +60,7 @@ cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/ordercrit.png cmd/32/datasort.png
 cmd/32/outputqualitycolor.png cmd/32/graphic.png
 cmd/32/pageformatdialog.png cmd/32/pagedialog.png
+cmd/32/pagesetup.png cmd/32/pagedialog.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/recalcpivottable.png cmd/32/calculate.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
@@ -309,6 +310,7 @@ cmd/lc_outlineup.png cmd/lc_moveup.png
 cmd/lc_outputqualitycolor.png cmd/lc_graphic.png
 cmd/lc_pagedown.png cmd/lc_navigateforward.png
 cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
+cmd/lc_pagesetup.png cmd/lc_pagedialog.png
 cmd/lc_pageup.png cmd/lc_navigateback.png
 cmd/lc_pie.png cmd/lc_basicshapes.circle-pie.png
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
@@ -511,6 +513,7 @@ cmd/sc_outlineup.png cmd/sc_moveup.png
 cmd/sc_outputqualitycolor.png cmd/sc_graphic.png
 cmd/sc_pagedown.png cmd/sc_navigateforward.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
+cmd/sc_pagesetup.png cmd/sc_pagedialog.png
 cmd/sc_pageup.png cmd/sc_navigateback.png
 cmd/sc_pie.png cmd/sc_basicshapes.circle-pie.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
