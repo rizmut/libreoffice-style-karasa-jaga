@@ -96,6 +96,7 @@ cmd/32/insertlistbox.png cmd/32/listbox.png
 cmd/32/insertnumericfield.png cmd/32/numericfield.png
 cmd/32/insertobjctrl.png cmd/32/insertobject.png
 cmd/32/insertobjectchartfromfile.png cmd/32/open.png
+cmd/32/insertobjectstarmath.png cmd/32/insertmath.png
 cmd/32/insertpatternfield.png cmd/32/patternfield.png
 cmd/32/insertplugin.png cmd/32/addons.png
 cmd/32/insertrowdialog.png cmd/32/insertrows.png
@@ -283,6 +284,7 @@ cmd/lc_insertlistbox.png cmd/lc_listbox.png
 cmd/lc_insertnumericfield.png cmd/lc_numericfield.png
 cmd/lc_insertobjctrl.png cmd/lc_insertobject.png
 cmd/lc_insertobjectchartfromfile.png cmd/lc_open.png
+cmd/lc_insertobjectstarmath.png cmd/lc_insertmath.png
 cmd/lc_insertpatternfield.png cmd/lc_patternfield.png
 cmd/lc_insertplugin.png cmd/lc_addons.png
 cmd/lc_insertrowdialog.png cmd/lc_insertrows.png
@@ -470,6 +472,7 @@ cmd/sc_insertlistbox.png cmd/sc_listbox.png
 cmd/sc_insertnumericfield.png cmd/sc_numericfield.png
 cmd/sc_insertobjctrl.png cmd/sc_insertobject.png
 cmd/sc_insertobjectchartfromfile.png cmd/sc_open.png
+cmd/sc_insertobjectstarmath.png cmd/sc_insertmath.png
 cmd/sc_insertpatternfield.png cmd/sc_patternfield.png
 cmd/sc_insertplugin.png cmd/sc_addons.png
 cmd/sc_insertrowdialog.png cmd/sc_insertrows.png
