@@ -14,7 +14,7 @@
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="diagramwall.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -586,9 +586,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="21.651686"
-     inkscape:cy="32.460965"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="51.398799"
+     inkscape:cy="61.20106"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -597,9 +597,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      objecttolerance="8"
@@ -629,7 +629,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -638,32 +638,24 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#a4c0e4;fill-opacity:0.3602941;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4, 16;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#a4c0e4;fill-opacity:0.36029418;stroke:none;stroke-width:3.42857146;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.42857143, 13.71428571;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16866"
-       width="112"
-       height="112"
-       x="8"
+       width="96"
+       height="96"
+       x="24"
        y="8" />
     <path
        style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.84046185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 25.99395,5.8199002 28.048832,11.638 32.1586,23.2742 h -4.109768 v 93.0896 H 23.939068 V 23.2742 H 19.8293 L 23.939068,11.638 Z"
+       d="m 13.99395,5.8653902 2.054882,5.8180998 4.109768,11.6362 h -4.109768 v 93.0896 H 11.939068 V 23.31969 H 7.8293 l 4.109768,-11.6362 z"
        id="path3447"
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cccccccccc"
        id="path3693"
-       d="m 133.8163,113.97727 -5.87868,2.02274 -11.75737,4.04547 v -4.04547 H 28 v -4.0455 h 88.18025 v -4.04546 l 11.75737,4.04546 z"
+       d="m 121.8163,114.02276 -5.87868,2.02274 -11.75737,4.04547 V 116.0455 H 16 V 112 h 88.18025 v -4.04546 L 115.93762,112 Z"
        style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.83819228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
-    <image
-       y="-11.6344"
-       x="-168.7249"
-       id="image934"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJGSURB VDiN7ZC/axRBGIaf2dnL3loICfE8CfhPpLOyS6GksBQlVYgkbYSUucYUSWltK0gwjf4B1krKdKeI EFHMwWbn187s7lhcIiLxYuBK32rm5f2eeecTALeexshY777uirtMQclF5vLy8uulpaW5qYNjjHek lDNTB09D6VUHvuzubgu4f3Y9WtjcXBFCxD9zV27snVu7ubq62F9fXwzweDgY3Lgod+XG3jmSbhch JU3T/DV3dbC1NNaSdDp4YwjG8O3584GAewACjuY3NlYmgj/v7GwjxHifMR7d3tpaeb+xQa01cmYG 5xxWKZxST3oPH/aElHx/9WpxuLe3ORFstV5bePSoL5KE45cvF4eDwaZ3jrooaISgKkvQGqsUSZaB EFTOIapq8ipcWSKkHJ+dI4aAtxZ7fEya53hrccA1pQinp7TeY4oC6noy2GiNH42IIWCLgrptqZyj 0RrRtnjnoKqwWYYeDhFC4MqSumkmg61S6E+fkJ0ORil8jHhrCUpB01BZi7eWNMuoRiPSLMMphWvb y8F1WcLZQBLjuLExJOeNAaPU+Bd1jVUKcRnYKEWsa2KaYrWGGPHOjb2mwTuHD4Fup/MrZ7SGf2hc HB4c9IWUqNHI58YYn6bFh/39fiIlpii8DcHEbrc4PDjoCSnRJye+a4z5K1hK+eLt/PwoD+GQpsHP zgbV77/JQxh7bYvv9YLKsjd5CD/yEMrz3GhubuYc/AxARD4CJEnyIEmSjolRmPS3t2PEpCmXedfz XE3axH9NRz8BO95nSJ/SXpsAAAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="136.25806"
-       width="136.25806" />
     <g
        id="g7776"
        transform="matrix(-2.0539925,0,0,2.0539925,127.91386,-544.20693)">
