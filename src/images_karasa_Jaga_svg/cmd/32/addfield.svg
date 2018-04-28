@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -385,8 +385,8 @@
      showgrid="true"
      inkscape:snap-page="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="26.072819"
-     inkscape:cy="103.37982"
+     inkscape:cx="-35.302992"
+     inkscape:cy="95.927891"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -411,26 +411,18 @@
      d="m 3.9999999,19.741946 v 4 16 4 16 4 16 4 15.999996 3.999998 h 4 H 28 h 4 28 4 28 4 20 4 v -3.999998 -15.999996 -4 -16 -4 -16 -4 -16 -4 H 116 96 92 64 60 32 28 7.9999999 Z m 4,4 H 28 v 16 H 7.9999999 Z m 24.0000001,0 h 28 v 16 H 32 Z m 32,0 h 28 v 16 H 64 Z m 32,0 h 20 v 16 H 96 Z m -88.0000001,20 H 28 v 16 H 7.9999999 Z m 24.0000001,0 h 28 v 16 H 32 Z m 32,0 h 28 v 16 H 64 Z m 32,0 h 20 v 16 H 96 Z m -88.0000001,20 H 28 v 16 H 7.9999999 Z m 24.0000001,0 h 28 v 16 H 32 Z m 32,0 h 28 v 16 H 64 Z m 32,0 h 20 v 16 H 96 Z m -88.0000001,20 H 28 V 99.741942 H 7.9999999 Z M 32,83.741946 H 60 V 99.741942 H 32 Z m 32,0 H 92 V 99.741942 H 64 Z m 32,0 h 20 V 99.741942 H 96 Z"
      id="rect3956" />
   <rect
-     style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.8579998;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
+     style="opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.26221037;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      id="rect7563"
-     width="40"
-     height="30"
-     x="25.129028"
-     y="35.612915" />
+     width="44"
+     height="32"
+     x="24"
+     y="35.741947" />
   <path
      sodipodi:nodetypes="cccccccccccccccccc"
      inkscape:connector-curvature="0"
      id="path7547"
      d="m 28.000122,39.742066 v 4 16 4 h 4 28 4 v -4 -16 -4 h -4 -28 z m 4,4 h 28 v 16 h -28 z"
      style="fill:#1a508f;fill-opacity:1;stroke:none" />
-  <image
-     y="3.1312027"
-     x="-177.49089"
-     id="image7538"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFwSURB VDiN1ZW9SsRAFIXPbEbRR9hOMauICAYVC8HCVrGwSyUWIti7Wmi1CivbLoJYiC8gRLQVlJUgCklj l9dYdgbMjMU6YxJnf5opvDDFuefyzXC4JERKCRtVskIFQOM4tvPkMAxlmgp9inoYz8SgnHMIIfRF RZ2tXp6J8QPupuE4JZTLZRBCjGDlpWkenmUoTYIg0B3XdTG3f9c3us+rbSRJ0ncGQPfFG5tbAIAR 6gAA1g5OjMMvl2eoVKYxMTmV6z8+3GuG0rmMpRy8fVLKPzkbM2aM6XzEEIsnJHJ5AkCWoTRpNpu6 43keVo+e+oJfL9YRRdHAB1DOOXZ29wAA42OjeD7/wtLyinH44/0NC94iZmbnc/3bm2vNULrEGIOQ AkIKtDsMrVYL7Q4zHuWpeXWyDKWpaQeLGQ7yjHtcrVatfCso5xyHx6e60ajXcjpbvbxiv1GvqXX7 3cGizlYvz8Swl7Hv+1YyJv/u12QN/A2ld4bbWx3iRgAAAABJRU5ErkJggg== "
-     preserveAspectRatio="none"
-     height="136.25806"
-     width="136.25806" />
   <rect
      style="opacity:0.85;fill:#3ea6ff;fill-opacity:1;stroke:none;stroke-width:4.8579998;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      id="rect7568"
