@@ -93,6 +93,7 @@ cmd/32/insertformspin.png cmd/32/spinbutton.png
 cmd/32/insertformvscroll.png cmd/32/scrollbar.png
 cmd/32/insertframeinteract.png cmd/32/insertframe.png
 cmd/32/insertframeinteractnocolumns.png cmd/32/insertframe.png
+cmd/32/insertimagecontrol.png cmd/32/imagecontrol.png
 cmd/32/insertlistbox.png cmd/32/listbox.png
 cmd/32/insertnumericfield.png cmd/32/numericfield.png
 cmd/32/insertobjctrl.png cmd/32/insertobject.png
@@ -283,6 +284,7 @@ cmd/lc_insertformspin.png cmd/lc_spinbutton.png
 cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
 cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
+cmd/lc_insertimagecontrol.png cmd/lc_imagecontrol.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
 cmd/lc_insertnumericfield.png cmd/lc_numericfield.png
 cmd/lc_insertobjctrl.png cmd/lc_insertobject.png
@@ -473,6 +475,7 @@ cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
 cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
+cmd/sc_insertimagecontrol.png cmd/sc_imagecontrol.png
 cmd/sc_insertlistbox.png cmd/sc_listbox.png
 cmd/sc_insertnumericfield.png cmd/sc_numericfield.png
 cmd/sc_insertobjctrl.png cmd/sc_insertobject.png
