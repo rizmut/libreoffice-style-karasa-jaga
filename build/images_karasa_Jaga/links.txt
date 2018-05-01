@@ -808,7 +808,7 @@ svx/res/cd021.png cmd/sc_redo.png
 svx/res/cd026.png cmd/sc_bmpmask.png
 svx/res/cd05.png cmd/sc_selectobject.png
 svx/res/cd06.png cmd/sc_basicshapes.rectangle.png
-svx/res/cd07.png cmd/sc_basicshapes.circle.png
+svx/res/cd07.png cmd/sc_basicshapes.ellipse.png
 svx/res/cd08.png cmd/sc_polygon.png
 svx/res/colordlg.png cmd/sc_colorsettings.png
 svx/res/fill_color.png cmd/sc_fillcolor.png
@@ -838,7 +838,7 @@ svx/res/id04.png cmd/sc_selectobject.png
 svx/res/id040.png cmd/sc_undo.png
 svx/res/id041.png cmd/sc_redo.png
 svx/res/id05.png cmd/sc_basicshapes.rectangle.png
-svx/res/id06.png cmd/sc_basicshapes.circle.png
+svx/res/id06.png cmd/sc_basicshapes.ellipse.png
 svx/res/id07.png cmd/sc_polygon.png
 svx/res/nu01.png cmd/sc_ok.png
 svx/res/nu02.png cmd/sc_delete.png
