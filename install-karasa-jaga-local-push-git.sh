@@ -19,6 +19,16 @@ cd "build/images_karasa_Jaga"
 zip -r -D images_karasa_Jaga.zip *
 cp -R "images_karasa_Jaga.zip" \
   "./.."
+cd "./.."
+echo "=> Deleting old $gh_desc extension file ..."
+rm -f "build/Karasa_Jaga-IconSet.oxt"
+echo "=> Create new $gh_desc extension one ..."
+cp "images_karasa_Jaga.zip" \
+   "Karasa_Jaga-IconSet/iconsets"
+cd "./Karasa_Jaga-IconSet"
+zip -r -D Karasa_Jaga-IconSet.oxt *
+mv "Karasa_Jaga-IconSet.oxt" \
+   "./.."
 cd "./../.."
 echo "=> Deleting old $gh_desc ..."
 sudo rm -f "/usr/share/libreoffice/share/config/images_karasa_Jaga.zip"
