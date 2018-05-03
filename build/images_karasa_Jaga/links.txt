@@ -752,8 +752,9 @@ sc/res/lc26050.png cmd/lc_cancel.png
 sc/res/lc26051.png cmd/lc_ok.png
 sc/res/na05.png cmd/sc_upsearch.png
 sc/res/na06.png cmd/sc_downsearch.png
+sc/res/nc04.png cmd/sc_graphic.png
 sc/res/nc05.png cmd/sc_drawchart.png
-sc/res/nc08.png sc/res/nc04.png
+sc/res/nc08.png cmd/sc_graphic.png
 sc/res/page.png sd/res/page.png
 sc/res/sc26047.png cmd/sc_insertformula.png
 sc/res/sc26048.png cmd/sc_autosum.png
