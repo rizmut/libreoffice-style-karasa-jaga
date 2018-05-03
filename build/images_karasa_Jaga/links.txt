@@ -19,6 +19,8 @@ cmd/32/arrangeframemenu.png cmd/32/bringtofront.png
 cmd/32/arrangemenu.png cmd/32/bringtofront.png
 cmd/32/arrowshapes.png cmd/32/arrowshapes.left-right-arrow.png
 cmd/32/arrowstoolbox.png cmd/32/linearrowend.png
+cmd/32/autofilter.png cmd/32/datafilterautofilter.png
+cmd/32/autopilotmenu.png cmd/32/autoformat.png
 cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
 cmd/32/browsebackward.png cmd/32/navigateback.png
 cmd/32/browseforward.png cmd/32/navigateforward.png
@@ -207,6 +209,8 @@ cmd/lc_arrangeframemenu.png cmd/lc_bringtofront.png
 cmd/lc_arrangemenu.png cmd/lc_bringtofront.png
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
 cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
+cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
+cmd/lc_autopilotmenu.png cmd/lc_autoformat.png
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_browsebackward.png cmd/lc_navigateback.png
 cmd/lc_browseforward.png cmd/lc_navigateforward.png
@@ -395,6 +399,8 @@ cmd/sc_arrangeframemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrangemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
+cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
+cmd/sc_autopilotmenu.png cmd/sc_autoformat.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_browsebackward.png cmd/sc_navigateback.png
 cmd/sc_browseforward.png cmd/sc_navigateforward.png
@@ -609,7 +615,7 @@ res/lc05711.png cmd/lc_copy.png
 res/lc05961.png cmd/lc_searchdialog.png
 res/lc06300.png cmd/lc_navigateforward.png
 res/lc06301.png cmd/lc_navigateback.png
-res/lc10716.png cmd/lc_autofilter.png
+res/lc10716.png cmd/lc_datafilterautofilter.png
 res/lc10711.png cmd/lc_removefilter.png
 res/lc10851.png cmd/lc_inserthyperlink.png
 res/lc10853.png cmd/lc_searchdialog.png
@@ -636,7 +642,7 @@ res/sc06301.png cmd/sc_navigateback.png
 res/sc10711.png cmd/sc_removefilter.png
 res/sc10712.png cmd/sc_sortdescending.png
 res/sc10713.png cmd/sc_sortascending.png
-res/sc10716.png cmd/sc_autofilter.png
+res/sc10716.png cmd/sc_datafilterautofilter.png
 res/sc10851.png cmd/sc_inserthyperlink.png
 res/sc10853.png cmd/sc_searchdialog.png
 res/sc10854.png res/target.png
