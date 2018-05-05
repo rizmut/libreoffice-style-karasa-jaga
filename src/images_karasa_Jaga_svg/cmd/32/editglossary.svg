@@ -14,7 +14,7 @@
    height="128"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="editglossary.svg"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/editglossary.png"
@@ -770,8 +770,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.41567"
-     inkscape:cx="86.306244"
-     inkscape:cy="3.2080847"
+     inkscape:cx="-64.858929"
+     inkscape:cy="31.463257"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
@@ -782,7 +782,7 @@
      inkscape:window-width="1106"
      inkscape:window-height="689"
      inkscape:window-x="258"
-     inkscape:window-y="26"
+     inkscape:window-y="15"
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="horizontal"
@@ -805,7 +805,7 @@
             <dc:title>Oxygen team</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
@@ -1425,6 +1425,6 @@
          id="tspan1077"
          x="7.4603119"
          y="52.058296"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:1.56816471px">ABC</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:1.56816471px;font-size:60px">ABC</tspan></text>
   </g>
 </svg>
