@@ -644,8 +644,8 @@ cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoom.png
 dbaccess/res/all_left.png cmd/sc_firstrecord.png
 dbaccess/res/all_right.png cmd/sc_lastrecord.png
-dbaccess/res/sc021.png dbaccess/res/queryeditdesign_sc.png
-dbaccess/res/sc023.png dbaccess/res/queryeditsql_sc.png
+dbaccess/res/sc021.png cmd/sc_dbqueryedit.png
+dbaccess/res/sc023.png cmd/sc_dbnewquerysql.png
 dbaccess/res/sortdown.png cmd/sc_sortascending.png
 dbaccess/res/sortup.png cmd/sc_sortdescending.png
 dbaccess/res/tables_32.png res/tables_32.png
@@ -857,8 +857,8 @@ sd/res/nv05.png cmd/sc_navigateforward.png
 sd/res/nv06.png cmd/sc_lastpage.png
 sd/res/nv09.png sc/res/droplink.png
 sd/res/ole.png cmd/sc_diagramtype.png
-sd/res/playblue_16.png avmedia/res/av02049.png
-sd/res/stopplayingblue_16.png avmedia/res/av02051.png
+sd/res/playblue_16.png cmd/sc_datastreamsplay.png
+sd/res/stopplayingblue_16.png cmd/sc_datastreamsstop.png
 sfx2/res/actiontemplates020.png sfx2/res/actionview010.png
 sfx2/res/deleterow.png cmd/sc_deleterows.png
 sfx2/res/favorite.png cmd/sc_insertbookmark.png
@@ -898,7 +898,6 @@ svtools/res/preview_large.png cmd/lc_printpreview.png
 svtools/res/preview_small.png cmd/sc_printpreview.png
 svtools/res/up_large.png cmd/lc_upsearch.png
 svtools/res/up_small.png cmd/sc_upsearch.png
-svx/res/convrt3d.png cmd/lc_convertinto3d.png
 svx/res/cd01.png cmd/sc_ok.png
 svx/res/cd015.png cmd/sc_toggleobjectbeziermode.png
 svx/res/cd016.png cmd/sc_beziermove.png
@@ -913,6 +912,7 @@ svx/res/cd06.png cmd/sc_basicshapes.rectangle.png
 svx/res/cd07.png cmd/sc_basicshapes.ellipse.png
 svx/res/cd08.png cmd/sc_polygon.png
 svx/res/colordlg.png cmd/sc_colorsettings.png
+svx/res/convrt3d.png cmd/lc_convertinto3d.png
 svx/res/fill_color.png cmd/sc_formatarea.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
 svx/res/fontworkaligncentered_26.png cmd/lc_alignhorizontalcenter.png
