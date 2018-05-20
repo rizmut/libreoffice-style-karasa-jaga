@@ -14,7 +14,7 @@
    height="128"
    id="svg2606"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="animationobjects.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -1245,9 +1245,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9999999"
-     inkscape:cx="24.34645"
-     inkscape:cy="45.202691"
+     inkscape:zoom="1.4142135"
+     inkscape:cx="-133.18698"
+     inkscape:cy="116.30305"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -1257,8 +1257,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1224"
-     inkscape:window-height="706"
-     inkscape:window-x="0"
+     inkscape:window-height="695"
+     inkscape:window-x="10"
      inkscape:window-y="0"
      inkscape:snap-global="true"
      inkscape:window-maximized="0"
@@ -1266,10 +1266,10 @@
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
-       originx="0px"
-       originy="0px"
-       spacingx="2.6666px"
-       spacingy="2.6666px"
+       originx="0"
+       originy="0"
+       spacingx="2.6666"
+       spacingy="2.6666"
        color="#0000ff"
        empcolor="#0000ff"
        opacity="0.2"
@@ -1281,15 +1281,18 @@
     <sodipodi:guide
        orientation="1,0"
        position="-68,29.325902"
-       id="guide4564" />
+       id="guide4564"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="-121.62237,135.0574"
-       id="guide3859" />
+       id="guide3859"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="38.581514,-74.688154"
-       id="guide4360" />
+       id="guide4360"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2611">
@@ -1299,7 +1302,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1733,12 +1736,6 @@
          id="rect14159"
          transform="matrix(0.9002137,-0.2563884,0.363865,1.3305605,156.30287,-12.174327)" />
     </g>
-    <path
-       sodipodi:nodetypes="ccssscccccc"
-       inkscape:connector-curvature="0"
-       id="path5034"
-       d="m -133.85476,-40.438994 c -0.52692,0 -0.77524,0.363775 -0.77524,0.77525 l 0,168.956104 c 0,1.27386 1.05329,2.3248 2.32575,2.32575 l 65.434081,0.0485 c 0.08233,6e-5 1.547217,-0.0124 2.616469,8e-5 15.657885,-6.19485 59.246781,-54.657291 73.116361,-68.614603 2.289864,-2.568379 1.727033,-1.785118 2.254292,-4.478941 l 9.3e-5,-98.236845 c 0,-0.500373 -0.253076,-0.77525 -0.775254,-0.77525 z"
-       style="opacity:0.84653476;fill:url(#radialGradient5036);fill-opacity:1" />
     <path
        style="fill:#000000"
        d=""
