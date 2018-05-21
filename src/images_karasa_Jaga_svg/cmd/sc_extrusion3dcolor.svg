@@ -387,7 +387,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="68.474664"
+     inkscape:cx="6.6028201"
      inkscape:cy="58.360926"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -395,10 +395,10 @@
      height="128px"
      showgrid="true"
      showborder="true"
-     inkscape:window-width="1364"
-     inkscape:window-height="747"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-y="0"
      inkscape:grid-bbox="true"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -424,7 +424,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1270,24 +1270,5 @@
          id="rect4141"
          style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
-    <image
-       y="0"
-       x="128"
-       id="image6708"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAhlJREFU
-OI21kr9rU1EUx8+954Wbd99v8vAlJKAUMugQslnIFApC0cF/onRy869Q3FzEv8GQDi6VLoF2UQJ1
-eAUzPDOUYgPv9bWNuXm53utiCjYBu/iBA2f4ng/f4RCtNayj0+l0Ly8vnzLGyr7vf9Jafzw4OJC3
-c2Qp2N3dLY1Go+dCiCeIuImIj2zbpo7jgG3bGhG/UUqPZrPZIMuyD/1+/woAwFiakiRp5nn+Koqi
-rFqtYhRFIgxD7roucM5JmqZemqabWZY9LoqCAcC7vwSMMTEejx8kSXLfsizVaDROW63WVa1W0+fn
-58xxHJcxFrquC5PJpFje3QiUUoVlWRIAgHOu5vN5FMfxvbOzs6+VSqVhmuYvxpgCACCEzFcEhBDp
-OE5BCEHTNDXnXDmOo4uioHmeIyICpRTK5bLWWq8KGGMLy7IWhmEQzrkyTVPV63VycnJCpZQUETWl
-VAOAAoDZikAIsbBte8EYu2lQrVbpcDhErTUiIiAiEEKIlFKsCAzDkL7vy1KppDjninOuoigiRVFQ
-IQRFRP1nQEp504Aul729vZ+u675uNpunGxsb4Hme8jwPhBB0Op1iGIZGEAST6+vrN2EYfll5pCXb
-29tWt9t92263nwVBYPd6vZQx5sdx3Lu4uHi5v7//Y+0n3mZnZ+fh1tbW++PjY+Pw8PDFYDD4vC5H
-NMD3tYY7QjTA+gp3hP478p8FvwEbvdsC9v4V5AAAAABJRU5ErkJggg==
-"
-       preserveAspectRatio="none"
-       height="128"
-       width="128" />
   </g>
 </svg>
