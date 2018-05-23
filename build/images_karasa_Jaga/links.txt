@@ -645,12 +645,6 @@ cmd/sc_wrapmenu.png cmd/sc_wrapon.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
 cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoom.png
-dbaccess/res/all_left.png cmd/sc_firstrecord.png
-dbaccess/res/all_right.png cmd/sc_lastrecord.png
-dbaccess/res/sc021.png cmd/sc_dbqueryedit.png
-dbaccess/res/sc023.png cmd/sc_dbnewquerysql.png
-dbaccess/res/sortdown.png cmd/sc_sortascending.png
-dbaccess/res/sortup.png cmd/sc_sortdescending.png
 desktop/res/extension_16.png cmd/sc_addons.png
 desktop/res/extension_32.png cmd/32/addons.png
 extensions/source/scanner/minus.png res/minus.png
