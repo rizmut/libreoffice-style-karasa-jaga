@@ -20,11 +20,11 @@ curl -L "https://github.com/rizmut/$gh_repo/archive/master.tar.gz" -o "/tmp/$gh_
 echo "=> Unpacking archive ..."
 tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
-sudo rm -f "/usr/share/libreoffice/share/config/images_karasa_Jaga.zip"
+sudo rm -f "/usr/share/libreoffice/share/config/images_karasa_jaga.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
 sudo cp -R \
-  "$temp_dir/$gh_repo-master/build/images_karasa_Jaga.zip" \
+  "$temp_dir/$gh_repo-master/build/images_karasa_jaga.zip" \
   "/usr/share/libreoffice/share/config"
 for dir in \
   /usr/lib64/libreoffice/share/config \
@@ -32,7 +32,7 @@ for dir in \
   /usr/local/lib/libreoffice/share/config \
   /opt/libreoffice*/share/config; do
   [ -d "$dir" ] || continue
-  sudo ln -sf "/usr/share/libreoffice/share/config/images_karasa_Jaga.zip" "$dir"
+  sudo ln -sf "/usr/share/libreoffice/share/config/images_karasa_jaga.zip" "$dir"
 done
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir"
