@@ -985,10 +985,10 @@ svx/res/symphony/rotate_right.png cmd/sc_rotateright.png
 svx/res/symphony/sc_backgroundcolor.png cmd/sc_formatarea.png
 svx/res/symphony/sch_backgroundcolor.png cmd/sc_formatarea.png
 svx/res/symphony/spacing3.png cmd/sc_spacepara2.png
-svx/res/symphony/spacing_very loose.png svx/res/symphony/spacing_very_loose.png
-svx/res/symphony/spacing_very loose_s.png svx/res/symphony/spacing_very_loose_s.png
-svx/res/symphony/spacing_very tight.png svx/res/symphony/spacing_very_tight.png
-svx/res/symphony/spacing_very tight_s.png svx/res/symphony/spacing_very_tight_s.png
+svx/res/symphony/spacing_very\ loose.png svx/res/symphony/spacing_very_loose.png
+svx/res/symphony/spacing_very\ loose_s.png svx/res/symphony/spacing_very_loose_s.png
+svx/res/symphony/spacing_very\ tight.png svx/res/symphony/spacing_very_tight.png
+svx/res/symphony/spacing_very\ tight_s.png svx/res/symphony/spacing_very_tight_s.png
 sw/res/all_left.png cmd/sc_firstpage.png
 sw/res/all_right.png cmd/sc_lastpage.png
 sw/res/lc20556.png cmd/lc_insertformula.png
