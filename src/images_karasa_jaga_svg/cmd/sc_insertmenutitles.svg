@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,9 +44,9 @@
      inkscape:window-height="706"
      id="namedview49"
      showgrid="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="-29.051288"
-     inkscape:cy="101.73154"
+     inkscape:zoom="3.6875"
+     inkscape:cx="15.706879"
+     inkscape:cy="70.770726"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -83,7 +83,7 @@
      xlink:href="#f"
      y1="28.071536"
      y2="63.735083"
-     gradientTransform="translate(0,4)" />
+     gradientTransform="translate(0,11.999995)" />
   <linearGradient
      id="d"
      gradientUnits="userSpaceOnUse"
@@ -122,7 +122,7 @@
      xlink:href="#f"
      y1="9.87568"
      y2="67.99997"
-     gradientTransform="translate(0,4)" />
+     gradientTransform="translate(0,7.836707)" />
   <linearGradient
      id="h">
     <stop
@@ -162,44 +162,44 @@
      inkscape:connector-curvature="0"
      style="fill:#797979" />
   <rect
-     height="63.999989"
+     height="55.999985"
      rx="6.3639612"
      width="32"
      x="40"
-     y="32"
+     y="40"
      id="rect29"
      style="fill:url(#a)" />
   <rect
-     height="48"
+     height="40"
      rx="1.767767"
-     width="15.999998"
+     width="16"
      x="48"
-     y="40"
+     y="48"
      id="rect31"
      style="fill:url(#b)" />
   <path
-     d="m 49.781251,40.000005 c -0.97934,0 -1.78125,0.801909 -1.78125,1.781249 V 65.375 c 6.25396,-1.274117 11.818828,-4.492346 15.999998,-8.999998 V 41.781254 c 0,-0.979342 -0.80191,-1.781249 -1.78125,-1.781249 z"
+     d="m 49.781251,48 c -0.97934,0 -1.78125,0.801909 -1.78125,1.781249 v 23.593746 c 6.25396,-1.274117 11.818828,-4.492346 15.999998,-8.999998 V 49.781249 C 63.999999,48.801907 63.198089,48 62.218749,48 Z"
      id="path33"
      style="fill:url(#c)"
      inkscape:connector-curvature="0" />
   <rect
-     height="76"
+     height="72"
      rx="6.3639612"
      width="32"
      x="80"
-     y="20"
+     y="24"
      id="rect35"
      style="fill:url(#d)" />
   <rect
-     height="60.000038"
+     height="56.000038"
      rx="1.767767"
      width="16"
      x="88"
-     y="28"
+     y="32"
      id="rect37"
      style="fill:url(#e)" />
   <path
-     d="m 89.781246,28.163293 c -0.979341,0 -1.781251,0.801909 -1.781251,1.781251 l 2e-6,35.430446 C 94.253959,64.100871 99.81883,60.882642 104.00001,56.374988 L 104,29.944544 c 0,-0.979344 -0.80191,-1.781251 -1.78125,-1.781251 z"
+     d="m 89.781246,32 c -0.979341,0 -1.781251,0.801909 -1.781251,1.781251 l 2e-6,35.430446 C 94.253959,67.937578 99.81883,64.719349 104.00001,60.211695 L 104,33.781251 C 104,32.801907 103.19809,32 102.21875,32 Z"
      id="path39"
      style="fill:url(#g)"
      inkscape:connector-curvature="0" />
