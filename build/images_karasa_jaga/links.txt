@@ -154,6 +154,7 @@ cmd/32/objectforwardone.png cmd/32/forward.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
+cmd/32/objecttitledescription.png cmd/32/insertcaptiondialog.png
 cmd/32/openfromcalc.png cmd/32/open.png
 cmd/32/openfromwriter.png cmd/32/open.png
 cmd/32/ordercrit.png cmd/32/datasort.png
@@ -402,6 +403,7 @@ cmd/lc_objectforwardone.png cmd/lc_forward.png
 cmd/lc_objectmirrorhorizontal.png cmd/lc_fliphorizontal.png
 cmd/lc_objectmirrorvertical.png cmd/lc_flipvertical.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
+cmd/lc_objecttitledescription.png cmd/lc_insertcaptiondialog.png
 cmd/lc_openfromcalc.png cmd/lc_open.png
 cmd/lc_openfromwriter.png cmd/lc_open.png
 cmd/lc_ordercrit.png cmd/lc_datasort.png
@@ -611,6 +613,7 @@ cmd/sc_objectforwardone.png cmd/sc_forward.png
 cmd/sc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
 cmd/sc_objectmirrorvertical.png cmd/sc_flipvertical.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
+cmd/sc_objecttitledescription.png cmd/sc_insertcaptiondialog.png
 cmd/sc_openfromcalc.png cmd/sc_open.png
 cmd/sc_openfromwriter.png cmd/sc_open.png
 cmd/sc_ordercrit.png cmd/sc_datasort.png
