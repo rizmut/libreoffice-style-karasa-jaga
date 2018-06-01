@@ -40,6 +40,7 @@ cmd/32/closedocs.png cmd/32/closedoc.png
 cmd/32/closemasterview.png cmd/32/quit.png
 cmd/32/closepreview.png cmd/32/closedoc.png
 cmd/32/columnoperations.png cmd/32/entirecolumn.png
+cmd/32/commentchange.png cmd/32/commentchangetracking.png
 cmd/32/commontaskbarvisible.png cmd/32/autoformat.png
 cmd/32/connectortoolbox.png cmd/32/connector.png
 cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
@@ -301,6 +302,7 @@ cmd/lc_closedocs.png cmd/lc_closedoc.png
 cmd/lc_closemasterview.png cmd/lc_quit.png
 cmd/lc_closepreview.png cmd/lc_closedoc.png
 cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
+cmd/lc_commentchange.png cmd/lc_commentchangetracking.png
 cmd/lc_commontaskbarvisible.png cmd/lc_autoformat.png
 cmd/lc_connectortoolbox.png cmd/lc_connector.png
 cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
@@ -511,6 +513,7 @@ cmd/sc_closedocs.png cmd/sc_closedoc.png
 cmd/sc_closemasterview.png cmd/sc_quit.png
 cmd/sc_closepreview.png cmd/sc_closedoc.png
 cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
+cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
 cmd/sc_commontaskbarvisible.png cmd/sc_autoformat.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
 cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
@@ -793,6 +796,8 @@ res/sc10851.png cmd/sc_inserthyperlink.png
 res/sc10853.png cmd/sc_searchdialog.png
 res/sc10854.png res/target.png
 res/sc10863.png cmd/sc_grafluminance.png
+res/sc10864.png cmd/sc_grafcontrast.png
+res/sc10865.png cmd/sc_grafred.png
 res/sc10866.png cmd/sc_grafgreen.png
 res/sc10867.png cmd/sc_grafblue.png
 res/sc10864.png cmd/sc_grafcontrast.png
@@ -1021,11 +1026,16 @@ svx/res/symphony/AdjustColorBlue_16x16.png cmd/sc_grafblue.png
 svx/res/symphony/AdjustColorGamma_16x16.png cmd/sc_graphicfilterinvert.png
 svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
+svx/res/symphony/decrease_font.png cmd/sc_shrink.png
+svx/res/symphony/enlarge_font.png cmd/sc_grow.png
+svx/res/symphony/fill_color.png cmd/sc_backgroundpatterncontroller.png
 svx/res/symphony/rotate_left.png cmd/sc_rotateleft.png
 svx/res/symphony/rotate_right.png cmd/sc_rotateright.png
 svx/res/symphony/sc_backgroundcolor.png cmd/sc_formatarea.png
 svx/res/symphony/sch_backgroundcolor.png cmd/sc_formatarea.png
 svx/res/symphony/spacing3.png cmd/sc_spacepara2.png
+svx/res/symphony/para_numbullet01.png cmd/sc_defaultbullet.png
+svx/res/symphony/para_numbullet02.png cmd/sc_defaultnumbering.png
 sw/res/all_left.png cmd/sc_firstpage.png
 sw/res/all_right.png cmd/sc_lastpage.png
 sw/res/lc20556.png cmd/lc_insertformula.png
