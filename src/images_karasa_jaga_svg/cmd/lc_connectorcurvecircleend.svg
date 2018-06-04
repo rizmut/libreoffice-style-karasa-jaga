@@ -15,9 +15,9 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg1022"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="lc_connectorcurvecircleend.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_connectorcurvecircleend.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_connectorcurvecircleend.png"
    inkscape:export-xdpi="16.500002"
    inkscape:export-ydpi="16.500002">
   <defs
@@ -62,7 +62,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="62.039301"
+     inkscape:cx="-46.047021"
      inkscape:cy="31.732104"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -105,21 +105,21 @@
        width="21.551214"
        height="1.5393702"
        x="7.6968613"
-       y="290.8425" />
+       y="290.84253" />
     <path
-       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:0.99215686;stroke:none;stroke-width:5.77245617;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 98.908203,17.457031 v 5.816407 c 6.446457,0 11.634767,7.247524 11.634767,16.25 v 5.197265 c 0,9.002476 -5.18831,16.25 -11.634767,16.25 v 0.121094 5.705078 h 0.002 c 5.408454,0 10.048324,-3.099625 12.970704,-7.183594 2.92238,-4.083968 4.48633,-9.275986 4.48633,-14.896484 v -5.195313 c 0,-5.620459 -1.56318,-10.808168 -4.48633,-14.890625 -2.92314,-4.082456 -7.56446,-7.18164 -12.970704,-7.18164 -78.177031,-8.63e-4 -78.072865,0.0078 -0.002,0.0078 z"
-       transform="matrix(0.26458333,0,0,0.26458333,0,263.13332)"
+       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:0.99215686;stroke:none;stroke-width:1.52729571;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 26.169462,267.75219 v 1.53893 c 1.705625,0 3.078366,1.91757 3.078366,4.29948 v 1.37511 c 0,2.3819 -1.372741,5.06918 -3.078366,5.06918 v 0.032 1.50946 h 5.29e-4 c 1.430988,0 2.65862,-0.8201 3.431835,-1.90065 0.773213,-1.08055 1.187008,-3.22398 1.187008,-4.71107 v -1.37459 c 0,-1.48708 -0.413592,-2.85966 -1.187008,-3.93981 -0.773416,-1.08015 -2.001432,-1.90014 -3.431835,-1.90014 -20.6843392,-2.3e-4 -20.6567786,0.002 -5.29e-4,0.002 z"
        id="rect21657"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsscccssssccc" />
+       sodipodi:nodetypes="ccsscccsssscccc" />
     <path
        style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.13576448;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 7.6968615,279.29719 v 1.53944 H 26.169329 v -1.53944 z"
+       d="m 7.6968617,280.06693 v 1.53944 H 26.169329 v -1.53944 z"
        id="rect858"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <rect
-       y="267.75192"
+       y="267.75195"
        x="4.6181169"
        height="1.5393702"
        width="21.55121"
@@ -129,7 +129,7 @@
        sodipodi:nodetypes="ccsscccsssscccc"
        inkscape:connector-curvature="0"
        id="path21668"
-       d="m 7.6968615,279.29932 v 1.53892 c -1.705625,0 -3.0783658,1.91758 -3.0783658,4.29948 v 1.37511 c 0,2.38191 1.3727408,4.29948 3.0783658,4.29948 v 0.032 1.50947 h -5.29e-4 c -1.430987,0 -2.6586198,-0.82011 -3.4318328,-1.90066 -0.773213,-1.08055 -1.187008,-2.45427 -1.187008,-3.94136 v -1.37459 c 0,-1.48708 0.413591,-2.85967 1.187008,-3.93982 0.773414,-1.08015 2.0014308,-1.90014 3.4318328,-1.90014 l 5.29e-4,0.002 z"
+       d="m 7.6968617,280.06906 v 1.53892 c -1.705625,0 -3.0783659,1.14788 -3.0783659,3.52978 v 1.37511 c 0,2.38191 1.3727409,4.29948 3.0783659,4.29948 v 0.032 1.50947 h -5.291e-4 c -1.4309871,0 -2.6586198,-0.82011 -3.4318328,-1.90066 -0.773213,-1.08055 -1.187008,-2.45427 -1.187008,-3.94136 v -1.37459 c 0,-1.48708 0.4135911,-2.08997 1.1870081,-3.17012 0.773414,-1.08015 2.0014309,-1.90014 3.4318329,-1.90014 l 5.292e-4,0.002 z"
        style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:0.99215686;stroke:none;stroke-width:1.52729571;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        id="path910-1"

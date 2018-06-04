@@ -17,7 +17,7 @@
    version="1.0"
    sodipodi:docname="sc_line_diagonal.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/sc_line_diagonal.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_line_diagonal.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12">
   <defs
@@ -42,7 +42,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284274"
-     inkscape:cx="21.486792"
+     inkscape:cx="-42.506365"
      inkscape:cy="59.348304"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,9 +52,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,19 +89,19 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.90243244;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.80322504;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect858"
-       width="120"
+       width="116"
        height="8"
-       x="4"
-       y="60" />
+       x="8"
+       y="64" />
     <rect
-       y="-68"
-       x="4"
+       y="-72"
+       x="8"
        height="8"
-       width="120"
+       width="116"
        id="rect6919"
-       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.90243244;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.80322504;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="rotate(90)" />
   </g>
 </svg>

@@ -17,7 +17,7 @@
    version="1.0"
    sodipodi:docname="line_diagonal.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/line_diagonal.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/line_diagonal.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
@@ -42,7 +42,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0000004"
-     inkscape:cx="53.641795"
+     inkscape:cx="8.3917995"
      inkscape:cy="63.146601"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,9 +52,9 @@
      inkscape:showpageshadow="false"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,8 +96,8 @@
        x="4"
        y="60" />
     <rect
-       y="-66"
-       x="2"
+       y="-68"
+       x="1.6699622e-16"
        height="4"
        width="120"
        id="rect6959"
