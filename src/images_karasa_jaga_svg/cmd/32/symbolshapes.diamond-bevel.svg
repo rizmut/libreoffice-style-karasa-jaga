@@ -16,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="symbolshapes.diamond-bevel.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/symbolshapes.diamond-bevel.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/symbolshapes.diamond-bevel.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,35 +36,46 @@
      id="defs6">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1958">
-      <stop
-         style="stop-color:#ededed;stop-opacity:1;"
-         offset="0"
-         id="stop1954" />
-      <stop
-         style="stop-color:#fcfcfc;stop-opacity:1"
-         offset="1"
-         id="stop1956" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1958"
+       xlink:href="#linearGradient3369"
        id="linearGradient3009"
-       x1="10.325867"
-       y1="64"
-       x2="117.67413"
-       y2="64"
+       x1="115.67413"
+       y1="115.67413"
+       x2="10.523645"
+       y2="6.780612"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1958"
+       xlink:href="#linearGradient3369"
        id="linearGradient3013"
        gradientUnits="userSpaceOnUse"
-       x1="10.325867"
-       y1="64"
-       x2="117.67413"
-       y2="64"
+       x1="148.36333"
+       y1="140.92575"
+       x2="-11.291717"
+       y2="-11.291717"
        gradientTransform="matrix(0.68631896,0,0,0.68631896,20.075586,20.075586)" />
+    <linearGradient
+       id="linearGradient3369">
+      <stop
+         id="stop3372"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.53340602"
+         id="stop3374" />
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0.83333331"
+         id="stop3376" />
+      <stop
+         id="stop3378"
+         offset="0.89999998"
+         style="stop-color:#eaeaea;stop-opacity:1;" />
+      <stop
+         id="stop3384"
+         offset="1"
+         style="stop-color:#dfdfdf;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -81,9 +92,9 @@
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="1.7320077"
-     inkscape:cx="28.570962"
-     inkscape:cy="51.804399"
+     inkscape:zoom="1.2247144"
+     inkscape:cx="-62.48856"
+     inkscape:cy="53.173693"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -138,39 +149,4 @@
        d="M 115.67413,115.67413 99.464943,99.464943"
        style="fill:none;fill-rule:evenodd;stroke:#507dbe;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72941176" />
   </g>
-  <image
-     y="4.4408921e-16"
-     x="-128"
-     id="image862"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAOCSURB
-VDiNpdTrT9tVGAfw7znt71bKpVfo7AW2GDaHkZsxAkVjHLtEFowME4xm7/wXfLfKC+O/YGLixHdz
-kQDTxMsLJ9CVrbKtUNE5BzMrrhdKKdDLr/2dny+Qht7oEp/keXeeT57z5DmH4BnC89X9i0TFFK+h
-QcJl3R+N9W7XqqG1DkxMBsa1hFxvMQi0xcC3s7zg++TLVdP/gicmA+OU4uqFHhNn1Gvh7jDwdpPQ
-Bi4/XwuvCk9MBsYJUa9e6DFxrc0SOC1FNscw/EqzYDeLNfGK8GHUZRWRlhnWI2n4HyZBCXDxGfAy
-uID27neayjLM3I5iqNMEl0XCtC8CAoKRV22CwyK1qVx+zvN50HgkfBh1WUTsZRXM3oli8IUm2IwC
-uk40wGWVMLMYBgHB233HBKdZOs7p2HwpTkvR8z1GzmkWkJIZvr0TK6CEEBBC0PN8E1xWCdO+pyAg
-eMdtF1otujKclqIui1hAB041FqEH+XK7EW0tdZjybuzjgw6h1aI7zkusMBZysFLnug2c0ywgLTN8
-9+sWBk41wGYUQCmtmv4HW1h7uodRtwOEEly/+Xd2Pbz3l5ymbvLx5H3W3MgRQz0HVVUR31HQd7Ie
-z5mORg/S+1sMoWgK/R0WcBqKGV8oG9vOLFOOowGVIHvaLqHDWYcGHUU4IZddv1raLTrEd2X4H2zC
-uxoDJaqgKKyLyslsXzyZ88/9vpMx1fM4121CIqXA90eyJvpnaAc/3wvj8lAbRvqdOGHT4594Rmag
-56nnw95Ubi83FE/mlqZvxzIKIzjTaUZKZvCuJo5EF1YiePd1J0Rei8CjLczceiIzlbx15f0Xf6QA
-sI/LZzaTuaUpXySjqMBQlwUpmWE+GC9DH27swhuMYuw1JwROg+W1RBFatMeH8W+84YyiAme7rUjJ
-DHMrm0XoQjCKS4MOSIK2IgoApPQpej7z6zg9/5OlUegaHbCJvFaD75ci0ItaOKx1uLW6ibH/0JX1
-bcz6QmVoRbgUv+Q+JnJaihuLYcSSMt57wwm9xCH4OFkVLfsrisayK78Z3c7e/XpuI6MwoP+0CS0G
-EXqJK3Sq5NlwJbQqXIQnsveu/RLKMBXQaAiW1xK4sbghK3k27Lnc+UO1+oqjOByfXvM35mX+ZrNB
-bNdqiPgklpYZU0evfPDS7FF1NWEA8Hxxt4nntQt5hZ1UgZFaKAD8C+p5wPTfLgRfAAAAAElFTkSu
-QmCC
-"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
-  <image
-     y="4.4408921e-16"
-     x="128"
-     id="image2998"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHlSURB VDiNtZW/axRBFMc/M7t3e3dIvAMhJFXwRAQlhCttjK1NsLO190+wSOHfYCVYWIk2abRWIRZioxaC JMJFTm4NcknIeruZnbGIc+zvvQR8MOzs483nvfcdHgP/yQTA5tNP16QrHjmS4/OCjEFoQ0cr83Dz /upXFwDHLAu4u9htyqVes74aIXK+H/sh/kEUa8c8Bv6BgZYnpgttp9P2XAb9hUqY3dvvx28TFruG gz8noZoaAGTy8K3rFxlPFDu+otnqlK6G16bhtXGbLb7/OmF8GLO+eilViJv8cRzJxs1lnrze5fPu 71pJAMaTkAcbV9EqKgcLIRAYWk3JnUE313ZWAiEEL7d9Go4gVOmEKbCUEq11ClQEy/qMMbkLTYGB GVhKWVut3WutEUIgE/CcFGXgsgRllgMnZZmnWjiVwsbXgos0LkpQlKgQbJeVok4OG1srhT10lssr 0nsGlpnWz3J5lWALy+7nlaNWCmMMQRjz/M1eLrgIcBQoYg2uUzMgrz6MGVzpsdZPj3S2Yms7P495 8XbIvdsrKX8KvPV+xOWlC6z1e5WwpO/GSpcwitnaTnc4A09D7UXKcBgo3n3Zz7VcN2lHgWIaxbNX 4hQci5GRPBv6gRz6QSWgyoxBE4vRuQHz2F/EFZWaUUDMmAAAAABJRU5ErkJggg== "
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
 </svg>

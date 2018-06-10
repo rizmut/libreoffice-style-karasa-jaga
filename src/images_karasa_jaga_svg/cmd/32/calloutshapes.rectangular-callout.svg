@@ -16,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="calloutshapes.rectangular-callout.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/calloutshapes.rectangular-callout.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/calloutshapes.rectangular-callout.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -63,15 +63,15 @@
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.42597079"
+         offset="0.59375"
          id="stop3374" />
       <stop
          style="stop-color:#f1f1f1;stop-opacity:1;"
-         offset="0.5892781"
+         offset="0.84375"
          id="stop3376" />
       <stop
          id="stop3378"
-         offset="0.80219781"
+         offset="0.90625"
          style="stop-color:#eaeaea;stop-opacity:1;" />
       <stop
          id="stop3384"
@@ -106,10 +106,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3369"
        id="linearGradient8528"
-       x1="53.92849"
-       y1="194.47232"
-       x2="87.71418"
-       y2="-39.260796"
+       x1="72"
+       y1="128"
+       x2="72"
+       y2="0"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -124,40 +124,29 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="0.86600385"
-     inkscape:cx="-103.31491"
-     inkscape:cy="68.066135"
+     inkscape:zoom="3.4640154"
+     inkscape:cx="59.186861"
+     inkscape:cy="77.065756"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid27"
+       spacingx="4"
+       spacingy="4"
+       empspacing="2" />
+  </sodipodi:namedview>
   <path
      id="circle1528"
      style="opacity:1;fill:url(#linearGradient1536);fill-opacity:1;stroke:none;stroke-width:3.85701394;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      r="42.122112"
      cy="64"
      cx="64" />
-  <image
-     y="4.4408921e-16"
-     x="128"
-     id="image8499"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGuSURB
-VDiNrZQ9LwRRFIbfe2dmZ2UVqo1CwSbKFUShIKLT0JGwyaqXH2H4ARoRnUboNjqJQkO3NsEqUAiJ
-2Mj6yFLYr5k5Cpk1H3d2mHWqyTn3POc979wZpmnEee/lEP4xzPvkmRxLFDo+gbwisQYB1A6QAaxh
-kBJLFDplK5me7FaiEd6ykaj13GrdxPbREwCgCWaMgTHWWpGtLhpirzfBnHNwzqGqKmRZ9jS1Cl3X
-UalUxGBL8W+Ui5R+C/vJCa0IWtNet/JuQR4r/MLvxVl5X3BYG6xetxXcXgwD9ev3gMPCfcGWx+1Y
-IfTYOiB6BoK/OgvuAbtXCQK5624hwusWBBWBiEhsxXr22nFwPBnHxEAcrx81ZE8eKqVytSNwmn0w
-EbHVvcu+ZsKgpa5YZDkz0x+9uC2bh/miTqAN6HzLUH6xCoCVheSdYx9tt5CQCFfToz2R05uX6nO5
-Vqrrxqy2OJj7i1rAdStUhk1FkZSD3GPVNGlfjtQzWmrk/a9QB3ht53yurtOUQeabYRgLK+nBwzBA
-D1iWpDEGHNdYY15LDRfbgTpC04gTUfifhSu+AGANl8ZtwLeHAAAAAElFTkSuQmCC
-"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
   <path
      style="opacity:1;fill:url(#linearGradient8519);fill-opacity:1;stroke:none;stroke-width:5.29160166;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      d="M 11.492188,8.3984375 A 4.0651395,4.0651395 0 0 0 7.4277344,12.462891 v 73.894531 a 4.0651395,4.0651395 0 0 0 4.0644536,4.064453 H 33.275391 L 17.888672,112.61914 a 4.0651395,4.0651395 0 0 0 5.822266,5.53516 L 59.6875,90.421875 h 57.18359 a 4.0651395,4.0651395 0 0 0 4.06446,-4.064453 V 12.462891 a 4.0651395,4.0651395 0 0 0 -4.06446,-4.0644535 z"
@@ -166,11 +155,4 @@ D1iWpDEGHNdYY15LDRfbgTpC04gTUfifhSu+AGANl8ZtwLeHAAAAAElFTkSuQmCC
      style="opacity:1;fill:url(#linearGradient8528);fill-opacity:1;stroke:none;stroke-width:5.29160166;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      d="M 11.492188 12.462891 L 11.492188 86.357422 L 41.039062 86.357422 L 21.228516 114.93555 L 58.302734 86.357422 L 116.87109 86.357422 L 116.87109 12.462891 L 11.492188 12.462891 z "
      id="rect8502" />
-  <rect
-     y="12.462858"
-     x="-105.37868"
-     height="73.894783"
-     width="105.37868"
-     id="rect8504"
-     style="opacity:1;fill:#e20071;fill-opacity:1;stroke:none;stroke-width:5.29160166;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216" />
 </svg>

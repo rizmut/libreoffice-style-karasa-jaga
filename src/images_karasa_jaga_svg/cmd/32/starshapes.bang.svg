@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -15,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="starshapes.bang.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/starshapes.bang.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/starshapes.bang.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -27,12 +28,45 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6" />
+     id="defs6">
+    <linearGradient
+       id="linearGradient3369">
+      <stop
+         id="stop3372"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.51373518"
+         id="stop3374" />
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0.8125"
+         id="stop3376" />
+      <stop
+         id="stop3378"
+         offset="0.90625"
+         style="stop-color:#eaeaea;stop-opacity:1;" />
+      <stop
+         id="stop3384"
+         offset="1"
+         style="stop-color:#dfdfdf;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3369"
+       id="linearGradient838"
+       x1="72.649445"
+       y1="128"
+       x2="64.35054"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,21 +76,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1317"
-     inkscape:window-height="744"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      id="namedview4"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
      inkscape:zoom="2"
-     inkscape:cx="136.34989"
+     inkscape:cx="48.84989"
      inkscape:cy="53.527247"
-     inkscape:window-x="49"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:#f1f1f1;fill-opacity:1;fill-rule:evenodd;stroke:#507dbe;stroke-width:3.24076676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94901961"
+     style="fill:url(#linearGradient838);fill-opacity:1;fill-rule:evenodd;stroke:#507dbe;stroke-width:3.24076676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94901961"
      d="M 16.998626,97.99856 34.01265,96.783272 c 0,0 2.430575,27.546518 3.645863,25.115948 1.215288,-2.43058 10.127396,-24.305757 10.127396,-24.305757 0,0 3.240766,16.203837 4.050958,14.583447 0.810192,-1.62038 5.671342,-19.039503 5.671342,-19.039503 L 70.06618,105.29028 V 86.250778 L 84.64963,99.213847 83.434343,79.364148 102.47385,90.706832 90.726067,72.47752 103.28404,68.831657 94.371931,59.109357 117.05729,46.956482 87.890397,46.551385 99.233081,26.70169 83.029247,38.044373 82.624151,9.2825695 66.825413,31.157744 57.103113,22.245636 55.887826,44.931003 34.417747,29.942457 39.278896,54.248207 16.188434,51.817631 32.392268,70.046944 8.896709,73.692807 27.531117,86.655874 Z"
      id="path1568"
      inkscape:connector-curvature="0" />

@@ -16,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="symbolshapes.flower.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/symbolshapes.flower.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/symbolshapes.flower.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,25 +36,36 @@
      id="defs6">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1958">
-      <stop
-         style="stop-color:#ededed;stop-opacity:1;"
-         offset="0"
-         id="stop1954" />
-      <stop
-         style="stop-color:#fcfcfc;stop-opacity:1"
-         offset="1"
-         id="stop1956" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1958"
+       xlink:href="#linearGradient3369"
        id="linearGradient2180"
-       x1="73.77095"
-       y1="-19.295465"
-       x2="69.787796"
-       y2="116.24634"
+       x1="71.321404"
+       y1="128"
+       x2="72.23735"
+       y2="0"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3369">
+      <stop
+         id="stop3372"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.55595475"
+         id="stop3374" />
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0.83333331"
+         id="stop3376" />
+      <stop
+         id="stop3378"
+         offset="0.89999998"
+         style="stop-color:#eaeaea;stop-opacity:1;" />
+      <stop
+         id="stop3384"
+         offset="1"
+         style="stop-color:#dfdfdf;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -72,8 +83,8 @@
      inkscape:snap-page="true"
      inkscape:snap-global="true"
      inkscape:zoom="1.2247144"
-     inkscape:cx="7.0815437"
-     inkscape:cy="13.814582"
+     inkscape:cx="46.218035"
+     inkscape:cy="87.32343"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"

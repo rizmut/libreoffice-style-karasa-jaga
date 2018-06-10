@@ -16,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="symbolshapes.cloud.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/symbolshapes.cloud.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/symbolshapes.cloud.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -36,25 +36,36 @@
      id="defs6">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1958">
-      <stop
-         style="stop-color:#ededed;stop-opacity:1;"
-         offset="0"
-         id="stop1954" />
-      <stop
-         style="stop-color:#fcfcfc;stop-opacity:1"
-         offset="1"
-         id="stop1956" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1958"
+       xlink:href="#linearGradient3369"
        id="linearGradient2241"
-       x1="74.366547"
-       y1="-11.464111"
-       x2="121.61915"
-       y2="62.430668"
+       x1="60"
+       y1="128"
+       x2="60"
+       y2="8"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3369">
+      <stop
+         id="stop3372"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.53340602"
+         id="stop3374" />
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0.83333331"
+         id="stop3376" />
+      <stop
+         id="stop3378"
+         offset="0.89999998"
+         style="stop-color:#eaeaea;stop-opacity:1;" />
+      <stop
+         id="stop3384"
+         offset="1"
+         style="stop-color:#dfdfdf;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -68,19 +79,22 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="2.4494288"
-     inkscape:cx="74.227158"
-     inkscape:cy="79.792057"
+     inkscape:zoom="1.7320077"
+     inkscape:cx="53.908671"
+     inkscape:cy="112.5407"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid837" />
+       id="grid837"
+       spacingx="4"
+       spacingy="4"
+       empspacing="1" />
   </sodipodi:namedview>
   <path
      style="opacity:1;fill:url(#linearGradient2241);fill-opacity:1;stroke:#507dbe;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.72941176"
@@ -88,30 +102,4 @@
      id="path2212"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
-  <image
-     y="4.4408921e-16"
-     x="128"
-     id="image2209"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANLSURB
-VDiNzZVNbBVlFIbf78zPN3N/em+rXkuo9IeiAU24BRZCXNgEdWmM0WjSSGqiBNZEG2NkpNGNho0x
-WhcKKi7uTsUYNxgWNiqN/QvaUKRaK9BC4d6W2/m78x0XMOOFkra60TeZxWTOeeY973cyA/xfVCqV
-tMOlQTu+f+vj0fTt6sRqoENHxrYzqYfBmBGksU543zRQdj0+rhGeMk1NeUHtq9r6K/ud7u5a3Kff
-CnI+/b5BsPUkIBqg2BOEdzqaU9Hs1UBVfWXvLjaJtKTGE+PlF3d0ZuW6vInPf7zcU5lpOgPg7ds6
-7j8yvlHoajCX0jNpqYnz5cB4tNikb2y2ESnGNTdCLr3MC85ddPHN8HxFQT3yWk/XqWXgN4+NnX6g
-NXPvQ1vyN3ULISDE9VLTNBGGIQzDgO/7YGYAwOjUIn83UanWeGm90/PgQgI4dHSkSwi079qc12OQ
-YRhgZkgpQURgZgghIKUEABARXNcFABQ7GsTkBVdcvIpnAHxAf9uizU1ZI9Q1ghAClmVBSgnLsiCE
-SJwxc3Lpug4pZTJRyx2WxUBLcnivHx15gjR8eF9LhuIiTdMS2ErSNC2Jaa4S1AQjAAACgGzKPPDY
-trvk9s68QUQwTXNVYH3+RAQiwpYNWalreAEAdOejKSviamdbIZWMFOe5VsX1Gwo2wojvOVwatMnp
-bfeiiBenZt1kpH8CrXe+5Cs0po2RhZ93+gQAfqD6T47Pe/VrtVYppZJJT02WwwUv+slxhLq+bgKb
-2ppt+jdQZoYfMk6MXqqdmbnmikgdBG4cHoMNU9O0+M3xOq2k+LkQAl8Pzbq/TFcGozDa+uqe4p8J
-mBR/cXq6Upv4YxFhxKvGUQ+tRYzpuSqUwktOb9dvcU1C6P9krJeIDxbyduG53a32SvDpuSVcXvCR
-Sxv4YeKKf2HeG+l79v6dQohkzJu6nYGhlJk1h9vuzrR2FwtS6oThc2W1tT1HubR5I1fGe8fPLlX9
-6HcCGiPF3+pmsK/v6R2VetYyW85nQ3cakO822HqHUjCrXihMQ9v0+K4WK2vrODk+F/x6fnEyWDdf
-rP/+3qo1rcEbx8ZeZkafAmcMoi/ZC/e+8vy2S2vpXVUDA0NG/S/pP9Nf60ZhfdgRoHwAAAAASUVO
-RK5CYII=
-"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
 </svg>
