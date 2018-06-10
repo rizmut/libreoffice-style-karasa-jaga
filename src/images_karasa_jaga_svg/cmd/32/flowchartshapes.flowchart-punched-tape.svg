@@ -19,7 +19,7 @@
    inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.flowchart-punched-tape.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,7 +136,7 @@
      inkscape:snap-page="true"
      inkscape:snap-global="false"
      inkscape:zoom="1.7320077"
-     inkscape:cx="6.199749"
+     inkscape:cx="-94.839063"
      inkscape:cy="47.924227"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -147,14 +147,6 @@
        type="xygrid"
        id="grid837" />
   </sodipodi:namedview>
-  <image
-     y="4.4408921e-16"
-     x="128"
-     id="image38125"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAG3SURB VDiNrZK9SgNREIXPzG5icEER1BdQFBGtLK18ADsRIqktfAIrt7PwHSwEQQIWFoJgp5Vg4z8BJahR EcGf/GeT3bGQm2xidnODTnXv7plvDucOAcD69vkA/rFWl6Y/KJlMGjfl8dp/gidiKdNUl8XZQVg9 hlYjEbX9Xqi42Dl+AwDUwbGIgVg0GBwE85frNc51MBH9ataBBel/gdVPy7K0YIVCIRzMzGDmusAw 9PJmZohI/RzoWJUSd6rmvkbIZqtIF6y0/p7QjHVLDe4a3K4xzLkWWCcSEYGIdAb7tyKsRASe13ik P2esHLYC/HetdWuFhrnryrE6+3Ps5iE7Om6Xe7Xm4eo+i7uXXLlYdp0fHUWiBkUBGE1g/8QwZxfp Lzk4fXYApJya7BGQAQB4YgowLIyh6+sFaXIcthWeCPZPnpzL9GfWFY6vJaYOA8VoWbcgp7lSFbtH j6WX91KmBszZialMGBQAyLaFjdGLr+H+GE+PDPQO9vWA+WfAR66C9GveST1kiQjb1byzYi/PFDtB AYAAYGPrzCqC4tEIzxNhTDzpBwAmeixX3UMhc9NOTN7qAFV9A9I/oB1d75VXAAAAAElFTkSuQmCC  "
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
   <path
      style="fill:url(#linearGradient38861);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.47213125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 91.398436,4.5847562 C 79.974778,4.4559482 69.939492,9.8395645 61.496092,16.313272 l 0.08789,-0.0625 c -6.744758,4.896815 -13.868632,8.310321 -21.529296,8.863282 -7.660665,0.55296 -16.096706,-1.616235 -26,-8.855469 -2.717704,-1.985094 -6.5393427,-0.04518 -6.5410156,3.320312 v 59.658203 27.89063 2.45117 c 1.944e-4,1.31224 0.6263438,2.54567 1.6855469,3.32031 11.1071537,8.11925 21.7354187,11.12094 31.4472647,10.41993 9.711847,-0.70102 18.268689,-4.96637 25.769532,-10.41211 0.02957,-0.0205 0.05887,-0.0413 0.08789,-0.0625 6.827421,-5.23471 14.240948,-9.18361 21.90625,-9.91016 7.665303,-0.72655 15.844926,1.47926 25.248046,9.73633 2.65875,2.3334 6.82773,0.44567 6.82813,-3.0918 V 19.578897 c 3.6e-4,-1.183792 -0.5092,-2.310377 -1.39844,-3.091797 C 109.72499,8.2653562 100.28354,4.6849406 91.398436,4.5847562 Z"
@@ -175,30 +167,6 @@
      transform="matrix(0,-0.57912965,0.57912965,0,27.114229,130.91165)"
      inkscape:label="Livello 1"
      id="g1599" />
-  <image
-     y="4.4408921e-16"
-     x="-128"
-     id="image38826"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAALtSURB
-VDiNzZXLaxNRFMa/c+fO3GTStLFQnwUVscXWpii+FmoFFVHEhWIFtbpQ8H8Q1NmIiODehSgaXWQh
-uHGjolIEqVJtlb6oD7DaVLCgTUyb3LnHhU6bNI1W3fjBLO455/7mm3PuzBD+Ql6ia4Ng2m9LqvN9
-80Yb3D7TFn9ARBzU0J8Az1/ui/rhXMIY3lm/yKVKV8p01vcHhrOamftyjL3eofibPwJ7l565ToXT
-XlNlN+5YVa3CjpjMaZ/xuO+r3zuUyfqMFq+tuVMwM5290X3RS3Q2/ApsR1WiOmo37FlXo1xlIRwO
-IxqNwnVdOLaFLStj1oa6qohF9MjzWFAymbR6x+u1FDRomHefamvuL3KaeFJpk3vBtsSRgy3zQmFH
-IBKJQEo5WWOMQTqdRjqrceX+MFaE+qeyyxa4Swc+fus5d7P7lc94yQwtBeryvlk7v1rpbc1zQq6y
-oJQqggKAEAJEBKKpzk5WbGyIWZsaY3idysbTWR1nBlxlYfHcMOZU/CDZtg3HccDMmC4hBIQQpWAi
-QiRkIb4kWrLJsixIKSGlLIEGLgvdFoGDuyqlwMxgZhBRkYuZnAaxsq0IEtMLZqvp+0S5xH8DDhgl
-4ODI/Au0cB5/7TgYcDljJcObDXCm9axOxa+gRIT0uMbA0BjGvmlUhCWWLaxALGLP3nHhmpnBAB6+
-+KQ7+j+TtERHTptXyhbL7z5PbayvrdSbV9aESsDl4IW61T408TaVee8bse9UW1N3EPcSXbWDH8au
-vktlNgFwAED09OxngEzO56KPyfTrXueIfjuSSeWyYr13dAoKAN7h5qGTB5u257W5GcSE55GRFq7d
-6RieGM+ZGd5AQkf/qOkcHJ0wnG/xjjeOzvQ0RMR6sOkYA9eAn38Q78rzmKPkDQBb62orUVOlFBHh
-Syav+95/yeXzZkSzPnD68KqnZfv0U8lk0mptbfWLGupd71otmHZJSU2CYI/nTC8I9xdk8+0nTqzJ
-/w5aqO98niWLNfW5/gAAAABJRU5ErkJggg==
-"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
   <path
      sodipodi:nodetypes="cccccccc"
      inkscape:connector-curvature="0"
