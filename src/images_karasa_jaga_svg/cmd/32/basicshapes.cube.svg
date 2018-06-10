@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -115,6 +115,15 @@
        x2="116.13176"
        y2="26"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3369"
+       id="linearGradient842"
+       gradientUnits="userSpaceOnUse"
+       x1="7.8691263"
+       y1="26"
+       x2="165.98279"
+       y2="28.474874" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -125,18 +134,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1364"
+     inkscape:window-height="704"
      id="namedview33"
      showgrid="true"
      inkscape:zoom="2.8284271"
-     inkscape:cx="61.694145"
-     inkscape:cy="22.593459"
-     inkscape:window-x="-2"
+     inkscape:cx="85.361159"
+     inkscape:cy="71.809897"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg31"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid844"
@@ -178,6 +187,12 @@
      id="path1523"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccsccccccccccc" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path840"
+     d="m 44,12 h 68 L 84,40 H 12 Z"
+     style="opacity:1;fill:url(#linearGradient842);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
      sodipodi:type="inkscape:offset"
      inkscape:radius="3.9887612"

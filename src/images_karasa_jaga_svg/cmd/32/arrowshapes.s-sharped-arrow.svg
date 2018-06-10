@@ -19,7 +19,7 @@
    inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/arrowshapes.s-sharped-arrow.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,9 +125,9 @@
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="81.21167"
-     inkscape:cy="71.185104"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-40.642246"
+     inkscape:cy="58.906174"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -143,28 +143,6 @@
      id="path35090"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccssssccccsccccccccccscsccccsscccccscccccccccccccccccccc" />
-  <image
-     y="4.4408921e-16"
-     x="128"
-     id="image35079"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKWSURB
-VDiNrdTPS5RBGAfw7zPvT93VXTddyVQICTTQNCJBMBA9JZ0yCyPCawehW1TQ1iWif6BDEWwq0aWD
-EqaVUWRhHSo0Oiy5RmSga7a7uu/PmQ6mKO2+6eZc5jAzn/ny8MwQ8hjXB6fOCYhWy/T3Rnr3Gtn2
-sHxgIpwQQpzUtPRI5O6MvmMwABypL6NwUG9W1fSLyINp/1+X/wuIjI/L7FuoR5GkLkao5UIUO1yU
-dDSF1fq9QfQ/nTUWU+aEZRZ1biyLJ3zjzuciR7dGdVVqbKoJ6CV+Bboqg4hQGtAQ8KkwbY57T+LG
-z7Q54V8oONrXt88EANkLdnRruHKX3nisuVxXFQlEBMYYiAhEq5l0VcLx1ir91nCsbTGYaQfwyBO+
-2v+hnRE1dx4Oa7K0iiylbSQz7qbEy4aD++OzGUY0wisXRtfO54QlYqfqqnyK8gcdevPDjM2tQJIw
-47qo7jgYLtxfHUB0LG6kMvaosyfRHWlrc9bO5+wKidBSEdIYACwkLcTmVoSiWeUXexrqFJlNZkwX
-0bG4kczYj+2KRNdG1DOxAHyqsnqvaXMwhtSF7kO/1tZffUoIRsiKesKAkBllbxqH89sSYcqqSJzP
-hnrDAjLLUajLpxsGAAzkDuVRYwGwXIm3Mrb0pDkXIIK787AAiMjeMZgLsT4T8P9wZPBdKecoLlQl
-AIBpCxCQ3g683hXXoh97JCZuAkQuF2U1uwvcUJECAPieMFzLFS/zggFeHPSroZbagB7wKQj6ZBkA
-DItj+mvaFa53e3nAgCbDrSrV1n8uy+EYmpw3GcSzS2cbXucNr1hCjs1lAAApg4v3X5KG5Yi3tiJ1
-bwfdBAui+WXDjT+fWmJCCAvEYqbtRq+cOfCQiMR24d+8NgjihEqetAAAAABJRU5ErkJggg==
-"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
   <path
      style="fill:url(#linearGradient32736);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.6329999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 88.784098,7.1418621 c -0.12289,0.01536 -0.240262,0.054699 -0.351562,0.1054685 -0.0341,0.01556 -0.0633,0.03619 -0.0957,0.05469 -0.0718,0.04096 -0.139972,0.08666 -0.201172,0.140625 -0.0338,0.02985 -0.06395,0.06039 -0.09375,0.09375 -0.0536,0.05983 -0.0982,0.125682 -0.136719,0.195312 -0.0757,0.136884 -0.152245,0.287047 -0.128909,0.449217 V 22.079363 H 77.096598 c 0,0 -9.300018,-0.222206 -13.710937,1.021484 -3.852876,1.086346 -7.733922,2.783388 -10.677735,5.496094 -3.749987,3.455591 -6.534546,8.127356 -8.08789,12.984375 -1.216014,3.80225 -0.742188,11.953125 -0.742188,11.953125 v 40.478515 c -0.30947,-0.991444 -1.836018,5.923469 -5.611328,7.339844 -2.837358,1.00439 -7.580403,0.84878 -8.691406,0.96289 H 18.782145 v 18.5332 h 10.679688 c 0,0 9.300018,0.2222 13.710937,-1.02149 3.852876,-1.08635 7.733921,-2.78338 10.677734,-5.49609 3.749987,-3.45559 6.534547,-8.12735 8.087891,-12.98437 0.373262,-1.16712 0.575886,-2.749955 0.693359,-4.374999 h 0.05078 v -43.4375 c -0.527048,-7.117044 1.604922,-10.541464 5.609375,-11.958985 2.837358,-1.004386 7.580403,-0.848783 8.691406,-0.96289 h 10.792969 v 13.320312 c -0.015,0.940753 1.436698,1.801586 2.298828,0.939453 l 17.025388,-20.005859 1.9043,-2.923828 c 0.32775,-0.327696 0.24441,-0.810496 -0.0195,-1.212891 L 89.727457,7.4719406 c -0.0833,-0.08327 -0.172925,-0.143953 -0.265624,-0.195313 -0.011,-0.0061 -0.0223,-0.01013 -0.0332,-0.01563 -0.0183,-0.0091 -0.03619,-0.01914 -0.05469,-0.02734 -0.0699,-0.03097 -0.140991,-0.052899 -0.212891,-0.068359 -0.002,-4.2e-4 -0.0039,-0.00136 -0.0059,-0.00195 -0.0151,-0.00459 -0.02962,-0.013105 -0.04492,-0.015625 -0.0111,-0.00182 -0.0221,5.544e-4 -0.0332,0 -0.0981,-0.01321 -0.196569,-0.017904 -0.292969,-0.00586 z"

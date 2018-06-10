@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,26 +88,6 @@
        x2="112"
        y2="64"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3369"
-       id="linearGradient31"
-       gradientUnits="userSpaceOnUse"
-       x1="60"
-       y1="128"
-       x2="60"
-       y2="-5.6843419e-14"
-       gradientTransform="matrix(0.41666667,0,0,0.41666667,37.333332,37.333332)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7422"
-       id="linearGradient845"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.41666667,0,0,0.41666667,37.333332,37.333332)"
-       x1="60"
-       y1="128"
-       x2="60"
-       y2="-5.6843419e-14" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -122,9 +102,9 @@
      inkscape:window-height="706"
      id="namedview33"
      showgrid="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="52.183808"
-     inkscape:cy="87.155784"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="54.721126"
+     inkscape:cy="53.887472"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -166,29 +146,11 @@
      y1="55.003803"
      y2="116.784" />
   <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="3.9979439"
-     inkscape:original="M 16 16 L 16 112 L 112 112 L 112 16 L 16 16 z "
      style="fill:url(#linearGradient901);fill-opacity:1;stroke-width:1.14983392"
-     id="path893"
-     d="M 16,12.001953 A 3.9983437,3.9983437 0 0 0 12.001953,16 v 96 A 3.9983437,3.9983437 0 0 0 16,115.99805 h 96 A 3.9983437,3.9983437 0 0 0 115.99805,112 V 16 A 3.9983437,3.9983437 0 0 0 112,12.001953 Z" />
+     d="M 16 12.001953 A 3.9983437 3.9983437 0 0 0 12.001953 16 L 12.001953 112 A 3.9983437 3.9983437 0 0 0 16 115.99805 L 112 115.99805 A 3.9983437 3.9983437 0 0 0 115.99805 112 L 115.99805 16 A 3.9983437 3.9983437 0 0 0 112 12.001953 L 16 12.001953 z M 44 44 L 84 44 L 84 84 L 44 84 L 44 44 z "
+     id="path893" />
   <path
-     sodipodi:nodetypes="ccccc"
-     d="m 16,16.000001 h 96 V 112 H 16 Z"
-     id="path23"
-     inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient891);fill-opacity:1;stroke-width:1.14983392" />
-  <path
-     sodipodi:type="inkscape:offset"
-     inkscape:radius="4.0019526"
-     inkscape:original="M 44 44 L 44 84 L 84 84 L 84 44 L 44 44 z "
-     style="fill:url(#linearGradient845);fill-opacity:1;stroke-width:0.47909749"
-     id="path33"
-     d="M 44,39.998047 A 4.0023528,4.0023528 0 0 0 39.998047,44 V 84 A 4.0023528,4.0023528 0 0 0 44,88.001953 H 84 A 4.0023528,4.0023528 0 0 0 88.001953,84 V 44 A 4.0023528,4.0023528 0 0 0 84,39.998047 Z" />
-  <path
-     style="fill:url(#linearGradient31);fill-opacity:1;stroke-width:0.47909749"
-     inkscape:connector-curvature="0"
-     id="path29"
-     d="M 44,44 H 84 V 84.000001 H 44 Z"
-     sodipodi:nodetypes="ccccc" />
+     style="fill:url(#linearGradient891);fill-opacity:1;stroke-width:1.14983392"
+     d="M 16 16 L 16 112 L 112 112 L 112 16 L 16 16 z M 44 39.998047 L 84 39.998047 A 4.0023528 4.0023528 0 0 1 88.001953 44 L 88.001953 84 A 4.0023528 4.0023528 0 0 1 84 88.001953 L 44 88.001953 A 4.0023528 4.0023528 0 0 1 39.998047 84 L 39.998047 44 A 4.0023528 4.0023528 0 0 1 44 39.998047 z "
+     id="path23" />
 </svg>
