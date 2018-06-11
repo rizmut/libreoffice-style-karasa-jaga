@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,7 @@
          id="stop3374" />
       <stop
          style="stop-color:#f1f1f1;stop-opacity:1;"
-         offset="0.90625"
+         offset="0.9375"
          id="stop3376" />
       <stop
          id="stop3378"
@@ -90,16 +90,6 @@
        xlink:href="#linearGradient7422"
        inkscape:collect="always" />
     <linearGradient
-       y2="232.05406"
-       x2="153.65854"
-       y1="-119.58865"
-       x1="-59.567417"
-       gradientTransform="matrix(-0.30015108,-0.30015108,0.18200292,-0.18200292,67.886259,88.355292)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2360"
-       xlink:href="#linearGradient3369"
-       inkscape:collect="always" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7422"
        id="linearGradient859"
@@ -107,6 +97,15 @@
        y1="64.17524"
        x2="128.0378"
        y2="64.17524"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3369"
+       id="linearGradient839"
+       x1="60"
+       y1="128"
+       x2="60"
+       y2="0"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -124,9 +123,9 @@
      showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="4"
-     inkscape:cx="81.79702"
-     inkscape:cy="99.353212"
+     inkscape:zoom="2"
+     inkscape:cx="86.351145"
+     inkscape:cy="35.185049"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -153,7 +152,7 @@
      id="path849"
      d="m 4.7734375,-0.0078125 c -1.418331,-8.57e-6 -2.5203958,0.46419853 -3.5078125,1.4785156 a 4.0291733,4.0291733 0 0 0 -0.00195,0.00195 C 0.81240273,1.9365959 0.27943093,2.8297241 0.1015625,3.5625 -0.07630593,4.2952759 -0.03320897,4.6707711 -0.03320312,4.8085938 a 4.0291733,4.0291733 0 0 0 0,0.00195 l 0.0097656,32.6445311 c 0.0011889,4.300777 5.488319,6.997977 8.7597656,3.726563 l 7.0332029,-7.035157 35.503907,34.154297 0.697265,0.982422 V 124 v 0.33008 a 4.0291733,4.0291733 0 0 0 4.113281,4.02734 L 64,128.19336 l 7.916016,0.16406 a 4.0291733,4.0291733 0 0 0 4.113281,-4.02734 V 124 69.283203 l 0.697265,-0.982422 35.503908,-34.154297 7.0332,7.035157 c 3.27145,3.271415 8.75858,0.574216 8.75977,-3.726563 l 0.01,-32.6445311 a 4.0291733,4.0291733 0 0 0 0,-0.00195 c 1e-5,-0.1371519 0.0431,-0.5108905 -0.13476,-1.2441407 -0.17785,-0.7332502 -0.7122,-1.6295644 -1.16406,-2.09375 -0.98746,-1.01435662 -2.08949,-1.47852417 -3.50782,-1.4785156 H 90.798828 c -2.046307,2.35e-6 -4.054704,1.299885 -4.876953,3.0527344 C 85.099626,4.7977712 85.308363,7.276221 86.958984,8.875 L 93.494141,15.412109 64,45.171875 34.505859,15.412109 41.041016,8.875 C 42.691637,7.2762209 42.900374,4.7977712 42.078125,3.0449219 41.255876,1.2920726 39.247479,-0.00781015 37.201172,-0.0078125 Z" />
   <path
-     style="fill:url(#linearGradient2360);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.6329999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:url(#linearGradient839);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.6329999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 4.7734375 4.0214844 C 4.5417175 4.021483 4.3055638 4.1238558 4.1523438 4.28125 C 3.9992137 4.4386796 3.9960837 4.5679442 3.9960938 4.8085938 L 4.0058594 37.453125 C 4.0061494 38.502228 5.2763888 38.942355 5.8867188 38.332031 L 15.714844 28.503906 L 54.339844 65.660156 L 56 68 L 56 124 L 56 124.33008 L 64 124.16406 L 72 124.33008 L 72 124 L 72 68 L 73.660156 65.660156 L 112.28516 28.503906 L 122.11328 38.332031 C 122.72361 38.942355 123.99385 38.502228 123.99414 37.453125 L 124.00391 4.8085938 C 124.00392 4.5679441 124.00079 4.4386796 123.84766 4.28125 C 123.69444 4.1238558 123.45828 4.021483 123.22656 4.0214844 L 90.798828 4.0214844 C 89.579586 4.0214858 89.085879 5.3258554 89.761719 5.9804688 L 99.179688 15.398438 L 64 50.894531 L 28.820312 15.398438 L 38.238281 5.9804688 C 38.914121 5.3258554 38.420414 4.0214858 37.201172 4.0214844 L 4.7734375 4.0214844 z "
      id="rect2326" />
   <g
