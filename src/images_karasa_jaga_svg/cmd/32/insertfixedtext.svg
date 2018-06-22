@@ -1,1 +1,92 @@
-<svg height="128" viewBox="0 0 33.866666 33.866668" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="9.57912959681" x2="10.33657164574" y1="289.88502057871" y2="272.46384558057"><stop offset="0" stop-color="#555"/><stop offset="1"/></linearGradient><text style="font-size:25.192175;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:.629804;fill:url(#a)" transform="translate(0 -263.13332)" x=".779544" y="289.72974"><tspan fill="url(#a)" font-family="FreeSans" font-size="26.510481" font-style="italic" stroke-width=".629804" x=".779544" y="289.72974">An</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   width="128"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="insertfixedtext.svg"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/insertfixedtext.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   inkscape:version="0.92.3 (unknown)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview13"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="1.84375"
+     inkscape:cx="-5.6949153"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="9.57912959681"
+     x2="10.33657164574"
+     y1="289.88502057871"
+     y2="272.46384558057">
+    <stop
+       offset="0"
+       stop-color="#555"
+       id="stop2" />
+    <stop
+       offset="1"
+       id="stop4" />
+  </linearGradient>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57599998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.72799989, 1.72799988999999998;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect824"
+     width="33.866669"
+     height="33.866669"
+     x="0"
+     y="0" />
+  <text
+     style="font-size:25.192175;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:.629804;fill:url(#a)"
+     transform="translate(0 -263.13332)"
+     x=".779544"
+     y="289.72974"
+     id="text9">
+    <tspan
+       fill="url(#a)"
+       font-family="FreeSans"
+       font-size="26.510481"
+       font-style="italic"
+       stroke-width=".629804"
+       x=".779544"
+       y="289.72974"
+       id="tspan7">An</tspan>
+  </text>
+</svg>
