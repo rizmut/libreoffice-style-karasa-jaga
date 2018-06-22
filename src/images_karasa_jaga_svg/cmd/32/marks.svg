@@ -16,7 +16,7 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="marks.svg"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/marks.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,16 +89,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="810"
-     inkscape:window-height="747"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      id="namedview4"
      showgrid="true"
      inkscape:zoom="0.80229424"
-     inkscape:cx="131.83916"
-     inkscape:cy="-111.19206"
+     inkscape:cx="214.28746"
+     inkscape:cy="-62.516222"
      inkscape:window-x="0"
-     inkscape:window-y="19"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -123,14 +123,6 @@
      width="120"
      id="rect821"
      style="opacity:1;fill:url(#linearGradient824);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <image
-     width="128"
-     height="128"
-     preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABGdBTUEAANbY1E9YMgAAABl0RVh0 U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAYdEVYdENvcHlyaWdodABTdGVsbGEgU2No dWx6ZdRifb4AAAGCSURBVHjaYvz//z8DPQBAALFMXbyRLjYBBBDLv79/GU4fO8DAysbKwMLMwsDE xEhVC/79+8+gY2jOABBALH+BFnFwcDAICAgwcHFxMbCyslLVot+/fzOA7AAIIJY/f34zCAkJMigp KjCIiYoycHNzUdWir1+/Mdx5/IoBIICAFv1hEOTjZZCTlmSQl5Vh4Ofnp6pFHz9+ZLhx/xkDQACx /P79i4GXnY2Bj5cH6DMBBiFBQapaxMzMyACyAyCAmEA+ojUA2QEQQEy/f/2muUUgOwACiAmUGGjv o98MAAFEt6ADCCBgPvrDcP/ZG4b7m3bR1DKAAGKkV1kHEEBMDHQCAAFEN4sAAohupTdAAIFL76y4 AAZaRRUjsDKYtmgDA0AAgUvvL99/Mfz+85cmFrGyMINLb4AAoluGBQggcOnNycbCwA60mSapDViR guwACCBw6c3ExAQMy/80iiNI6Q0QQHQrggACiG6lN0AA0S0xAAQQ3YIOIIDApXdxXQfNLQMIMADc QZoEhJ5wvwAAAABJRU5ErkJggg== "
-     id="image10"
-     x="128"
-     y="0" />
   <rect
      y="4"
      x="0"
