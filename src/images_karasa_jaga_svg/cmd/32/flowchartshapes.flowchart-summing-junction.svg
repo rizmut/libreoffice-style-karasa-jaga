@@ -16,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="flowchartshapes.flowchart-summing-junction.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.flowchart-summing-junction.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/flowchartshapes.flowchart-summing-junction.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -55,6 +55,72 @@
        x2="62.030193"
        y2="84.412926"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7422">
+      <stop
+         style="stop-color:#7c9fcf;stop-opacity:1"
+         offset="0"
+         id="stop7424" />
+      <stop
+         id="stop5348"
+         offset="0.5"
+         style="stop-color:#7c9ece;stop-opacity:1" />
+      <stop
+         id="stop7426"
+         offset="1"
+         style="stop-color:#7b9dcf;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3369">
+      <stop
+         id="stop3372"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.42597079"
+         id="stop3374" />
+      <stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0.5892781"
+         id="stop3376" />
+      <stop
+         id="stop3378"
+         offset="0.80219781"
+         style="stop-color:#eaeaea;stop-opacity:1;" />
+      <stop
+         id="stop3384"
+         offset="1"
+         style="stop-color:#dfdfdf;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3369"
+       id="linearGradient1454"
+       x1="60"
+       y1="128"
+       x2="60"
+       y2="-1.3213514"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7422"
+       id="linearGradient1458"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="128"
+       x2="60"
+       y2="-1.3213514" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7422"
+       id="linearGradient1462"
+       gradientUnits="userSpaceOnUse"
+       x1="60"
+       y1="128"
+       x2="60"
+       y2="-1.3213514"
+       gradientTransform="matrix(1.0770736,0,0,1.0770736,-4.9327062,-4.9327062)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -68,22 +134,36 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="0.86600386"
-     inkscape:cx="-140.14431"
-     inkscape:cy="82.137362"
+     inkscape:zoom="3.4640154"
+     inkscape:cx="87.688907"
+     inkscape:cy="57.352205"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid818"
+       spacingx="4"
+       spacingy="4"
+       empspacing="1" />
+  </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#f7f8f9;fill-opacity:0.99607843;stroke:#507dbe;stroke-width:4.85791779;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
+     r="55.974892"
+     cy="64"
+     cx="64"
+     id="circle1460"
+     style="opacity:1;fill:url(#linearGradient1462);fill-opacity:1;stroke:none;stroke-width:5.12547731;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216" />
+  <circle
+     style="opacity:1;fill:url(#linearGradient1454);fill-opacity:1;stroke:none;stroke-width:4.75870705;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      id="path1515"
      cx="64"
      cy="64"
-     r="53.052898" />
+     r="51.969425" />
   <path
      id="circle1528"
      style="opacity:1;fill:url(#linearGradient1536);fill-opacity:1;stroke:none;stroke-width:3.85701394;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
@@ -94,4 +174,10 @@
      style="opacity:1;fill:#7d9ece;fill-opacity:1;stroke:none;stroke-width:4.5825758;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 28.066406 25.037109 A 53.052898 53.052898 0 0 0 25.048828 28.078125 L 60.970703 64 L 25.037109 99.933594 A 53.052898 53.052898 0 0 0 28.078125 102.95117 L 64 67.029297 L 99.933594 102.96289 A 53.052898 53.052898 0 0 0 102.95117 99.921875 L 67.029297 64 L 102.96289 28.066406 A 53.052898 53.052898 0 0 0 99.921875 25.048828 L 64 60.970703 L 28.066406 25.037109 z "
      id="rect831" />
+  <ellipse
+     r="51.969425"
+     cy="64"
+     cx="64"
+     id="ellipse1456"
+     style="opacity:1;fill:url(#linearGradient1458);fill-opacity:1;stroke:none;stroke-width:4.75870705;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216" />
 </svg>

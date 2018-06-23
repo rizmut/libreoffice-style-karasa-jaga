@@ -16,10 +16,10 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="flowchartshapes.flowchart-merge.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/flowchartshapes.flowchart-merge.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/flowchartshapes.flowchart-merge.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -108,17 +108,17 @@
        x2="-319.58453"
        y2="117.58132"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92427598,0.00272816,0.00272816,-0.92427598,359.70311,95.324685)" />
+       gradientTransform="matrix(0.92427598,0.00272816,0.00272816,-0.92427598,359.64102,94.770913)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7422"
-       id="linearGradient2801"
-       x1="-385.33887"
-       y1="29.780298"
-       x2="-255.00475"
-       y2="29.780298"
+       id="linearGradient837"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.92427598,0.00272816,0.00272816,-0.92427598,359.70311,95.324685)" />
+       gradientTransform="matrix(0.92427598,0.00272816,0.00272816,-0.92427598,359.64102,94.770913)"
+       x1="-313.95816"
+       y1="-29.697252"
+       x2="-319.58453"
+       y2="117.58132" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -132,27 +132,35 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="2"
-     inkscape:cx="80.42018"
-     inkscape:cy="62.719991"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="118.92634"
+     inkscape:cy="77.169081"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
-       id="grid837" />
+       id="grid837"
+       spacingx="4"
+       spacingy="4"
+       empspacing="1" />
     <sodipodi:guide
        position="136,86"
        orientation="-0.70710678,0.70710678"
        id="guide1537"
        inkscape:locked="false" />
   </sodipodi:namedview>
+  <path
+     style="opacity:1;fill:url(#linearGradient837);fill-opacity:1;stroke:none;stroke-width:3.69711995;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
+     d="M 8,8.015625 A 3.9850491,3.9850491 0 0 0 4.4980469,13.902344 L 60.419922,116.79688 a 3.9850491,3.9850491 0 0 0 7.001953,0.002 L 123.375,13.921875 a 3.9850491,3.9850491 0 0 0 -3.5,-5.8886719 z"
+     id="path835" />
   <g
      transform="matrix(0,0.57912965,0.57912965,0,27.114229,-2.9133545)"
      inkscape:label="Livello 1"
@@ -172,40 +180,11 @@
      id="g42964"
      transform="translate(0,88)" />
   <path
-     style="opacity:1;fill:url(#linearGradient2801);fill-opacity:1;stroke:none;stroke-width:3.69711995;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
-     d="m 63.757256,119.73718 c -1.451185,-0.0769 -2.765109,-0.88227 -3.492235,-2.1405 L 4.3430022,14.701326 C 2.6890567,11.837463 4.7556113,8.2571074 8.0627653,8.2567583 l 111.8744247,0.01791 c 3.30733,3.16e-4 5.3739,3.5809807 3.71964,6.4448627 L 67.704416,117.59698 c -0.808562,1.39891 -2.333659,2.22584 -3.94716,2.1402 z"
-     id="path2790"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
-  <path
      style="opacity:1;fill:url(#linearGradient2788);fill-opacity:1;stroke:none;stroke-width:3.69711995;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.73039216"
      inkscape:transform-center-x="-0.0055235094"
      inkscape:transform-center-y="-17.465864"
-     d="M 119.93713,12.571457 8.0620884,12.553772 63.984291,115.44924 Z"
+     d="M 119.87504,12.017685 8,12 63.922203,114.89547 Z"
      id="path4582"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
-  <image
-     y="4.4408921e-16"
-     x="128"
-     id="image2830"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKzSURB
-VDiNtdJLSxtRFAfw/5nEycwIfWz6oCtLuyiFusnCRT+HBRGLUMimuKoghdJQlbZapfVBa+2uuOjH
-EI241qAVqYoPbJ4aNXNnJnPv6SImTXymtj1wuGfgnt85XAb4T0FDQ8uh3av2D2bc+icgYUuFgrcJ
-AF59nXtq6dT/6OE1g+hiIDPwLZZy8o569rLtwWgQAK7b3liK9BdbWc+4c9O8ELy8LeB4au+G8D4D
-gAYAkUi4IKXqmV3aFwCBiBAIBGAYBgzDgGmaME0TlmXBsizU19fDsiwEg0EQEQDC7NKeUIzuSCRc
-KMMAwOryeN6V9mrSgaZp0HUddXV1Vaeu6wiFQtB1vTxQ0zSsJBzYrrKv7JjjJa8MR9sbHF9y78zi
-riAi+L4PZoZSCsxcrkvfSim4rguAMPM9J6RUPR0dd91jMACw8MYOHOmtJAQAQEpZhVbWpcGrCYG8
-Ix0lL32qtKrgaCRsK4XXMwvFrSuxo+n7PogIscVdISW/ibY3OKfCAGAwj+zafmHtcOsSVFmXBq4m
-BHK2XzDBo0edY3BnW2NeSe6PLewIIqpCS6dSqrjtwo5gVn2dbY35c2EAUJo9lNn31HrKwVG8VK+n
-HGQPPCkhhk8yToSjrU17SmFgKp4RRHT4r/4OIsJUPCMUYzDa2rRXMwwAuuENpnIub6aLW1fmRlog
-lXNZ173B0/pPhbuawzkGf5iOZ4SmaajMWDwrFPP7ruZw7o9hAAhIfWArK2gzLcrbbqYFtrKClBsc
-OKv3TPj543sZZh6ZjqfLbz0VTwswD0ef3M9eGAYAFSi83Uja2nbWwXbWwWbS1mSg0Hde37lwtCWc
-hkZjk3NJZ3Iu6YDwMdoSTv81DAA+q/61xEFw7Wc+AKne1dJTc/RMzH/pnZgfP/9mMYK104Xuggxx
-rbd/Aa3msur9ky0sAAAAAElFTkSuQmCC
-"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
 </svg>

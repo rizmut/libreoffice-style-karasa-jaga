@@ -16,7 +16,7 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="sc_flowchartshapes.flowchart-direct-access-storage.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_flowchartshapes.flowchart-direct-access-storage.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_flowchartshapes.flowchart-magnetic-disk.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12"
    inkscape:version="0.92.3 (unknown)">
@@ -49,15 +49,15 @@
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.5010848"
+         offset="0.42597079"
          id="stop3374" />
       <stop
          style="stop-color:#f1f1f1;stop-opacity:1;"
-         offset="0.8752712"
+         offset="0.5892781"
          id="stop3376" />
       <stop
          id="stop3378"
-         offset="0.9375"
+         offset="0.80219781"
          style="stop-color:#eaeaea;stop-opacity:1;" />
       <stop
          id="stop3384"
@@ -94,9 +94,9 @@
        xlink:href="#linearGradient3369"
        id="linearGradient38869"
        x1="130.20201"
-       y1="59.666222"
-       x2="-2.7823141"
-       y2="59.666222"
+       y1="67.666222"
+       x2="-27.716877"
+       y2="67.666222"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.9625194,0,0,1,2.3997132,4.6121011)" />
     <linearGradient
@@ -113,9 +113,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3369"
        id="linearGradient852"
-       x1="130.49117"
-       y1="24.001354"
-       x2="-2.7823172"
+       x1="130.20201"
+       y1="24.25437"
+       x2="-19.405359"
        y2="24.25437"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.9625194,0,0,1.1000153,2.3997163,-2.4018565)" />
@@ -145,8 +145,8 @@
      inkscape:snap-page="true"
      inkscape:snap-global="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="75.47415"
-     inkscape:cy="59.599054"
+     inkscape:cx="-65.252295"
+     inkscape:cy="78.652879"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
