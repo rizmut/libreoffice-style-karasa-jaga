@@ -78,7 +78,7 @@ cmd/32/fontcolor.png cmd/32/color.png
 cmd/32/fontworkalignmentfloater.png cmd/32/alignhorizontalcenter.png
 cmd/32/fontworkcharacterspacingfloater.png cmd/32/spacing.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
-cmd/32/formatframemenu.png cmd/32/inserttextframe.png
+cmd/32/formatframemenu.png cmd/32/framedialog.png
 cmd/32/formatgroup.png cmd/32/group.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
@@ -344,7 +344,7 @@ cmd/lc_fontcolor.png cmd/lc_color.png
 cmd/lc_fontworkalignmentfloater.png cmd/lc_alignhorizontalcenter.png
 cmd/lc_fontworkcharacterspacingfloater.png cmd/lc_spacing.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
-cmd/lc_formatframemenu.png cmd/lc_inserttextframe.png
+cmd/lc_formatframemenu.png cmd/lc_framedialog.png
 cmd/lc_formatgroup.png cmd/lc_group.png
 cmd/lc_formatimagemenu.png cmd/lc_graphic.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
@@ -560,7 +560,7 @@ cmd/sc_fontcolor.png cmd/sc_color.png
 cmd/sc_fontworkalignmentfloater.png cmd/sc_alignhorizontalcenter.png
 cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
-cmd/sc_formatframemenu.png cmd/sc_inserttextframe.png
+cmd/sc_formatframemenu.png cmd/sc_framedialog.png
 cmd/sc_formatgroup.png cmd/sc_group.png
 cmd/sc_formatimagemenu.png cmd/sc_graphic.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
@@ -721,6 +721,7 @@ framework/res/extension.png cmd/lc_addons.png
 framework/res/info_26.png cmd/lc_helpindex.png
 reportdesign/res/sc30768.png cmd/sc_upsearch.png
 reportdesign/res/sc30769.png cmd/sc_downsearch.png
+reportdesign/res/sc30770.png cmd/sc_removetableof.png
 reportdesign/res/sx11047.png cmd/sc_basicshapes.diamond.png
 reportdesign/res/sx12452.png cmd/sc_actionmode.png
 reportdesign/res/sx12453.png cmd/lc_animationeffects.png
@@ -767,6 +768,7 @@ res/lx03158.png res/lx03125.png
 res/lx03160.png res/odg_32_8.png
 res/lx03162.png res/odt_32_8.png
 res/lx03163.png res/ott_32_8.png
+res/lx03165.png cmd/32/save.png
 res/lx03189.png cmd/32/open.png
 res/lx03218.png res/lx03217.png
 res/lx03219.png res/lx03217.png 
@@ -789,6 +791,8 @@ res/lx03253.png res/odp_32_8.png
 res/lx03254.png res/ots_32_8.png
 res/lx03255.png res/ott_32_8.png
 res/lx03256.png cmd/lc_addons.png
+res/mainapp_16.png res/mainapp_16_8.png
+res/mainapp_32.png res/mainapp_32_8.png
 res/newdoc.png cmd/sc_newdoc.png
 res/oleobj.png cmd/32/insertobject.png
 res/page.png cmd/sc_adddirect.png
@@ -1013,6 +1017,8 @@ svx/res/cd06.png cmd/sc_basicshapes.rectangle.png
 svx/res/cd07.png cmd/sc_basicshapes.ellipse.png
 svx/res/cd08.png cmd/sc_polygon.png
 svx/res/colordlg.png cmd/sc_colorsettings.png
+svx/res/ColorModeBlackWhite_16x16.png cmd/sc_outputqualityblackwhite.png
+svx/res/ColorModeGrey_16x16.png cmd/sc_outputqualitygrayscale.png
 svx/res/convrt3d.png cmd/lc_convertinto3d.png
 svx/res/fill_color.png cmd/sc_formatarea.png
 svx/res/fontworkaligncentered_16.png cmd/sc_alignhorizontalcenter.png
@@ -1054,6 +1060,11 @@ svx/res/symphony/AdjustColorGreen_16x16.png cmd/sc_grafgreen.png
 svx/res/symphony/AdjustColorRed_16x16.png cmd/sc_grafred.png
 svx/res/symphony/decrease_font.png cmd/sc_shrink.png
 svx/res/symphony/enlarge_font.png cmd/sc_grow.png
+svx/res/symphony/lpselected-spacing-1_15.png cmd/lc_spacepara1.png
+svx/res/symphony/lpselected-spacing-1.png cmd/lc_spacepara1.png
+svx/res/symphony/lpselected-spacing-1_5.png cmd/lc_spacepara15.png
+svx/res/symphony/lpselected-spacing-2.png cmd/lc_spacepara2.png
+svx/res/symphony/lpsmall-spacing-1.png cmd/lc_spacepara1.png
 svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
 svx/res/symphony/rotate_left.png cmd/sc_rotateleft.png
 svx/res/symphony/rotate_right.png cmd/sc_rotateright.png
