@@ -14,7 +14,7 @@
    version="1.1"
    id="svg20"
    sodipodi:docname="lc_italic.svg"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.2 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/tr/lc_italic.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5">
@@ -41,7 +41,7 @@
        x2="103.87891"
        y2="50.378906"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458334,0,0,0.26458334,-0.95286516,1.1453245e-7)" />
+       gradientTransform="matrix(0.26458334,0,0,0.26458334,-0.9528652,-0.76103855)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -55,14 +55,21 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview22"
-     showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="-34.300631"
-     inkscape:cy="35.336347"
+     showgrid="true"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="57.419243"
+     inkscape:cy="65.094811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821"
+       spacingx="1.5393723"
+       spacingy="1.5393723"
+       empspacing="1" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -70,7 +77,7 @@
      x2="20.22575014415"
      y1="294.82258903077"
      y2="266.54036534865"
-     gradientTransform="matrix(0.82,0,0,0.82,-0.37525588,-213.09189)">
+     gradientTransform="matrix(0.82,0,0,0.82,-0.37525592,-213.85293)">
     <stop
        offset="0"
        stop-color="#555"
@@ -99,20 +106,20 @@
   </linearGradient>
   <text
      id="text14"
-     y="28.455942"
+     y="27.694904"
      x="3.487349"
      style="font-size:33.53633881px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:0.83840817">
     <tspan
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.29129791px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';fill:url(#a);stroke-width:0.83840817"
        id="tspan12"
-       y="28.455942"
+       y="27.694904"
        x="3.487349"
        font-weight="bold"
        font-size="43.038166">T</tspan>
   </text>
   <path
      style="opacity:1;fill:url(#linearGradient874);fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 8.5959063,5.8161827 7.3696244,10.312549 C 8.1865424,8.7620243 9.0188631,7.6341711 9.9534461,7.1055098 11.003595,6.4876802 12.69327,6.2404461 15.097835,6.2404464 h 0.742074 A 0.40592783,0.40592783 0 0 1 16.230582,6.75411 l -3.795117,13.914913 a 19.939215,10.705278 0 0 0 2.584856,0.173633 L 19.013875,6.5370689 a 0.40592783,0.40592783 0 0 1 0.390674,-0.2966225 h 1.939417 c 1.317596,0 2.337292,0.2354373 3.037024,0.7927162 0.700352,0.5342899 1.04128,1.4035797 1.04128,2.4706504 0,0.1637345 -0.03016,0.3886224 -0.03927,0.570508 l 1.148768,-4.2581383 z"
+     d="M 8.5959063,5.055144 7.3696244,9.5515103 C 8.1865424,8.0009856 9.0188631,6.8731324 9.9534461,6.3444711 11.003595,5.7266415 12.69327,5.4794074 15.097835,5.4794077 h 0.742074 a 0.40592783,0.40592783 0 0 1 0.390673,0.5136636 L 12.435465,19.907984 a 19.939215,10.705278 0 0 0 2.584856,0.173633 L 19.013875,5.7760302 a 0.40592783,0.40592783 0 0 1 0.390674,-0.2966225 h 1.939417 c 1.317596,0 2.337292,0.2354373 3.037024,0.7927162 0.700352,0.5342899 1.04128,1.4035797 1.04128,2.4706504 0,0.1637345 -0.03016,0.3886224 -0.03927,0.570508 L 26.531768,5.055144 Z"
      id="path859"
      inkscape:connector-curvature="0" />
 </svg>
