@@ -17,31 +17,78 @@
    id="svg3248"
    inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="shadowed.svg"
-   inkscape:export-filename="/usr/lib/libreoffice/share/config/images_karasa_Jaga/cmd/32/shadowed.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/shadowed.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
      id="defs3242">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3897">
+       xlink:href="#b"
+       id="linearGradient4629"
+       x1="68.20536"
+       y1="0.54882598"
+       x2="90.199219"
+       y2="39.477398"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="b"
+       gradientUnits="userSpaceOnUse"
+       x1="35.404884"
+       x2="54.657333"
+       y1="7.3243251"
+       y2="81.814293"
+       gradientTransform="scale(0.26458333)">
       <stop
-         style="stop-color:#313131;stop-opacity:1;"
          offset="0"
-         id="stop3893" />
+         stop-color="#3b3e22"
+         id="stop7" />
       <stop
-         style="stop-color:#5d5d5d;stop-opacity:1"
          offset="1"
-         id="stop3895" />
+         stop-color="#454545"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="18.981823"
+       x2="20.202982"
+       y1="294.72055"
+       y2="266.63391"
+       gradientTransform="translate(-43.032287,4.4894041)">
+      <stop
+         offset="0"
+         stop-color="#555"
+         id="stop2" />
+      <stop
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1006"
+       gradientUnits="userSpaceOnUse"
+       x1="18.981823"
+       x2="20.202982"
+       y1="294.72055"
+       y2="266.63391"
+       gradientTransform="translate(3.7611663,-263.57652)">
+      <stop
+         offset="0"
+         stop-color="#555"
+         id="stop1002" />
+      <stop
+         offset="1"
+         id="stop1004" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3897"
-       id="linearGradient4629"
-       x1="38.5625"
-       y1="39.477398"
-       x2="90.199219"
-       y2="39.477398"
+       xlink:href="#a"
+       id="linearGradient861"
+       x1="17.877895"
+       y1="297.00339"
+       x2="17.406181"
+       y2="263.64697"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -51,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="107.44865"
-     inkscape:cy="222.19488"
+     inkscape:zoom="2.8"
+     inkscape:cx="-35.709627"
+     inkscape:cy="75.902693"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -98,9 +145,9 @@
          id="text3806"
          y="292.16077"
          x="7.5062289"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.10869598px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.92776132"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.10869598px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient861);fill-opacity:1;stroke:none;stroke-width:0.92776132"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.04166794px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92776132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.04166794px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92776132;fill-opacity:1;fill:url(#linearGradient861)"
            y="292.16077"
            x="7.5062289"
            id="tspan3804"

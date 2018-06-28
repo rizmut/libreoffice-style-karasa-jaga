@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,7 @@
      id="namedview22"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="58.710003"
+     inkscape:cx="-39.459489"
      inkscape:cy="48.164021"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -97,22 +97,25 @@
        stop-opacity="0"
        id="stop9" />
   </linearGradient>
-  <text
-     id="text14"
-     y="30.893702"
-     x="8.5561895"
-     style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:1.015378">
-    <tspan
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.74053192px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';fill:url(#a);stroke-width:1.015378"
-       id="tspan12"
-       y="30.893702"
+  <g
+     id="g1818">
+    <text
+       style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:1.015378"
        x="8.5561895"
-       font-weight="bold"
-       font-size="42.740532">I</tspan>
-  </text>
-  <path
-     style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#linearGradient1429);fill-opacity:1;stroke-width:1.015378"
-     d="m 17.885667,2.9729648 c 0.01393,0.00796 0.0178,0.026892 0.03152,0.03514 0.02526,0.016669 0.05273,0.015556 0.07803,0.033073 z m 4.027662,0.4139282 -0.04909,0.042891 c 0.0091,-0.00837 0.02037,-0.00933 0.02946,-0.01757 0.0089,-0.00768 0.0106,-0.017674 0.01964,-0.025322 z m -2.92592,1.0862385 c 0.119499,0.3449489 0.24598,0.6963719 0.24598,1.0330119 0,0.8934715 -0.193013,1.8701042 -0.5271,3.054594 l -2.50424,9.0020356 a 18.798872,10.332203 0 0 0 1.056783,0.08165 L 20.372337,6.4321851 a 1.4885026,1.4885026 0 0 1 0,-0.00207 c 0.217891,-0.7807736 0.43959,-1.3998279 0.734322,-1.9569867 z"
-     id="text1416"
-     inkscape:connector-curvature="0" />
+       y="30.893702"
+       id="text14">
+      <tspan
+         font-size="42.740532"
+         font-weight="bold"
+         x="8.5561895"
+         y="30.893702"
+         id="tspan12"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.74053192px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';fill:url(#a);stroke-width:1.015378">I</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="text1416"
+       d="m 17.885667,2.9729648 c 0.01393,0.00796 0.0178,0.026892 0.03152,0.03514 0.02526,0.016669 0.05273,0.015556 0.07803,0.033073 z m 4.027662,0.4139282 -0.04909,0.042891 c 0.0091,-0.00837 0.02037,-0.00933 0.02946,-0.01757 0.0089,-0.00768 0.0106,-0.017674 0.01964,-0.025322 z m -2.92592,1.0862385 c 0.119499,0.3449489 0.24598,0.6963719 0.24598,1.0330119 0,0.8934715 -0.193013,1.8701042 -0.5271,3.054594 l -2.50424,9.0020356 a 18.798872,10.332203 0 0 0 1.056783,0.08165 L 20.372337,6.4321851 a 1.4885026,1.4885026 0 0 1 0,-0.00207 c 0.217891,-0.7807736 0.43959,-1.3998279 0.734322,-1.9569867 z"
+       style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#linearGradient1429);fill-opacity:1;stroke-width:1.015378" />
+  </g>
 </svg>
