@@ -41,7 +41,7 @@
        x2="58.066406"
        y2="48.56543"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458334,0,0,0.26458334,5.8760012,0)" />
+       gradientTransform="matrix(0.26458334,0,0,0.26458334,5.8760011,-0.83204363)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -55,14 +55,21 @@
      inkscape:window-width="1366"
      inkscape:window-height="706"
      id="namedview22"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="2.6074562"
-     inkscape:cx="-24.635828"
-     inkscape:cy="58.72093"
+     inkscape:cx="22.366891"
+     inkscape:cy="50.160548"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821"
+       spacingx="1.5393747"
+       spacingy="1.5393723"
+       empspacing="1" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -70,7 +77,7 @@
      x2="20.22575014415"
      y1="294.82258903077"
      y2="266.54036534865"
-     gradientTransform="matrix(0.82,0,0,0.82,6.1536343,-213.00366)">
+     gradientTransform="matrix(0.82,0,0,0.82,6.1536342,-213.8357)">
     <stop
        offset="0"
        stop-color="#555"
@@ -99,20 +106,20 @@
   </linearGradient>
   <text
      id="text14"
-     y="28.54417"
+     y="27.712128"
      x="10.016239"
      style="font-size:33.53633881px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:0.83840817">
     <tspan
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.29129791px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Italic';fill:url(#a);stroke-width:0.83840817"
        id="tspan12"
-       y="28.54417"
+       y="27.712128"
        x="10.016239"
        font-weight="bold"
        font-size="43.038166">I</tspan>
   </text>
   <path
      style="opacity:1;vector-effect:none;fill:url(#linearGradient1393);fill-opacity:1;stroke:none;stroke-width:0.32500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 17.571412,5.7521037 c 0.01316,0.00752 0.01656,0.025209 0.02946,0.033073 0.0103,0.00693 0.02849,0.00271 0.03876,0.00982 z m 3.667993,0.3085084 -0.03152,0.025321 c 0.0062,-0.0057 0.0155,-0.00626 0.0217,-0.011886 0.0045,-0.00382 0.0053,-0.00963 0.0098,-0.013436 z m -3.050977,0.3669028 c 0.209738,0.3556765 0.345716,0.7545655 0.345716,1.1544514 0,0.6898461 -0.152091,1.4765023 -0.423747,2.4396447 l -2.757971,9.905855 a 20.018645,9.9016955 0 0 0 0.783931,0.01964 20.018645,9.9016955 0 0 0 0.729671,-0.01292 L 20.059632,8.4279097 a 0.92956808,0.92956808 0 0 1 0.0021,-0.00207 C 20.30601,7.550396 20.553607,6.9378464 20.969654,6.4275149 Z"
+     d="m 17.571412,4.9200601 c 0.01316,0.00752 0.01656,0.025209 0.02946,0.033073 0.0103,0.00693 0.02849,0.00271 0.03876,0.00982 z m 3.667993,0.3085084 -0.03152,0.025321 c 0.0062,-0.0057 0.0155,-0.00626 0.0217,-0.011886 0.0045,-0.00382 0.0053,-0.00963 0.0098,-0.013436 z m -3.050977,0.3669028 c 0.209738,0.3556765 0.345716,0.7545655 0.345716,1.1544514 0,0.6898461 -0.152091,1.4765023 -0.423747,2.4396447 l -2.757971,9.9058546 a 20.018645,9.9016955 0 0 0 0.783931,0.01964 20.018645,9.9016955 0 0 0 0.729671,-0.01292 L 20.059632,7.5958661 a 0.92956808,0.92956808 0 0 1 0.0021,-0.00207 C 20.30601,6.7183524 20.553607,6.1058028 20.969654,5.5954713 Z"
      id="path1378"
      inkscape:connector-curvature="0" />
 </svg>
