@@ -193,6 +193,7 @@ cmd/32/pluginsactive.png cmd/32/addons.png
 cmd/32/printpagepreview.png cmd/32/printpreview.png
 cmd/32/pt/underlinesimple.png cmd/32/pt/underline.png
 cmd/32/pt-BR/underlinesimple.png cmd/32/pt-BR/underline.png
+cmd/32/questionanswers.png cmd/32/webhtml.png
 cmd/32/recalcpivottable.png cmd/32/calculate.png
 cmd/32/rect.png cmd/32/basicshapes.rectangle.png
 cmd/32/rect_rounded.png cmd/32/basicshapes.round-rectangle.png
@@ -465,6 +466,7 @@ cmd/lc_pageup.png cmd/lc_navigateback.png
 cmd/lc_pie.png cmd/lc_basicshapes.circle-pie.png
 cmd/lc_pluginsactive.png cmd/lc_addons.png
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
+cmd/lc_questionanswers.png cmd/lc_webhtml.png
 cmd/lc_recalcpivottable.png cmd/lc_calculate.png
 cmd/lc_rect.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_rect_rounded.png cmd/lc_basicshapes.round-rectangle.png
@@ -701,6 +703,7 @@ cmd/sc_pageup.png cmd/sc_navigateback.png
 cmd/sc_pie.png cmd/sc_basicshapes.circle-pie.png
 cmd/sc_pluginsactive.png cmd/sc_addons.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
+cmd/sc_questionanswers.png cmd/sc_webhtml.png
 cmd/sc_recalcpivottable.png cmd/sc_calculate.png
 cmd/sc_rect.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_rect_rounded.png cmd/sc_basicshapes.round-rectangle.png
