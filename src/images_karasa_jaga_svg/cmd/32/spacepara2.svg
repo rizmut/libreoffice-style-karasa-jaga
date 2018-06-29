@@ -14,11 +14,11 @@
    height="128"
    id="svg3408"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.2 (unknown)"
    version="1.0"
    sodipodi:docname="spacepara2.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/spacepara2.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/spacepara2.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
@@ -237,11 +237,11 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2399-7"
-       id="linearGradient27766"
-       x1="32"
-       y1="-56"
-       x2="32"
-       y2="28"
+       id="linearGradient1480"
+       x1="8.4703255"
+       y1="-68.814751"
+       x2="16"
+       y2="32"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -251,9 +251,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="71.342657"
-     inkscape:cy="62.374534"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="13.460208"
+     inkscape:cy="19.255505"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      height="128px"
@@ -344,9 +344,10 @@
        id="rect10749"
        style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:5.74817657;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
+       style="fill:url(#linearGradient1480);fill-rule:evenodd;fill-opacity:1"
+       d="M 21.992188,1.9257812 12.005859,13.910156 13.990234,15.894531 19.994141,12 v 100 l -6.003907,-3.89453 -1.984375,1.98437 9.986329,11.98438 9.984374,-11.98438 -2.083984,-1.98437 L 23.988281,112 V 12 l 5.904297,3.894531 2.083984,-1.984375 z"
+       id="path100"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient27766);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.67329991"
-       d="M 21.389515,3.492194 4.6785774,23.54689 l 3.4843752,3.32032 9.8828124,-6.51564 -0.01564,31.14064 v 5.2578 3.7578 l 0.01564,47.14844 -9.8828124,-6.5156 -3.4843752,3.32028 16.7109376,20.04688 16.703125,-20.04688 -3.320313,-3.32028 -10.046874,6.5156 -0.0078,-47.14844 v -9.0156 l 0.0078,-31.14064 10.046874,6.51564 3.320313,-3.32032 z"
-       id="path9301" />
+       sodipodi:nodetypes="ccccccccccccccc" />
   </g>
 </svg>
