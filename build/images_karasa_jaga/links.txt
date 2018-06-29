@@ -93,6 +93,7 @@ cmd/32/gotostartofdoc.png cmd/32/firstpage.png
 cmd/32/gridmenu.png cmd/32/gridvisible.png
 cmd/32/groupmenu.png cmd/32/group.png
 cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
+cmd/32/hscroll.png cmd/32/hscrollbar.png
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
 cmd/32/hu/underlinesimple.png cmd/32/hu/underline.png
 cmd/32/importfromfile.png cmd/32/importdialog.png
@@ -257,6 +258,7 @@ cmd/32/updatemenu.png cmd/32/reload.png
 cmd/32/view100.png cmd/32/zoom100percent.png
 cmd/32/view3d.png cmd/32/cube.png
 cmd/32/viewsidebarstyles.png cmd/32/designerdialog.png
+cmd/32/vscroll.png cmd/32/scrollbar.png
 cmd/32/vscrollbar.png cmd/32/scrollbar.png
 cmd/32/wrapmenu.png cmd/32/wrapon.png
 cmd/32/zoomminus.png cmd/32/zoomout.png
@@ -376,6 +378,7 @@ cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
 cmd/lc_gridmenu.png cmd/lc_gridvisible.png
 cmd/lc_groupmenu.png cmd/lc_group.png
 cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
+cmd/lc_hscroll.png cmd/lc_hscrollbar.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_importfromfile.png cmd/lc_importdialog.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
@@ -525,6 +528,7 @@ cmd/lc_updatemenu.png cmd/lc_reload.png
 cmd/lc_view100.png cmd/lc_zoom100percent.png
 cmd/lc_view3d.png cmd/lc_cube.png
 cmd/lc_viewsidebarstyles.png cmd/lc_designerdialog.png
+cmd/lc_vscroll.png cmd/lc_scrollbar.png
 cmd/lc_vscrollbar.png cmd/lc_scrollbar.png
 cmd/lc_wrapmenu.png cmd/lc_wrapon.png
 cmd/lc_zoomminus.png cmd/lc_zoomout.png
@@ -610,6 +614,7 @@ cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_groupmenu.png cmd/sc_group.png
 cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
+cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_importfromfile.png cmd/sc_importdialog.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
@@ -759,6 +764,7 @@ cmd/sc_updatemenu.png cmd/sc_reload.png
 cmd/sc_view100.png cmd/sc_zoom100percent.png
 cmd/sc_view3d.png cmd/sc_cube.png
 cmd/sc_viewsidebarstyles.png cmd/sc_designerdialog.png
+cmd/sc_vscroll.png cmd/sc_scrollbar.png
 cmd/sc_vscrollbar.png cmd/sc_scrollbar.png
 cmd/sc_wrapmenu.png cmd/sc_wrapon.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
