@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,15 +78,15 @@
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.42597079"
+         offset="0.4639605"
          id="stop3374" />
       <stop
          style="stop-color:#f1f1f1;stop-opacity:1;"
-         offset="0.5892781"
+         offset="0.70089245"
          id="stop3376" />
       <stop
          id="stop3378"
-         offset="0.80219781"
+         offset="0.927921"
          style="stop-color:#eaeaea;stop-opacity:1;" />
       <stop
          id="stop3384"
@@ -131,16 +131,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="657"
      id="namedview4"
      showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
-     inkscape:zoom="0.86600386"
-     inkscape:cx="114.55221"
-     inkscape:cy="84.816952"
+     inkscape:zoom="1.7320077"
+     inkscape:cx="-12.305582"
+     inkscape:cy="90.985252"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:lockguides="false">

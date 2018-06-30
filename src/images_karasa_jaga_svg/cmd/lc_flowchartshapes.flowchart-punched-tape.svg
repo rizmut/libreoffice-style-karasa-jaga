@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,15 +49,15 @@
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0.42597079"
+         offset="0.43485671"
          id="stop3374" />
       <stop
          style="stop-color:#f1f1f1;stop-opacity:1;"
-         offset="0.5892781"
+         offset="0.72143561"
          id="stop3376" />
       <stop
          id="stop3378"
-         offset="0.80219781"
+         offset="0.94218397"
          style="stop-color:#eaeaea;stop-opacity:1;" />
       <stop
          id="stop3384"
@@ -93,10 +93,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3369"
        id="linearGradient38869"
-       x1="81.175957"
-       y1="190.43587"
-       x2="129.02905"
-       y2="-17.889933"
+       x1="56.926643"
+       y1="131.54468"
+       x2="57.435837"
+       y2="0.5857358"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-1.5904484e-6,-0.65938448)" />
     <linearGradient
@@ -119,16 +119,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="657"
      id="namedview4"
      showgrid="true"
      inkscape:snap-page="true"
      inkscape:snap-global="false"
      inkscape:zoom="0.86600385"
-     inkscape:cx="225.49998"
+     inkscape:cx="-10.642157"
      inkscape:cy="-27.422858"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="false">

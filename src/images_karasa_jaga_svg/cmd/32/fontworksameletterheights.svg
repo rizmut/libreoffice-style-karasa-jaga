@@ -15,9 +15,9 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg889"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="fontworksameletterheights.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/fontworksameletterheights.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/fontworksameletterheights.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
@@ -73,16 +73,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#radialGradient3564"
-       id="linearGradient1483"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.2562284,0.15046505,0,24.505786,303.73809)"
-       x1="10.135816"
-       y1="29.107889"
-       x2="9.6922779"
-       y2="103.48482" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient2399"
        id="linearGradient1576"
        gradientUnits="userSpaceOnUse"
@@ -99,18 +89,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="19.250443"
-     inkscape:cy="43.554447"
+     inkscape:zoom="3.2734375"
+     inkscape:cx="83.623287"
+     inkscape:cy="50.507259"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="741"
+     inkscape:window-height="657"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="30"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       empspacing="1" />
+  </sodipodi:namedview>
   <metadata
      id="metadata886">
     <rdf:RDF>
@@ -130,24 +127,10 @@
      transform="translate(0,-263.13332)">
     <path
        style="fill:url(#linearGradient4326);fill-opacity:1;stroke:none;stroke-width:0.95000201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08780003;stroke-opacity:1"
-       d="M 2.2817835,271.64546 H 31.584883 v -2.1177 H 2.2817835 Z"
+       d="M 2.1166666,271.59999 H 31.749999 v -2.11667 H 2.1166666 Z"
        id="path3669"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:url(#linearGradient1483);fill-opacity:1;stroke:none;stroke-width:0.84693122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08780003;stroke-opacity:1"
-       d="m 37.371372,305.9534 -1.058667,-1.05867 2.117333,-3.176 -8.469664,0.001 v -2.11666 l 8.469664,-0.002 -2.117333,-3.17588 1.058667,-1.05867 6.347335,5.295 z"
-       id="path1481"
-       sodipodi:nodetypes="cccccccccc"
-       inkscape:connector-curvature="0" />
-    <image
-       y="263.35095"
-       x="33.866665"
-       id="image1497"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAA2wAAANsAF9ZVn6AAAAB3RJTUUH4QESFg0mqbTwUQAAANhJREFUOMvNkKEOgmAUhb+fMWa1 0SlEfASiz0AhGXgBN4ubzUb6N9tf/mewuPkI0KSY5Q2YBS0XEwMmm/PEe86995wDv0KSZq++uSuk AlqZPYGjNXo/5bDq+bQEHtboxYCDBthZo/POwQHYAt7QN2u0En0AXIDcEW4DBNZo1YkmOG8/HQAn 4J6kmTexyEYc/wG6UnzgDERjHUiMElhbo2tHlq9ABBQTnhaivSZp5qskzW5A+GWCypnbgQvEEiEE Smv0aqSDLkIFxI41upYjpRBjiEQby+48vAExcUaCFzmJqwAAAABJRU5ErkJggg== "
-       preserveAspectRatio="none"
-       height="33.4314"
-       width="33.4314" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.50358391px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56258965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -165,7 +148,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path1574"
-       d="M 2.2817835,292.81226 H 31.584883 v -2.1177 H 2.2817835 Z"
+       d="M 2.1166666,292.76665 H 31.749999 v -2.11666 H 2.1166666 Z"
        style="fill:url(#linearGradient1576);fill-opacity:1;stroke:none;stroke-width:0.95000201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08780003;stroke-opacity:1" />
   </g>
 </svg>
