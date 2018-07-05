@@ -48,6 +48,9 @@ cmd/32/closemasterview.png cmd/32/quit.png
 cmd/32/closepreview.png cmd/32/closedoc.png
 cmd/32/columnoperations.png cmd/32/entirecolumn.png
 cmd/32/commentchange.png cmd/32/commentchangetracking.png
+cmd/32/commonalignbottom.png cmd/32/alignbottom.png
+cmd/32/commonaligntop.png cmd/32/aligntop.png
+cmd/32/commonalignverticalcenter.png cmd/32/alignverticalcenter.png
 cmd/32/commontaskbarvisible.png cmd/32/autoformat.png
 cmd/32/config.png cmd/32/choosecontrols.png
 cmd/32/connectortoolbox.png cmd/32/connector.png
@@ -351,6 +354,9 @@ cmd/lc_closemasterview.png cmd/lc_quit.png
 cmd/lc_closepreview.png cmd/lc_closedoc.png
 cmd/lc_columnoperations.png cmd/lc_entirecolumn.png
 cmd/lc_commentchange.png cmd/lc_commentchangetracking.png
+cmd/lc_commonalignbottom.png cmd/lc_alignbottom.png
+cmd/lc_commonaligntop.png cmd/lc_aligntop.png
+cmd/lc_commonalignverticalcenter.png cmd/lc_alignverticalcenter.png
 cmd/lc_commontaskbarvisible.png cmd/lc_autoformat.png
 cmd/lc_config.png cmd/lc_choosecontrols.png
 cmd/lc_connectortoolbox.png cmd/lc_connector.png
@@ -603,6 +609,9 @@ cmd/sc_closemasterview.png cmd/sc_quit.png
 cmd/sc_closepreview.png cmd/sc_closedoc.png
 cmd/sc_columnoperations.png cmd/sc_entirecolumn.png
 cmd/sc_commentchange.png cmd/sc_commentchangetracking.png
+cmd/sc_commonalignbottom.png cmd/sc_alignbottom.png
+cmd/sc_commonaligntop.png cmd/sc_aligntop.png
+cmd/sc_commonalignverticalcenter.png cmd/sc_alignverticalcenter.png
 cmd/sc_commontaskbarvisible.png cmd/sc_autoformat.png
 cmd/sc_config.png cmd/sc_choosecontrols.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
