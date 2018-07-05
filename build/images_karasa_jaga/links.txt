@@ -114,8 +114,8 @@ cmd/32/insertcurrencyfield.png cmd/32/currencyfield.png
 cmd/32/insertcurrentdate.png cmd/32/datefield.png
 cmd/32/insertcurrenttime.png cmd/32/timefield.png
 cmd/32/insertdatefield.png cmd/32/datefield.png
-cmd/32/insertdatefielfix.png cmd/32/datefield.png
-cmd/32/insertdatefielvar.png cmd/32/datefield.png
+cmd/32/insertdatefieldfix.png cmd/32/datefield.png
+cmd/32/insertdatefieldvar.png cmd/32/datefield.png
 cmd/32/insertedit.png cmd/32/edit.png
 cmd/32/insertfieldctrl.png cmd/32/insertfield.png
 cmd/32/insertfilecontrol.png cmd/32/filecontrol.png
@@ -417,8 +417,8 @@ cmd/lc_insertcurrencyfield.png cmd/lc_currencyfield.png
 cmd/lc_insertcurrentdate.png cmd/lc_datefield.png
 cmd/lc_insertcurrenttime.png cmd/lc_timefield.png
 cmd/lc_insertdatefield.png cmd/lc_datefield.png
-cmd/lc_insertdatefielfix.png cmd/lc_datefield.png
-cmd/lc_insertdatefielvar.png cmd/lc_datefield.png
+cmd/lc_insertdatefieldfix.png cmd/lc_datefield.png
+cmd/lc_insertdatefieldvar.png cmd/lc_datefield.png
 cmd/lc_insertedit.png cmd/lc_edit.png
 cmd/lc_insertfieldctrl.png cmd/lc_insertfield.png
 cmd/lc_insertfilecontrol.png cmd/lc_filecontrol.png
@@ -672,8 +672,8 @@ cmd/sc_insertcurrencyfield.png cmd/sc_currencyfield.png
 cmd/sc_insertcurrentdate.png cmd/sc_datefield.png
 cmd/sc_insertcurrenttime.png cmd/sc_timefield.png
 cmd/sc_insertdatefield.png cmd/sc_datefield.png
-cmd/sc_insertdatefielfix.png cmd/sc_datefield.png
-cmd/sc_insertdatefielvar.png cmd/sc_datefield.png
+cmd/sc_insertdatefieldfix.png cmd/sc_datefield.png
+cmd/sc_insertdatefieldvar.png cmd/sc_datefield.png
 cmd/sc_insertedit.png cmd/sc_edit.png
 cmd/sc_insertfieldctrl.png cmd/sc_insertfield.png
 cmd/sc_insertfilecontrol.png cmd/sc_filecontrol.png
