@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,17 +52,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      id="namedview22"
-     showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="165.27399"
-     inkscape:cy="51.238563"
+     showgrid="true"
+     inkscape:zoom="3.6875"
+     inkscape:cx="18.166234"
+     inkscape:cy="56.657891"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825"
+       spacingx="1.5393723"
+       spacingy="1.5393723"
+       empspacing="1" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -70,7 +77,7 @@
      x2="20.22575014415"
      y1="294.82258903077"
      y2="266.54036534865"
-     gradientTransform="matrix(0.82,0,0,0.82,2.8715434,-212.95072)">
+     gradientTransform="matrix(0.84362046,0,0,0.84362046,2.9542594,-219.94213)">
     <stop
        offset="0"
        stop-color="#555"
@@ -100,17 +107,18 @@
   <g
      id="g856">
     <text
-       style="font-size:33.53633881px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:0.83840817"
-       x="6.7341485"
-       y="28.597107"
-       id="text14">
+       style="font-size:34.50236511px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:0.86255884"
+       x="6.9281287"
+       y="28.563585"
+       id="text14"
+       transform="scale(0.97200109,1.0288054)">
       <tspan
          font-size="43.038166"
          font-weight="bold"
-         x="6.7341485"
-         y="28.597107"
+         x="6.9281287"
+         y="28.563585"
          id="tspan12"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.29129791px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#a);stroke-width:0.83840817">Σ</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.3078804px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#a);stroke-width:0.86255884">Σ</tspan>
     </text>
     <path
        inkscape:connector-curvature="0"
