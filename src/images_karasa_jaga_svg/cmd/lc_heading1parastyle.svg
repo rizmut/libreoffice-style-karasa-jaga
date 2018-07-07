@@ -14,10 +14,10 @@
    height="128"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="lc_heading1parastyle.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_heading1parastyle.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_heading1parastyle.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5">
   <defs
@@ -166,6 +166,49 @@
        y1="289.57986"
        x2="778.88196"
        y2="284.53162" />
+    <linearGradient
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="15.70367"
+       x2="16.933331"
+       y1="294.8226"
+       y2="266.54037"
+       gradientTransform="matrix(2.9960283,0,0,2.9960284,-6.1827464,-773.85961)">
+      <stop
+         offset="0"
+         stop-color="#555"
+         id="stop2" />
+      <stop
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#b"
+       id="linearGradient3858"
+       x1="40.7267"
+       y1="11.638"
+       x2="46.5448"
+       y2="75.6371"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="b"
+       gradientUnits="userSpaceOnUse"
+       x1="15.703671"
+       x2="16.933332"
+       y1="262.85138"
+       y2="288.67429"
+       gradientTransform="matrix(3.0992126,0,0,3.0992126,-6.3956822,-803.98609)">
+      <stop
+         offset="0"
+         stop-color="#3b3e22"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#454545"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -175,7 +218,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0020597"
-     inkscape:cx="8.7817183"
+     inkscape:cx="-78.628263"
      inkscape:cy="41.988215"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -185,7 +228,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="741"
+     inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -217,7 +260,7 @@
             <dc:title>Oxygen team</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
@@ -240,6 +283,28 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
+    <g
+       transform="translate(0,3.292193e-6)"
+       id="g3863">
+      <text
+         style="font-size:122.53149414px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:3.06328607"
+         x="-1.9341536"
+         y="108.68205"
+         id="text14"
+         transform="scale(0.98623208,1.0139601)">
+        <tspan
+           style="font-size:128.94355774px;font-family:FreeSerif;fill:url(#a);stroke-width:3.06328607"
+           font-size="43.038166"
+           x="-1.9341536"
+           y="108.68205"
+           id="tspan12">H</tspan>
+      </text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3843"
+         d="m 8.3925781,25.761719 c 0.9019458,0.434113 1.7172599,0.945058 2.3632809,1.646484 2.122795,2.204754 2.490235,5.605452 2.490235,10.490235 v 35.460937 a 66.90815,31.99955 0 0 0 8.861328,1.355469 v -5.701172 a 2.0557256,2.1135226 0 0 1 2.054687,-2.111328 h 38.53125 a 2.0557256,2.1135226 0 0 1 2.054688,2.111328 v 3.898437 a 66.90815,31.99955 0 0 0 8.861328,-2.283203 V 37.898438 c 0,-4.884783 0.36744,-8.285481 2.490234,-10.490235 0.646023,-0.701426 1.461336,-1.212371 2.363282,-1.646484 H 59.896484 c 0.901946,0.434113 1.71726,0.945058 2.363282,1.646484 2.123499,2.205498 2.488281,5.606042 2.488281,10.490235 V 63.261719 A 2.0557256,2.1135226 0 0 1 62.693359,65.375 H 24.162109 A 2.0557256,2.1135226 0 0 1 22.107422,63.261719 V 37.898438 c 0,-4.884193 0.364779,-8.284737 2.488281,-10.490235 0.646023,-0.701427 1.461335,-1.212371 2.363281,-1.646484 z"
+         style="opacity:0.75;fill:url(#linearGradient3858);fill-opacity:1;stroke:none;stroke-width:5.81799984;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
     <g
        id="g10341"
        transform="matrix(10.794345,0,0,10.794345,-1790.3431,-249.8185)">
@@ -267,27 +332,6 @@
            y="34"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.81405258px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bfd9ff">1</tspan></text>
     </g>
-    <rect
-       style="opacity:1;fill:#3f3f3f;fill-opacity:0.83921569;stroke:none;stroke-width:5.04178143;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect10384"
-       width="11.879244"
-       height="98.9077"
-       x="5.8181"
-       y="11.638" />
-    <rect
-       y="11.638"
-       x="46.5448"
-       height="100"
-       width="11.6362"
-       id="rect10386"
-       style="opacity:1;fill:#3f3f3f;fill-opacity:0.83921569;stroke:none;stroke-width:5.01741648;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#3f3f3f;fill-opacity:0.83921569;stroke:none;stroke-width:6.02230597;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect10388"
-       width="29.0905"
-       height="11.6362"
-       x="17.4543"
-       y="52.3647" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.98730469px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.74969089px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

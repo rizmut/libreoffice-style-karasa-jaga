@@ -17,7 +17,7 @@
    inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="lc_titleparastyle.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_titleparastyle.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_titleparastyle.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5">
   <defs
@@ -166,6 +166,49 @@
        y1="289.57986"
        x2="778.88196"
        y2="284.53162" />
+    <linearGradient
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="15.70367"
+       x2="16.933331"
+       y1="294.8226"
+       y2="266.54037"
+       gradientTransform="matrix(3.1475386,0,0,3.1475386,-6.4954101,-818.50325)">
+      <stop
+         offset="0"
+         stop-color="#555"
+         id="stop1450" />
+      <stop
+         offset="1"
+         id="stop1452" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#b"
+       id="linearGradient942"
+       x1="34.9086"
+       y1="0.0018"
+       x2="40.7267"
+       y2="64.0009"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="b"
+       gradientUnits="userSpaceOnUse"
+       x1="15.703671"
+       x2="16.933332"
+       y1="262.85138"
+       y2="288.67429"
+       gradientTransform="matrix(3.0992126,0,0,3.1966182,-6.3956822,-831.26617)">
+      <stop
+         offset="0"
+         stop-color="#3b3e22"
+         id="stop1455" />
+      <stop
+         offset="1"
+         stop-color="#454545"
+         stop-opacity="0"
+         id="stop1457" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -174,9 +217,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.83134"
-     inkscape:cx="-22.107889"
-     inkscape:cy="34.752614"
+     inkscape:zoom="0.707835"
+     inkscape:cx="-193.73523"
+     inkscape:cy="-86.560412"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -217,7 +260,7 @@
             <dc:title>Oxygen team</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/LGPL/2.1/">
@@ -267,31 +310,27 @@
            y="34"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.81405258px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bfd9ff">1</tspan></text>
     </g>
-    <rect
-       y="23.2742"
-       x="29.0905"
-       height="87.2715"
-       width="11.6362"
-       id="rect10386"
-       style="opacity:1;fill:#3f3f3f;fill-opacity:0.83921569;stroke:none;stroke-width:4.68723106;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#3f3f3f;fill-opacity:0.83921569;stroke:none;stroke-width:8.51682663;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect10388"
-       width="58.181"
-       height="11.6362"
-       x="5.8181"
-       y="11.638" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.98730469px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.74969089px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="147.88242"
-       y="55.393745"
-       id="text11096"
-       transform="scale(0.99978865,1.0002114)"><tspan
-         sodipodi:role="line"
-         id="tspan11094"
-         x="147.88242"
-         y="55.393745"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.98730469px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.74969089px">4</tspan></text>
+    <g
+       transform="translate(0,-2.909828e-6)"
+       id="g947">
+      <text
+         transform="scale(0.98464641,1.015593)"
+         style="font-size:128.72796631px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:3.21819782"
+         x="-2.0319643"
+         y="108.66886"
+         id="text1462">
+        <tspan
+           style="font-size:135.46429443px;font-family:FreeSerif;fill:url(#a);stroke-width:3.21819782"
+           font-size="43.038166"
+           x="-2.0319643"
+           y="108.66886"
+           id="tspan1460">T</tspan>
+      </text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path927"
+         d="m 4.53125,23.273438 -0.1621094,4.699218 c 0.7372916,-1.067944 1.5620129,-2.014323 2.515625,-2.822265 a 3.8647986,3.9862659 0 0 1 0.050781,-0.04297 c 0.9128822,-0.746765 1.9368145,-1.328559 3.0273437,-1.833984 z m 30.53125,0 a 3.8647986,3.9862659 0 0 1 0.414062,1.792968 v 50.507813 a 72.72625,37.81765 0 0 0 5.876954,-0.296875 V 25.066406 a 3.8647986,3.9862659 0 0 1 0.417968,-1.792968 z m 31.869141,0 c 1.063931,0.502711 2.055001,1.088933 2.945312,1.833984 0.980269,0.776121 1.829105,1.690238 2.578125,2.730469 l -0.15625,-4.564453 z"
+         style="opacity:0.75;fill:url(#linearGradient942);fill-opacity:1;stroke:none;stroke-width:5.81799984;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
