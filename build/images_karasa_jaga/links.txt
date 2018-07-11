@@ -234,6 +234,10 @@ cmd/32/sbabrwinsert.png cmd/32/insertfield.png
 cmd/32/scrollbarmenu.png cmd/32/scrollbar.png
 cmd/32/scrolltonext.png cmd/32/downsearch.png
 cmd/32/scrolltoprevious.png cmd/32/upsearch.png
+cmd/32/sectionalignbottom.png cmd/32/aligndown.png
+cmd/32/sectionalignleft.png cmd/32/objectalignleft.png
+cmd/32/sectionalignright.png cmd/32/objectalignright.png
+cmd/32/sectionaligntop.png cmd/32/alignup.png
 cmd/32/selectmode.png cmd/32/selectobject.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
@@ -526,6 +530,10 @@ cmd/lc_sbabrwinsert.png cmd/lc_insertfield.png
 cmd/lc_scrollbarmenu.png cmd/lc_scrollbar.png
 cmd/lc_scrolltonext.png cmd/lc_downsearch.png
 cmd/lc_scrolltoprevious.png cmd/lc_upsearch.png
+cmd/lc_sectionalignbottom.png cmd/lc_aligndown.png
+cmd/lc_sectionalignleft.png cmd/lc_objectalignleft.png
+cmd/lc_sectionalignright.png cmd/lc_objectalignright.png
+cmd/lc_sectionaligntop.png cmd/lc_alignup.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
 cmd/lc_setdefault.png cmd/lc_resetattributes.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
@@ -782,6 +790,10 @@ cmd/sc_sbabrwinsert.png cmd/sc_insertfield.png
 cmd/sc_scrollbarmenu.png cmd/sc_scrollbar.png
 cmd/sc_scrolltonext.png cmd/sc_downsearch.png
 cmd/sc_scrolltoprevious.png cmd/sc_upsearch.png
+cmd/sc_sectionalignbottom.png cmd/sc_aligndown.png
+cmd/sc_sectionalignleft.png cmd/sc_objectalignleft.png
+cmd/sc_sectionalignright.png cmd/sc_objectalignright.png
+cmd/sc_sectionaligntop.png cmd/sc_alignup.png
 cmd/sc_selectmode.png cmd/sc_selectobject.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
