@@ -24,7 +24,7 @@
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="sc_exporttopdf.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/sc_exporttopdf.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_exporttopdf.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12"><defs
    id="defs105"><linearGradient
@@ -1139,7 +1139,17 @@
      id="stop2813" /><stop
      style="stop-color:#c3c3c3;stop-opacity:1;"
      offset="1"
-     id="stop2815" /></linearGradient></defs><sodipodi:namedview
+     id="stop2815" /></linearGradient><filter
+   inkscape:collect="always"
+   style="color-interpolation-filters:sRGB"
+   id="filter1170"
+   x="-0.03758446"
+   width="1.0751689"
+   y="-0.032387068"
+   height="1.0647741"><feGaussianBlur
+     inkscape:collect="always"
+     stdDeviation="1.5635135"
+     id="feGaussianBlur1172" /></filter></defs><sodipodi:namedview
    inkscape:window-height="706"
    inkscape:window-width="1366"
    inkscape:pageshadow="2"
@@ -1151,12 +1161,12 @@
    bordercolor="#666666"
    pagecolor="#ffffff"
    id="base"
-   inkscape:zoom="3.6093749"
-   inkscape:cx="36.270275"
-   inkscape:cy="97.02369"
+   inkscape:zoom="1.8046875"
+   inkscape:cx="8.8018991"
+   inkscape:cy="73.795169"
    inkscape:window-x="0"
    inkscape:window-y="0"
-   inkscape:current-layer="Layer_1"
+   inkscape:current-layer="g1288"
    showgrid="true"
    showguides="true"
    inkscape:guide-bbox="true"
@@ -1218,7 +1228,7 @@
 	</ns:sfw>
 <rdf:RDF><cc:Work
      rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata>
 
 <radialGradient
    id="XMLID_7_"
@@ -1421,14 +1431,14 @@
      inkscape:connector-curvature="0" /><path
      sodipodi:nodetypes="cccccccc"
      transform="matrix(1.0416667,0,0,1.0357143,-17.958334,-3.3215342)"
-     style="opacity:0.83561647;fill:#000000;fill-opacity:1;filter:url(#filter3241)"
-     d="M 23,9.9655172 23.040816,121 H 84.172 c 0.53,0 1.039,-0.211 1.414,-0.586 13.296921,-8.21061 24.14086,-19.26784 32.828,-32.828 C 118.789,87.211 119,86.702 119,86.172 V 9.9655172 Z"
+     style="opacity:0.83561647;fill:#000000;fill-opacity:1;filter:url(#filter1170)"
+     d="M 21.08,7.0690674 V 122.93113 l 63.092,-10e-5 c 0.53,0 1.039,-0.211 1.414,-0.586 13.296921,-8.21061 26.06086,-21.19887 34.748,-34.75903 0.375,-0.375 0.586,-0.884 0.586,-1.414 l 0,-79.1029326 z"
      id="path6594"
      inkscape:connector-curvature="0" /><path
      sodipodi:nodetypes="cccccccc"
      id="path34"
      d="m 8.000001,8 v 112 h 61.172 c 0.53,0 1.039,-0.211 1.414,-0.586 L 103.414,86.586 C 103.789,86.211 104,85.702 104,85.172 V 8 Z"
-     style="fill:#ae1111;fill-opacity:1"
+     style="fill:#d01414;fill-opacity:1"
      inkscape:connector-curvature="0" /><path
      sodipodi:nodetypes="ccccccccccc"
      id="path59"

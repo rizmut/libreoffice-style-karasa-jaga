@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="31.401455"
-     inkscape:cy="118.02717"
+     inkscape:zoom="5.2591067"
+     inkscape:cx="63.606194"
+     inkscape:cy="86.82836"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -72,7 +72,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,9 +98,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
+    <rect
+       style="opacity:0.85;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:1.58749998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3765"
+       width="33.866188"
+       height="33.866188"
+       x="0"
+       y="-296.99997"
+       transform="scale(1,-1)" />
     <g
        id="g3763"
-       transform="matrix(0.97678952,0,0,0.97678952,0.06534899,6.8575116)">
+       transform="matrix(0.97678952,0,0,0.93448931,0.06534899,17.797491)">
       <text
          id="text3806"
          y="295.44897"
@@ -121,7 +129,7 @@
     </g>
     <g
        id="g3758"
-       transform="matrix(1.1087968,0,0,1.1087968,-3.384258,-27.444482)">
+       transform="matrix(0.8315976,0,0,0.8315976,3.1887006,47.009566)">
       <text
          id="text835"
          y="278.65265"

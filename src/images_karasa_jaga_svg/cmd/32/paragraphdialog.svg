@@ -16,7 +16,7 @@
    height="128"
    viewBox="0 0 128 128"
    sodipodi:docname="paragraphdialog.svg"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Proyek-Git/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/paragraphdialog.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -492,7 +492,7 @@
      inkscape:snap-text-baseline="false"
      inkscape:snap-page="true"
      inkscape:zoom="2.4494287"
-     inkscape:cx="33.934368"
+     inkscape:cx="-37.510863"
      inkscape:cy="79.219335"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -511,14 +511,6 @@
      id="path909"
      d="M 56.019531,4.7050781 V 4.9511719 C 40.16467,6.7718114 28.189854,20.183539 28.169922,36.142578 c 0.01101,15.965751 11.98809,29.387571 27.849609,31.208984 V 119.42578 H 69.857422 V 31.291016 h 8.162109 V 119.42578 H 91.857422 V 18.011719 h 6.060547 c 0.929595,0 1.677734,-0.748139 1.677734,-1.677735 V 6.3847656 c 0,-0.9295954 -0.748139,-1.6796875 -1.677734,-1.6796875 H 91.857422 80.019531 67.857422 Z"
      style="opacity:0.74;fill:url(#radialGradient917);fill-opacity:1;stroke:none;stroke-width:1.62827027;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <image
-     width="127.99999"
-     height="127.99999"
-     preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHFSURB VDiNtZXPitNQFIe/SZOrFcPELFpUKKGXDghusp3FvIQIddOFrl37Cu58DHc+Q8GFlBZL3YUilUKh zb5pQtNcF9pMmkky09H+IHCTe853fpzcP2fcrkfAC+Ac0EpifgB+9sNZBfAc+NjpdN5KKYVlWemE UgqlFACz2YzhcPgK+JJN1kuglmmag16vd+E4TgrKP4vFgslkUggoBGua9qnb7V40Gg3W63UpuN/v 43neS+DXXcBPpJQ927ZvQFerFZ7nIYTAdV222y3ADAjuAnabzaZW5HQwGDCdTq+A17Ztv4/juKST xeCHcRzfcJskyd7hGLgMgoDdbncU2PN9n1arlQL38KzDMAw51vHP+Xw+brfbrmEYB66zoM1mUwku XPBxHL8bjUZREAREUUQYhoRhSJIkaUwURZWtqNJlvV5fOI6jpJRKSqlM01TAY+CDaZpK13XFn515 tB4Ab4BvlmUpIcQB2DCMUnDZ3t8rAj4DX3VdR9Ouww3DoFarlSbeBk4lhDgA5wvdG5x3mC/0T+CT OM47zBe6NzjfipP9vP/q+CTg5XJJEFwfu77vH7znVXXnZfUUePZ3PAYawHNAAd+LEn4DBED+LhAl RL0AAAAASUVORK5CYII= "
-     id="image10"
-     x="-127.99999"
-     y="-6.6613381e-16" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.19602776;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 153.1897,6.6062617 -1.61842,31.9659813 h 7.68862 l 0.33673,-1.616496 c 1.62021,-8.865673 4.91193,-13.323264 7.56728,-15.496907 1.54161,-1.260214 2.50696,-1.82056 4.32134,-2.251546 1.81439,-0.430988 4.52668,-0.635051 9.03554,-0.635051 h 7.01517 l 0.0353,67.999999 c -0.31304,4.423918 0.54758,9.576952 -2.12297,13.399761 -2.63693,2.935367 -8.07363,2.829247 -12.08115,3.268277 l -1.79588,0.1732 v 7.15876 h 52 v -7.15876 l -1.79588,-0.1732 c -6.44286,-0.48116 -9.93895,-1.15418 -11.73478,-2.64742 -2.45336,-2.039989 -2.46934,-7.774428 -2.46934,-14.020618 V 18.572243 h 7.29578 c 4.70821,0 7.55277,0.200033 9.37226,0.635051 1.81949,0.435018 2.68172,1.003308 4.04074,2.251546 2.3871,2.195171 5.38347,6.717684 7.26587,15.55464 l 0.33673,1.558763 7.68862,0.1 -1.37313,-32.0659793 z"
