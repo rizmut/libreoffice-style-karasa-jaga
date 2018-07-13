@@ -12,14 +12,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    width="127.74194"
    height="127.74194"
    viewBox="0 0 127.74194 127.74194"
    sodipodi:docname="togglesheetgrid.svg"
-   inkscape:export-filename="/usr/lib/libreoffice/share/config/images_karasa_Jaga/cmd/32/tabledialog.png"
-   inkscape:export-xdpi="22.545454"
-   inkscape:export-ydpi="22.545454">
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/togglesheetgrid.png"
+   inkscape:export-xdpi="24.049999"
+   inkscape:export-ydpi="24.049999">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -379,21 +379,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      id="namedview4"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-page="false"
-     inkscape:zoom="2"
-     inkscape:cx="41.924094"
-     inkscape:cy="17.237722"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="11.497658"
+     inkscape:cy="68.972197"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid887"
+       spacingx="3.9999999"
+       spacingy="3.9999999"
+       empspacing="1" />
+  </sodipodi:namedview>
   <g
      id="g4241"
-     transform="translate(-2,0)">
+     transform="translate(-1.8709719,-2.1290257)">
     <rect
        style="fill:url(#linearGradient3733);fill-opacity:1;stroke:none"
        id="rect3723"
@@ -403,32 +410,9 @@
        y="25.870972" />
     <path
        style="fill:url(#linearGradient4657);fill-opacity:1;stroke:none"
-       d="M 3.8710938 21.871094 L 3.8710938 25.871094 L 3.8710938 41.871094 L 3.8710938 45.871094 L 3.8710938 61.871094 L 3.8710938 65.871094 L 3.8710938 81.871094 L 3.8710938 85.871094 L 3.8710938 101.87109 L 3.8710938 105.87109 L 7.8710938 105.87109 L 27.871094 105.87109 L 31.871094 105.87109 L 59.871094 105.87109 L 63.871094 105.87109 L 91.871094 105.87109 L 95.871094 105.87109 L 115.87109 105.87109 L 119.87109 105.87109 L 119.87109 101.87109 L 119.87109 85.871094 L 119.87109 81.871094 L 119.87109 65.871094 L 119.87109 61.871094 L 119.87109 45.871094 L 119.87109 41.871094 L 119.87109 25.871094 L 119.87109 21.871094 L 115.87109 21.871094 L 95.871094 21.871094 L 91.871094 21.871094 L 63.871094 21.871094 L 59.871094 21.871094 L 31.871094 21.871094 L 27.871094 21.871094 L 7.8710938 21.871094 L 3.8710938 21.871094 z M 7.8710938 25.871094 L 27.871094 25.871094 L 27.871094 41.871094 L 7.8710938 41.871094 L 7.8710938 25.871094 z M 31.871094 25.871094 L 59.871094 25.871094 L 59.871094 41.871094 L 31.871094 41.871094 L 31.871094 25.871094 z M 63.871094 25.871094 L 91.871094 25.871094 L 91.871094 41.871094 L 63.871094 41.871094 L 63.871094 25.871094 z M 95.871094 25.871094 L 115.87109 25.871094 L 115.87109 41.871094 L 95.871094 41.871094 L 95.871094 25.871094 z M 7.8710938 45.871094 L 27.871094 45.871094 L 27.871094 61.871094 L 7.8710938 61.871094 L 7.8710938 45.871094 z M 31.871094 45.871094 L 59.871094 45.871094 L 59.871094 57.275391 A 62.900083 61.781859 0 0 1 63.871094 54.861328 L 63.871094 45.871094 L 91.871094 45.871094 L 91.871094 47.220703 A 62.900083 61.781859 0 0 1 94.328125 47.097656 A 62.900083 61.781859 0 0 1 95.871094 47.140625 L 95.871094 45.871094 L 115.87109 45.871094 L 115.87109 50.916016 L 115.87109 61.871094 L 115.87109 65.871094 L 115.87109 81.871094 L 115.87109 85.871094 L 115.87109 101.87109 L 95.871094 101.87109 L 91.871094 101.87109 L 63.871094 101.87109 L 59.871094 101.87109 L 31.871094 101.87109 L 31.871094 85.871094 L 36.025391 85.871094 A 62.900083 61.781859 0 0 1 37.84375 81.871094 L 31.871094 81.871094 L 31.871094 65.871094 L 49.208984 65.871094 A 62.900083 61.781859 0 0 1 53.574219 61.871094 L 31.871094 61.871094 L 31.871094 45.871094 z M 7.8710938 65.871094 L 27.871094 65.871094 L 27.871094 81.871094 L 7.8710938 81.871094 L 7.8710938 65.871094 z M 7.8710938 85.871094 L 27.871094 85.871094 L 27.871094 101.87109 L 7.8710938 101.87109 L 7.8710938 85.871094 z "
+       d="m 3.8710938,21.871094 v 4 16 4 16 4 16 4 15.999996 4 h 4 20.0000002 4 28 4 28 4 19.999996 4 v -4 -15.999996 -4 -16 -4 -16 -4 -16 -4 h -4 -19.999996 -4 -28 -4 -28 -4 -20.0000002 z m 4,4 H 27.871094 v 16 H 7.8710938 Z m 24.0000002,0 h 28 v 16 h -28 z m 32,0 h 28 v 16 h -28 z m 32,0 h 19.999996 v 16 H 95.871094 Z m -88.0000002,20 H 27.871094 v 16 H 7.8710938 Z m 24.0000002,0 h 28 v 11.404297 a 62.900083,61.781859 0 0 1 4,-2.414063 v -8.990234 h 28 v 1.349609 a 62.900083,61.781859 0 0 1 2.457031,-0.123047 62.900083,61.781859 0 0 1 1.542969,0.04297 v -1.269531 h 19.999996 v 5.044922 10.955078 4 16 4 15.999996 h -19.999996 -4 -28 -4 -28 V 85.871094 h 4.154297 a 62.900083,61.781859 0 0 1 1.818359,-4 h -5.972656 v -16 h 17.33789 a 62.900083,61.781859 0 0 1 4.365235,-4 H 31.871094 Z m -24.0000002,20 H 27.871094 v 16 H 7.8710938 Z m 0,20 H 27.871094 V 101.87109 H 7.8710938 Z"
        transform="translate(2)"
-       id="rect3956" />
+       id="rect3956"
+       inkscape:connector-curvature="0" />
   </g>
-  <image
-     width="127.74194"
-     height="127.74194"
-     preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAOnSURB VDiNtdVfaBxFHMDx78zuXS5tYxrOCoYabFWSIIkYU63/sBap/5D60oB/QGpoJAo+CCUUFEvpk33R UJBCLW0RSqyWUGyrBUNpSV+sLRKtSdMghsufy/1NLvdvd29+PiS3vaStvrQDP2Zndvczv50ZZpWI cDeKvisqoIA6oP4Ou+M2sC2dTh8IhUJ3TA2FQq/ZixdEZ2IAKKXQWqP1Ql1uK6WWxsLDfl0u99TU AGADeJ6HiCyClXEbdBFUSt3AlxU98OHqrh++6iE+E0UpsCztx80DVYRlobXGqmxb1g24reOt1lda E5w+sJtYdHqhU2t0eUr8qdE+VI4yri3L7/Nh11PUtL9P1+uKUxW4WoRUBW4ty9pvVwzuw+K5RozD mue72PGqw8n9nxKdmly4WZntssxvOe8Vi6jBBXERL8uaZ97mvS1Z+nt3MT05iSzi6n+wW8Iirhhx EDKIyVP/3Bu8s2WWE707mZ6YWNgtt9ty/wWXjKugCKUIwixG8jQ8u5mOlxJ8/+UnRKcmKZ8nlS9n s1kuX/6NkWsjRCIREokEqVSKZDIJUNKecVC4iPsXY+f6gQxSyvPQxg1sfWGG/v07mZmeQkR8VCnF 9eujtLdvoLmpmYaGBsLhMFVVVfT3n5gHBnVRXI3yEHKc+iXF0LkBhAymVKBpYyMvtv3Nj1/3EItO YYzxs165apX/2SJCLpfj+PG+QmfnjvUiktVOyQPlYiRPvFBDxHmZK+d/xZgMxinQ8mQ97euGOPvN ZyTjUYwxAKyoXrEE7es75mzf3tkoIjEAXTSuEjwgjwpYPPjYm1j3f8CVC8MYk6GUS/H4E4bWe88y cGQvs8k4IkIoFPLRo0cPu93dH7WJyLi/ePOZGSCJccawAxZaWzzc1kFw/cdcGhzByw7jpidpeTRF S90JLvbtYy6Z8NFDhw6Wenp2bSoWi39WnhV2rlBUUCSdcakNzhEZOsz8RC1W0KIQaOfq6CWa62dx 8jaPrEsTGv+Wnw86VDduYjoWM3v27N06Nzd3cfkhZBddUCZLbbiabe/GUXJMdEmhRFj7gEBR8IxW lqdwkhZr65Oo4hFn3xffnT89nO+NpzNnbj7bwA7aAUzhKqgmVocBDyWeIK4gAUGCgnGEkhbEFoqO Idxogp93J59uO6l/OjMWvqCUmpVlP097PhGcH/2jtsYOQjCIBAJga7CUEhsRjYhoULaAEZQnYnIl Vt5XZ29+6lrH4D+lgd3wO7AE/hf0hsBhqYNxmgAAAABJRU5ErkJggg== "
-     id="image10"
-     x="178.71573"
-     y="79.074638" />
-  <image
-     y="-17.887085"
-     x="-156.62903"
-     id="image936"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAACYQAAAmEBwTBV+gAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEoSURB
-VDiNY/z//z8DLQATTUxlYGBguXDhAm2cfPz48f9///6DY3Q+MXLYzGD5+fMnw79//+AWofORAS45
-bGZADf6Ppgh76OCSw2YG48aNG2kSxiw/f/5k8Pbxgwts3bIJhY8McMl9/fKFgZuHB0UdSWEsICiI
-VY6TiwszjH/8+IESPuh8ZGBuboVTDhn8+PGDgXHKlCk4VTIzszCYmJoxqKioEjQMGSxdshASFPGJ
-qXDBhfNno/AZGBgY/hLhSmSACIr/iPBB55MDfvz4QVo6JhbAXdzX3Y4i8eTxIwYpaRmyDYa7uLSi
-Fi7Y29XKICIqTpGrkZIbIkw5ubgZmJiYcKZlklyM7Lo3r18x/Pnzl4GJifyi+ufPnwyMkZGRNCkr
-GIdc1UQzgwEwCC8gcsvE0gAAAABJRU5ErkJggg==
-"
-     preserveAspectRatio="none"
-     height="136.25806"
-     width="136.25806" />
 </svg>
