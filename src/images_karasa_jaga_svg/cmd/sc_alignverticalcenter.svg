@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,11 +36,11 @@
        xlink:href="#c"
        id="radialGradient1004"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.89460688,-0.02021711,0.07252093,-3.2090509,182.56695,326.18864)"
-       cx="102.72983"
-       cy="73.576813"
-       fx="102.72983"
-       fy="73.576813"
+       gradientTransform="matrix(-1.2406167,-8.7451536e-4,0.00427275,-6.0615402,222.37305,555.54926)"
+       cx="99.05101"
+       cy="81.078835"
+       fx="99.05101"
+       fy="81.078835"
        r="22.436539" />
     <linearGradient
        inkscape:collect="always"
@@ -62,13 +62,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      id="namedview63"
      showgrid="true"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="-4.581573"
-     inkscape:cy="91.710072"
+     inkscape:zoom="1.84375"
+     inkscape:cx="77.505191"
+     inkscape:cy="-14.660576"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -169,11 +169,13 @@
     <stop
        offset="0"
        stop-color="#001331"
-       id="stop30" />
+       id="stop30"
+       style="stop-color:#5875a0;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#293e63"
-       id="stop32" />
+       id="stop32"
+       style="stop-color:#6a88b5;stop-opacity:1" />
   </linearGradient>
   <path
      d="m6 6-.013668 121.05794h119.999998l.01367-121.05794z"
@@ -215,7 +217,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccccccc" />
   <path
-     style="opacity:0.87999998;fill:none;stroke:url(#linearGradient1007);stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:1;fill:none;stroke:url(#linearGradient1007);stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 99.962891,8.3710938 77.939453,34.769532 96,30.921876 v 0.539062 64 V 96 L 77.939453,92.152344 99.962891,120.16797 122.0625,92.169922 104,96 V 32 l 18.0625,3.830079 z"
      id="path51"
      inkscape:connector-curvature="0"

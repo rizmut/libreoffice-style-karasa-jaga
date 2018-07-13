@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,18 +52,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      id="namedview63"
      showgrid="true"
-     inkscape:zoom="3.6875001"
-     inkscape:cx="122.2117"
-     inkscape:cy="34.114028"
+     inkscape:zoom="1.3037282"
+     inkscape:cx="-17.817788"
+     inkscape:cy="81.886259"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg61"
-     inkscape:snap-global="true">
+     inkscape:current-layer="g59"
+     inkscape:snap-global="true"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid877"
@@ -116,12 +117,12 @@
   <radialGradient
      id="c"
      cx="103.33578"
-     cy="81.051842"
-     gradientTransform="matrix(-0.02021711,0.89460688,-3.2090509,-0.07252093,374.18864,17.43305)"
+     cy="86.036469"
+     gradientTransform="matrix(-1.5843288e-7,3.5656127,-3.2098702,-8.86611e-8,372.16591,-264.45536)"
      gradientUnits="userSpaceOnUse"
      r="22.436539"
      fx="103.33578"
-     fy="81.051842">
+     fy="86.036469">
     <stop
        offset="0"
        stop-color="#9abcee"
@@ -160,11 +161,13 @@
     <stop
        offset="0"
        stop-color="#001331"
-       id="stop30" />
+       id="stop30"
+       style="stop-color:#5875a0;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#293e63"
-       id="stop32" />
+       id="stop32"
+       style="stop-color:#6a88b5;stop-opacity:1" />
   </linearGradient>
   <path
      d="m6 6-.013668 121.05794h119.999998l.01367-121.05794z"
@@ -221,7 +224,7 @@
        sodipodi:type="inkscape:offset"
        inkscape:radius="8.0011988"
        inkscape:original="M 96 56 L 96 64 L 112 64 L 112 96 L 80.539062 96 L 84.369141 79.9375 L 56.371094 100.03711 L 83.847656 120.06055 L 80 104 L 120 104 L 120 96 L 120 64 L 120 56 L 96 56 z "
-       style="fill:url(#radialGradient2327);fill-rule:evenodd;fill-opacity:1;opacity:0.86"
+       style="fill:url(#radialGradient2327);fill-rule:evenodd;fill-opacity:1;opacity:1"
        id="path2325"
        d="M 96,47.998047 A 8.0019989,8.0019989 0 0 0 87.998047,56 v 8 A 8.0019989,8.0019989 0 0 0 96,72.001953 h 7.99805 V 87.998047 H 90.671875 l 1.480469,-6.205078 A 8.0019989,8.0019989 0 0 0 79.703125,73.4375 L 51.705078,93.537109 a 8.0019989,8.0019989 0 0 0 -0.04687,12.966801 l 27.476563,20.02343 a 8.0019989,8.0019989 0 0 0 12.49414,-8.33007 l -1.484375,-6.19532 H 120 A 8.0019989,8.0019989 0 0 0 128.00195,104 V 96 64 56 A 8.0019989,8.0019989 0 0 0 120,47.998047 Z"
        transform="rotate(90,108,92)" />

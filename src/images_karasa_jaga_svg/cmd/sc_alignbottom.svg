@@ -39,13 +39,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      id="namedview63"
      showgrid="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="139.11157"
-     inkscape:cy="58.809113"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="8.5374593"
+     inkscape:cy="40.577137"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -101,13 +101,13 @@
   </radialGradient>
   <radialGradient
      id="c"
-     cx="103.09314"
-     cy="72.069695"
-     gradientTransform="matrix(0.89481902,0.00539723,-0.02417364,4.0078049,13.492484,-229.39769)"
+     cx="108.20914"
+     cy="71.064751"
+     gradientTransform="matrix(1.0486591,1.9796493e-7,-7.4090665e-7,4.0078778,-4.872264,-228.81886)"
      gradientUnits="userSpaceOnUse"
      r="22.436539"
-     fx="103.09314"
-     fy="72.069695">
+     fx="108.20914"
+     fy="71.064751">
     <stop
        offset="0"
        stop-color="#9abcee"
@@ -145,11 +145,13 @@
     <stop
        offset="0"
        stop-color="#001331"
-       id="stop30" />
+       id="stop30"
+       style="stop-color:#5875a0;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#293e63"
-       id="stop32" />
+       id="stop32"
+       style="stop-color:#6a88b5;stop-opacity:1" />
   </linearGradient>
   <path
      d="m6 6-.013668 121.05794h119.999998l.01367-121.05794z"
@@ -195,7 +197,7 @@
        d="M 99.96209,40.371351 77.94015,67.846743 96,64 v 56 h 8 l -1e-5,-55.461122 18.06334,3.831013 z"
        id="path51"
        inkscape:connector-curvature="0"
-       style="opacity:0.87999998;fill:none;stroke:url(#e);stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:none;stroke:url(#e);stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cccccccc" />
     <g
        id="g57"
