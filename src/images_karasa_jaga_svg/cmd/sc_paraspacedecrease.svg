@@ -157,9 +157,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="87.029923"
-     inkscape:cy="69.349037"
+     inkscape:zoom="1.4"
+     inkscape:cx="60.487058"
+     inkscape:cy="94.2637"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,14 +193,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <image
-       y="263.13333"
-       x="-33.866665"
-       id="image13718"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAB2AAAAdgB+lymcgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAClSURB VDiN1ZBBCkIhEIZHfUKCJ4g6SBu1ZV3VfdtEqEXrOkHQEUSwtNUTkZ5IVNC3GnX852MA/h40FkKI LcZ42fMpxni11u5+bnAwxpw/MvVdg0y5A1S91eeS1DSQUm4AYNIAIXR8tYMcoJQaGGOkYQCc87vW +lHeDdkvpbVzbtEK8N6fAOAyZTALIdBWwAilNBhjfG2wIoTMewJSSjcA2Pf0fp8nJsI6zoQcTecA AAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="33.866665"
-       width="33.866665" />
     <rect
        style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.71578038;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3124"

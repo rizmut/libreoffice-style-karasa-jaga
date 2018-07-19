@@ -1,0 +1,11 @@
+name				| font name  |  font size 	| Spacing between lines |
+######################################################################################### 
+sc_numberformatscientific	| FreeSans   |  61,50 pt  	| 1,25		 	|
+lc_numberformatscientific	| FreeSans   |  57.12438583 pt	| 1,25			|
+numberformatscientific		| FreeSans   |  47.91949654 pt	| 1,25			|
+changecasetoupper FreeSans 48 125
+changecasetolower	FreeSans 51.26306534 pt 	125
+lc_changecasetolower	FreeSans	50 pt	125
+lc_changecasetoupper 	FreeSans	50 pt	125
+sc_changecasetoupper	FreeSans	46 pt	125
+sc_changecasetolower	FreeSans	58 pt	125
