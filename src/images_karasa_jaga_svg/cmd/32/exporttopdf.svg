@@ -13,8 +13,8 @@
    version="1.1"
    id="svg286"
    sodipodi:docname="exporttopdf.svg"
-   inkscape:version="0.92.2 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/exporttopdf.png"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/exporttopdf.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <metadata
@@ -25,12 +25,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs290" />
+     id="defs290">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter959"
+       x="-0.019440238"
+       width="1.0388805"
+       y="-0.016751931"
+       height="1.0335039">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.80871388"
+         id="feGaussianBlur961" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -44,19 +58,26 @@
      inkscape:window-height="706"
      id="namedview288"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="76.119003"
-     inkscape:cy="79.154222"
+     inkscape:zoom="3.6875"
+     inkscape:cx="19.87644"
+     inkscape:cy="90.235323"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg286">
+     inkscape:current-layer="g1221"
+     showguides="false"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid1099"
        spacingx="4"
        spacingy="4"
        empspacing="2" />
+    <sodipodi:guide
+       position="-32,172"
+       orientation="0,1"
+       id="guide949"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -586,23 +607,25 @@
      id="g1221"
      transform="translate(7.9999953)">
     <path
-       d="m 23,9 0.04082,112 h 61.131184 c 0.53,0 1.039,-0.211 1.414,-0.586 L 118.414,87.586 C 118.789,87.211 119,86.702 119,86.172 V 9 Z"
+       d="M 21.080004,7.0689668 21.185908,122.93103 h 62.986096 c 0.53,0 1.03871,-0.21129 1.414,-0.586 L 120.39908,87.586 c 0.37529,-0.374707 0.58644,-0.884 0.586,-1.414 L 120.92,7.0689668 Z"
        transform="matrix(1.0416667,0,0,1.0357143,-17.958333,-3.32143)"
        id="path184"
-       style="opacity:0.30684904;fill:url(#j);filter:url(#h)"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.051;fill:url(#j);filter:url(#h)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssscc" />
+    <path
+       d="M 21.080004,7.0689668 V 122.93103 H 84.26925 c 0.53,0 1.029283,-0.22109 1.414,-0.586 l 34.60993,-32.827996 c 0.38472,-0.364908 0.58574,-0.884 0.586,-1.414 L 120.92,7.0689668 Z"
+       transform="matrix(1.0416667,0,0,1.0357143,-17.958333,-3.32143)"
+       id="path188"
+       style="opacity:0.429;fill:url(#g);filter:url(#filter959)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssscc" />
     <path
        d="M 24.919999,10.931136 V 119.06907 l 58.676001,-1e-4 c 0.53,0 1.039,-0.211 1.414,-0.586 l 31.484,-31.765936 c 0.375,-0.375 0.586,-0.884 0.586,-1.414 V 10.931136 Z"
        transform="matrix(1.0416667,0,0,1.0357143,-17.958333,-3.32143)"
        id="path186"
        inkscape:connector-curvature="0"
        style="opacity:0.89589;filter:url(#i)" />
-    <path
-       d="M 23,9.9655172 23.040816,121 H 84.172 c 0.53,0 1.039,-0.211 1.414,-0.586 L 118.414,87.586 C 118.789,87.211 119,86.702 119,86.172 V 9.9655172 Z"
-       transform="matrix(1.0416667,0,0,1.0357143,-17.958333,-3.32143)"
-       id="path188"
-       style="opacity:0.30684904;fill:url(#g);filter:url(#h)"
-       inkscape:connector-curvature="0" />
     <path
        d="m 8.000002,8.0001 v 112.00002 h 61.172 c 0.53,0 1.039,-0.211 1.414,-0.586 L 103.414,86.58612 c 0.375,-0.375 0.586,-0.884 0.586,-1.414 V 8.0001 Z"
        id="path190"
