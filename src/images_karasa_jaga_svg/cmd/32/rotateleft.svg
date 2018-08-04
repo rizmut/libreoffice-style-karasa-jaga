@@ -14,7 +14,10 @@
    version="1.1"
    id="svg50"
    sodipodi:docname="rotateleft.svg"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/rotateleft.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24">
   <metadata
      id="metadata56">
     <rdf:RDF>
@@ -27,7 +30,29 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs54" />
+     id="defs54">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2399"
+       id="linearGradient3554"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26366736,1.2719441,1.2719441,-0.26366736,38.038224,-58.303775)"
+       x1="113.15723"
+       y1="25.786163"
+       x2="39.268185"
+       y2="25.786163" />
+    <linearGradient
+       id="linearGradient2399">
+      <stop
+         style="stop-color:#0968ef;stop-opacity:1;"
+         offset="0"
+         id="stop2401" />
+      <stop
+         style="stop-color:#aecffc;stop-opacity:1;"
+         offset="1"
+         id="stop2403" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,16 +63,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="657"
+     inkscape:window-height="706"
      id="namedview52"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="-11.932203"
-     inkscape:cy="64"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="54.924422"
+     inkscape:cy="66.464818"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg50" />
+     inkscape:current-layer="g1439" />
   <linearGradient
      id="a">
     <stop
@@ -122,50 +147,41 @@
   <g
      transform="matrix(-1 0 0 1 128.22422 0)"
      id="g48">
+    <path
+       style="fill:#6a6a6a;fill-opacity:0.870588;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path26"
+       d="M 4,120 H 56 V 4 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#d);fill-rule:evenodd"
+       id="path28"
+       d="M 54.119141,12.791016 6.9023438,118.11914 H 54.119141 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#f);fill-rule:evenodd"
+       id="path30"
+       d="m 54.119141,12.791016 -22.947266,51.1875 A 72,36 0 0 0 32,64 72,36 0 0 0 54.119141,62.212891 Z" />
     <g
-       fill-rule="evenodd"
-       id="g44">
+       style="fill-rule:evenodd"
+       id="g38"
+       transform="rotate(90,30,94)">
       <path
-         d="m4 120h52v-116z"
-         fill="#6a6a6a"
-         fill-opacity=".870588"
-         id="path26" />
+         style="fill:#7219bb;fill-opacity:0.870588"
+         inkscape:connector-curvature="0"
+         id="path32"
+         d="M 4,120 H 56 V 4 Z" />
       <path
-         d="m54.119141 12.791016-47.2167972 105.328124h47.2167972z"
-         fill="url(#d)"
-         id="path28" />
+         inkscape:connector-curvature="0"
+         style="fill:url(#c)"
+         id="path34"
+         d="M 54.119141,12.791016 6.9023438,118.11914 H 54.119141 Z" />
       <path
-         d="m54.119141 12.791016-22.947266 51.1875a72 36 0 0 0 .828125.021484 72 36 0 0 0 22.119141-1.787109z"
-         fill="url(#f)"
-         id="path30" />
-      <g
-         transform="matrix(0 1 -1 0 124 64)"
-         id="g38">
-        <path
-           d="m4 120h52v-116z"
-           fill="#7219bb"
-           fill-opacity=".870588"
-           id="path32" />
-        <path
-           d="m54.119141 12.791016-47.2167972 105.328124h47.2167972z"
-           fill="url(#c)"
-           id="path34" />
-        <path
-           d="m46.921875 89.300781c-4.049638 3.851616-6.921875 6.699219-6.921875 6.699219l-27.648438 22.11914h49.294922l10.107422-17.6875z"
-           fill="url(#b)"
-           transform="matrix(0 -1 1 0 -64 124)"
-           id="path36" />
-      </g>
-      <path
-         d="m60 6.7675781a1.2316268 1.2316268 0 0 0 -1.232422 1.2324219v4a1.2316268 1.2316268 0 0 0 1.232422 1.232422h32s.742949.01601 1.449219.36914c.706269.353135 1.318359.808939 1.318359 2.398438v66.767578h-22.767578a1.2316268 1.2316268 0 0 0 -.761719 2.199219l25.533203 20.101563a1.2316268 1.2316268 0 0 0 1.50586.0137l26.466796-20.101591a1.2316268 1.2316268 0 0 0 -.74414-2.212891h-22.76758c0-22.255859 0-69.434245 0-70.767578a1.2316268 1.2316268 0 0 0 -.36133-.871094l-3.999996-3.9999998a1.2316268 1.2316268 0 0 0 -.871094-.3613281z"
-         fill="#0a0a0a"
-         fill-opacity=".870588"
-         filter="url(#e)"
-         id="path40" />
-      <path
-         d="m60 8v4h32s4 0 4 4v68h-24l25.534062 20.10227 26.465938-20.10227h-24v-68-4l-4-4z"
-         fill="#fff"
-         id="path42" />
+         inkscape:connector-curvature="0"
+         style="fill:url(#b)"
+         id="path36"
+         transform="rotate(-90,30,94)"
+         d="M 46.921875,89.300781 C 42.872237,93.152397 40,96 40,96 l -27.648438,22.11914 h 49.294922 l 10.107422,-17.6875 z" />
     </g>
     <rect
        fill="none"
@@ -173,5 +189,15 @@
        rx=".000001"
        width="128"
        id="rect46" />
+    <g
+       id="g1439"
+       transform="rotate(-6.6457628,115.41758,129.64467)">
+      <path
+         style="fill:url(#linearGradient3554);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 85.402344,21.792969 -3.558594,3.880859 c 7.76223,6.840167 16.796834,20.88348 16.005859,41.742188 v 0.002 c -0.758518,1.801031 -1.364721,2.170838 -2.79265,1.635769 l -10.642897,-6.588894 -1.697265,2.58789 21.896483,18.310547 13.22461,-23.603515 -2.89648,-1.802735 -7.56641,8.865235 c -0.0346,0.04077 -0.0718,0.07926 -0.11133,0.115234 -0.73619,0.666046 -1.79997,0.745174 -2.57812,0.363281 C 103.40093,58.166505 102.22341,48.941185 98.6875,40.505859 95.412309,32.827644 90.665833,26.015781 85.402344,21.792969 Z"
+         id="path3575"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
   </g>
 </svg>
