@@ -95,7 +95,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="75.788087"
+     inkscape:cx="13.288087"
      inkscape:cy="86.680065"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -121,7 +121,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,14 +157,6 @@
            y="277.56085"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.67659664px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bfd9ff;stroke-width:2.18033719">1</tspan></text>
     </g>
-    <image
-       y="263.19754"
-       x="-33.738216"
-       id="image823"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAABsQAAAbEBYZgoDgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFeSURB VDiNY2CgEDDCWWU3eJ0l+RbdvXuT88EUR4/u7m5uRkbGAHyaS0pKlrLAOGy/mKfzcvwP4OLiesnA wMDw798/QSYmplZ8Bvz//38ZgldwXcGo/fEt4YzDT0nxAtwFDBM0H/BNfvpCRIBZ6S0DA8OkSZPY f/z4YYKugZmZ+VFxcfFjTAMYGBgYWZj//mVh/MvAwMDw9etXSRYWliPoBvz796+ZgYGhDqtzzDqe 6HNGb7QmxQsoQKHhPgepeuDRKFN7f6aFLFvq5y/fP+08fs6wzfDOJxYWlg58mktLS9OYYJzP3/6c vvv6b+nnn//5Gf4zu7GxsTEyMjKy4sMYJmrVP5osV3rtD0PwGg1ivQCPBcGyu+Xqyqw51679PMDw j4m9o6ODn5mZOQfDz4yMh0tKSg5hGiDInPGLi4NBQU3I4emzZzlMTEy1DAwMrugG/P///xkDA8Mh dPEhDAACqm7njKdh+wAAAABJRU5ErkJggg== "
-       preserveAspectRatio="none"
-       height="33.738216"
-       width="33.738216" />
     <rect
        style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.98744643;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3124"
