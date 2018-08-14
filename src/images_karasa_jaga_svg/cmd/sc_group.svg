@@ -326,7 +326,7 @@
        x2="112"
        y2="18.152475"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1063833,0,0,1.1063833,-11.286148,-0.0456671)" />
+       gradientTransform="matrix(1.1869564,0,0,1.1869564,-19.600606,-1.1400758)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3310"
@@ -336,7 +336,7 @@
        x2="100"
        y2="42.245205"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1183073,0,0,1.1183073,-12.2892,-1.035707)" />
+       gradientTransform="matrix(1.1997488,0,0,1.1997488,-20.676706,-2.2022161)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4373"
@@ -355,9 +355,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.4272968"
-     inkscape:cx="73.181596"
-     inkscape:cy="75.609871"
+     inkscape:zoom="2.2136484"
+     inkscape:cx="82.538753"
+     inkscape:cy="47.69339"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -471,13 +471,6 @@
        transform="translate(0,80)"
        width="100%"
        height="100%" />
-    <rect
-       width="146.28384"
-       height="146.28384"
-       x="-9.1419191"
-       y="-9.1419172"
-       id="rect5487"
-       style="opacity:0;fill:#e7e7e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.14274025;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g32319"
        transform="matrix(0.74999783,0,0,0.74999783,11.999375,45.269979)">
@@ -508,12 +501,15 @@
          d="M 90.667762,31.573906 C 69.118094,51.078937 33.618085,68.609288 5.3341821,79.999954 V 30.306782 C 32.41264,27.523549 69.066163,23.551079 90.667762,11.573906 Z"
          sodipodi:nodetypes="ccccc" />
     </g>
-    <circle
-       id="path1671"
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient1705);fill-opacity:1;stroke:none;stroke-width:7.45166254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       cx="84.001114"
-       cy="43.998886"
-       r="40.984135" />
+    <g
+       id="g917">
+      <circle
+         r="40.984135"
+         cy="43.998886"
+         cx="84.001114"
+         style="opacity:1;vector-effect:none;fill:url(#linearGradient1705);fill-opacity:1;stroke:none;stroke-width:7.45166254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1671" />
+    </g>
     <rect
        style="opacity:1;vector-effect:none;fill:url(#linearGradient931);fill-opacity:1;stroke:none;stroke-width:3.08015561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1677"
@@ -522,19 +518,17 @@
        x="120"
        y="0" />
     <g
-       id="g900"
-       transform="matrix(1.0728257,0,0,1.0728257,-7.4925367,-1.091083)">
+       id="g914">
       <circle
-         r="32.102268"
-         cy="42.029163"
-         cx="85.289543"
+         r="34.44014"
+         cy="43.998882"
+         cx="84.008278"
          id="path1669"
-         style="opacity:1;vector-effect:none;fill:url(#linearGradient1749);fill-opacity:1;stroke:none;stroke-width:5.83677673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;vector-effect:none;fill:url(#linearGradient1749);fill-opacity:1;stroke:none;stroke-width:6.26184416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
-         inkscape:connector-curvature="0"
          id="path1751"
-         d="M 110.64543,21.330439 C 93.457575,30.397415 71.538666,40.486702 52.825046,42.410159 v 2.591274 A 32.448251,32.448251 0 0 0 74.336242,71.798831 C 89.838543,61.35358 105.02145,47.718184 117.11518,36.762384 a 32.448251,32.448251 0 0 0 -6.46975,-15.431945 z"
-         style="fill:url(#linearGradient1755);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.58960819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         d="M 110.57422 22.121094 C 92.351441 31.698733 69.344654 42.21766 49.580078 44.357422 A 34.44014 34.44014 0 0 0 56.5625 64.751953 A 34.811318 34.811318 0 0 0 57.511719 65.953125 A 34.44014 34.44014 0 0 0 57.572266 66.023438 A 34.811318 34.811318 0 0 0 72.257812 75.9375 C 88.823502 64.775751 105.04094 50.223943 117.99023 38.494141 A 34.44014 34.44014 0 0 0 110.57422 22.121094 z "
+         style="fill:url(#linearGradient1755);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.14232635px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
