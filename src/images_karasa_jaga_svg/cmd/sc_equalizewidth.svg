@@ -15,7 +15,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg877"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="sc_equalizewidth.svg"
    inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_equalizewidth.png"
    inkscape:export-xdpi="12"
@@ -151,7 +151,7 @@
        xlink:href="#linearGradient2413"
        id="linearGradient3697"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.1295541,0,0,0.01301192,-8.4082411,-115.15035)"
+       gradientTransform="matrix(0.1295541,0,0,0.01301192,-8.4082411,60.849656)"
        x1="433.9509"
        y1="549.52295"
        x2="421.71661"
@@ -248,7 +248,7 @@
        xlink:href="#linearGradient2413"
        id="linearGradient967"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.1295541,0,0,0.01301192,-8.4082411,-115.15035)"
+       gradientTransform="matrix(0.1295541,0,0,0.01301192,-8.4082411,60.849652)"
        x1="433.9509"
        y1="549.52295"
        x2="421.71661"
@@ -273,6 +273,26 @@
        y1="2086.575"
        x2="126.65165"
        y2="2086.575" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2413"
+       id="linearGradient4593"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1295541,0,0,0.01301192,-8.4082411,-115.15034)"
+       x1="433.9509"
+       y1="549.52295"
+       x2="421.71661"
+       y2="1004.1298" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2413"
+       id="linearGradient4597"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1295541,0,0,0.01301192,-8.4082411,-115.15035)"
+       x1="433.9509"
+       y1="549.52295"
+       x2="421.71661"
+       y2="1004.1298" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -282,10 +302,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="98.499793"
+     inkscape:cx="36.535507"
      inkscape:cy="50.64556"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g955"
      showgrid="true"
      units="px"
      inkscape:window-width="1366"
@@ -457,7 +477,7 @@
            ry="1.999999"
            inkscape:r_cy="true"
            inkscape:r_cx="true"
-           y="-108"
+           y="68"
            x="-1.0582677e-06"
            height="7.9999981"
            width="96"
@@ -465,8 +485,7 @@
            style="opacity:1;fill:url(#linearGradient967);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
            inkscape:export-filename="/home/pinheiro/Desktop/mock2.png"
            inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"
-           transform="scale(1,-1)" />
+           inkscape:export-ydpi="90" />
         <rect
            transform="scale(1,-1)"
            inkscape:export-ydpi="90"
@@ -497,6 +516,21 @@
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90"
            transform="scale(-1)" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/pinheiro/Desktop/mock2.png"
+           style="opacity:1;fill:url(#linearGradient4597);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
+           id="rect4595"
+           width="96"
+           height="7.9999981"
+           x="-1.0582677e-06"
+           y="-108"
+           inkscape:r_cx="true"
+           inkscape:r_cy="true"
+           ry="1.999999"
+           rx="2.8571432"
+           transform="scale(1,-1)" />
       </g>
     </g>
     <g
@@ -634,7 +668,6 @@
            ry="0"
            rx="0" />
         <rect
-           transform="scale(1,-1)"
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/pinheiro/Desktop/mock2.png"
@@ -643,7 +676,7 @@
            width="96"
            height="7.9999981"
            x="-1.0582677e-06"
-           y="-108"
+           y="68"
            inkscape:r_cx="true"
            inkscape:r_cy="true"
            ry="1.999999"
@@ -678,6 +711,21 @@
            inkscape:r_cy="true"
            ry="1.999999"
            rx="1.7271572" />
+        <rect
+           rx="2.8571432"
+           ry="1.999999"
+           inkscape:r_cy="true"
+           inkscape:r_cx="true"
+           y="-108"
+           x="-1.0582677e-06"
+           height="7.9999981"
+           width="96"
+           id="rect4591"
+           style="opacity:1;fill:url(#linearGradient4593);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4;stroke-opacity:1"
+           inkscape:export-filename="/home/pinheiro/Desktop/mock2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           transform="scale(1,-1)" />
       </g>
     </g>
   </g>
