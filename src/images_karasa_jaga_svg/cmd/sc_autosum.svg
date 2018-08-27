@@ -14,8 +14,8 @@
    version="1.1"
    id="svg20"
    sodipodi:docname="sc_autosum.svg"
-   inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_autosum.png"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_autosum.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12">
   <metadata
@@ -52,16 +52,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="696"
      id="namedview22"
-     showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="126.7901"
-     inkscape:cy="58.42359"
+     showgrid="true"
+     inkscape:zoom="7.375"
+     inkscape:cx="61.890817"
+     inkscape:cy="25.136365"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       empspacing="2" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -99,24 +106,23 @@
   <g
      id="g856"
      transform="translate(-0.21370319,-0.27781569)">
-    <text
+    <g
+       aria-label="Σ"
        style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:1.015378"
-       x="4.795023"
-       y="31.336895"
        id="text14">
-      <tspan
-         font-size="42.740532"
-         font-weight="bold"
-         x="4.795023"
-         y="31.336895"
-         id="tspan12"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.74053192px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#a);stroke-width:1.015378">Σ</tspan>
-    </text>
+      <path
+         d="M 28.788702,32.027816 H 5.3668912 L 19.625988,17.147038 5.5053697,2.3944837 H 28.328814 L 28.8417,10.712948 H 28.157852 C 27.958396,8.8893518 27.146326,7.393433 25.721642,6.2251918 24.296957,5.0569506 22.644323,4.47283 20.76374,4.47283 h -7.009447 c -0.911798,0 -1.127573,-0.04514 -1.127573,0.4677462 0,0.1139747 0.327677,0.5271332 0.983032,1.2394754 0.655354,0.6838485 1.481671,1.5386591 2.478951,2.5644319 1.025772,0.9972788 1.782927,1.5285045 2.751713,2.4972895 0.968785,0.940292 1.89483,1.852091 2.778135,2.735395 0.911798,0.85481 1.46942,2.058616 1.640382,2.229579 L 11.73523,27.802031 h 13.035862 c 0.99728,0 1.780856,-0.356171 2.35073,-1.068514 0.598368,-0.712342 0.897551,-1.059794 0.897551,-2.057073 v -0.299183 h 0.769329 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.74053192px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#a);stroke-width:1.015378"
+         id="path4530"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccssssccccccscsccc" />
+    </g>
     <path
        id="text838"
        transform="scale(0.26458334)"
-       d="m 28.228516,14.705078 48.099609,47.945313 a 3.0427347,3.0427347 0 0 1 0,4.302734 l -7.126953,7.126953 A 90.57627,47.457628 0 0 0 70.931641,73.875 L 83.548828,61.306641 C 82.503845,60.311472 81.873915,59.709919 79.6875,57.660156 a 3.0427347,3.0427347 0 0 1 -0.06641,-0.07422 C 76.294369,54.259212 72.805993,50.833352 69.154297,47.289062 a 3.0427347,3.0427347 0 0 1 -0.03125,-0.03711 C 65.472208,43.601115 61.711038,39.902441 57.84375,36.142578 a 3.0427347,3.0427347 0 0 1 -0.06641,-0.06641 C 54.004408,32.195437 50.880541,28.95925 48.39648,26.367184 a 3.0427347,3.0427347 0 0 1 -0.03711,-0.04297 c -1.265499,-1.375543 -2.234658,-2.471722 -2.939453,-3.359375 -0.352399,-0.443827 -0.633518,-0.832125 -0.892578,-1.248047 -0.25906,-0.415922 -0.69336,-0.569129 -0.69336,-2.140625 0,-1.873548 1.23232,-3.925338 2.84961,-4.833984 0.0534,-0.03 0.1221,-0.0086 0.175781,-0.03711 z m 56.74414,0 c 5.164332,1.017107 10.0592,2.808428 14.232422,6.230469 2.516162,2.063252 4.363402,4.566122 5.994142,7.181641 l -0.9082,-13.41211 z"
+       d="m 28.167128,12.093728 48.160997,50.556663 c 1.188033,1.188223 1.188033,3.114511 0,4.302734 l -7.126953,7.126953 c 0.578087,-0.0654 1.154938,-0.13376 1.730469,-0.205078 L 83.548828,61.306641 c -1.044983,-0.995169 -1.736301,-4.208072 -3.922716,-6.257835 -0.02254,-0.02438 -0.04468,-0.04912 -0.06641,-0.07422 -3.326721,-3.326724 -6.815097,-6.752584 -10.466793,-10.296874 -0.01052,-0.01229 -0.02093,-0.02466 -0.03125,-0.03711 -3.650839,-3.650837 -6.504455,-5.641896 -10.371743,-9.401759 -0.02248,-0.02179 -0.04462,-0.04393 -0.06641,-0.06641 -3.772932,-3.880731 -6.896799,-7.116918 -9.38086,-9.708984 -0.0125,-0.01421 -0.02487,-0.02853 -0.03711,-0.04297 -1.265499,-1.375543 -2.234658,-2.471722 -2.939453,-3.359375 -0.352399,-0.443827 -0.633518,-0.832125 -0.892578,-1.248047 -0.25906,-0.415922 -0.69336,-0.569129 -0.69336,-2.140625 0,-1.873548 0.324766,-2.785495 1.942056,-3.694141 0.0534,-0.03 0.1221,-0.0086 0.175781,-0.03711 z m 56.74414,2.847458 c 5.164332,1.017107 10.0592,2.808428 14.232422,6.230469 2.51616,2.063252 4.3634,4.566122 5.99414,7.181641 l -0.9082,-13.41211 z"
        style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#linearGradient851);fill-opacity:1;stroke-width:3.83764911"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccssccccsccc" />
   </g>
 </svg>
