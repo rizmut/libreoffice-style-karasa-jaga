@@ -14,8 +14,8 @@
    version="1.1"
    id="svg20"
    sodipodi:docname="lc_shrink.svg"
-   inkscape:version="0.92.3 (unknown)"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_shrink.png"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_shrink.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5">
   <metadata
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,6 +75,24 @@
          offset="1"
          style="stop-color:#cd1f00;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient848"
+       gradientUnits="userSpaceOnUse"
+       x1="15.70366980061"
+       y1="294.82258903077"
+       x2="16.93333114415"
+       y2="266.54036534865" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient850"
+       gradientUnits="userSpaceOnUse"
+       x1="15.70366980061"
+       y1="294.82258903077"
+       x2="16.93333114415"
+       y2="266.54036534865" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -86,11 +104,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="696"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="2.6074563"
-     inkscape:cx="37.117138"
+     inkscape:cx="-29.422807"
      inkscape:cy="46.68455"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -136,26 +154,23 @@
        id="stop9" />
   </linearGradient>
   <g
-     transform="matrix(.82 0 0 .82 3.048 -212.72132)"
+     transform="matrix(0.656,0,0,0.656,4.8900457,-163.98972)"
      id="g18">
-    <text
-       style="font-size:40.897976;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:1.022449;fill:url(#a)"
-       x="1.418075"
-       y="294.57053"
+    <g
+       aria-label="A"
+       style="font-size:40.89797592px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#linearGradient850);stroke-width:1.02244902"
        id="text14">
-      <tspan
-         fill="url(#a)"
-         font-family="FreeSerif"
-         font-size="43.038166"
-         stroke-width="1.022449"
-         x="1.418075"
-         y="294.57053"
-         id="tspan12">A</tspan>
-    </text>
+      <path
+         d="m 31.80302,293.7528 v 0.81773 H 20.828288 v -0.81773 q 1.721526,-0.043 2.367099,-0.3443 0.645572,-0.30127 0.645572,-1.119 0,-1.03291 -0.817725,-2.88355 l -1.764564,-4.13167 h -11.276 l -1.9797556,5.03547 q -0.3443054,0.9038 -0.3443054,1.67849 0,1.76456 2.926595,1.76456 v 0.81773 H 2.0636475 v -0.81773 q 1.5924121,-0.0861 2.4531754,-1.20507 0.9038015,-1.16203 2.8835571,-5.85319 l 8.951939,-21.13174 h 0.860763 l 10.716503,24.44568 q 1.032916,2.3671 1.721527,3.01267 0.688611,0.64557 2.151908,0.73165 z M 10.714319,283.50972 h 9.941816 l -4.992427,-11.8355 z"
+         style="font-size:43.03816605px;font-family:FreeSerif;fill:url(#linearGradient848);stroke-width:1.02244902"
+         id="path833"
+         inkscape:connector-curvature="0" />
+    </g>
     <path
-       d="m16.781426 266.21255-7.4067904 17.48305a28.282222 12.911449 0 0 0 .7223064.0162.64834969.64834969 0 0 1 .01741-.45272l4.949268-11.83429a.64834969.64834969 0 0 1 .614831-.39928.64834969.64834969 0 0 1 .581206.39687l4.903038 11.62295a28.282222 12.911449 0 0 0 2.782949-.51096l-7.157016-16.32184z"
-       fill="url(#b)"
-       id="path16" />
+       d="M 16.781426,266.21255 9.3746356,283.6956 a 28.282222,12.911449 0 0 0 0.7223064,0.0162 0.64834969,0.64834969 0 0 1 0.01741,-0.45272 l 4.949268,-11.83429 a 0.64834969,0.64834969 0 0 1 0.614831,-0.39928 0.64834969,0.64834969 0 0 1 0.581206,0.39687 l 4.903038,11.62295 a 28.282222,12.911449 0 0 0 2.782949,-0.51096 l -7.157016,-16.32184 z"
+       id="path16"
+       style="fill:url(#b)"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="g994"

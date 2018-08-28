@@ -15,9 +15,9 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg1451"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="shrink.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/shrink.png"
+   inkscape:export-filename="/home/rizmut/Documents/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/shrink.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
@@ -516,24 +516,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="96.909002"
-     inkscape:cy="75.862937"
+     inkscape:zoom="1.979899"
+     inkscape:cx="81.063819"
+     inkscape:cy="68.533483"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="696"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid918"
        spacingx="1.0583333"
-       spacingy="1.0583333" />
+       spacingy="1.0583333"
+       empspacing="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata1448">
@@ -552,17 +553,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="A"
        style="font-style:normal;font-weight:normal;font-size:32.73475647px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81836891px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3.6938751"
-       y="291.9729"
-       id="text8359"><tspan
-         sodipodi:role="line"
-         id="tspan8357"
-         x="3.6938751"
-         y="291.9729"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.81836891px">A</tspan></text>
+       id="text8359"
+       transform="matrix(0.8,0,0,0.8,1.9437494,58.627568)">
+      <path
+         d="m 26.804613,291.35094 v 0.62196 H 18.45725 v -0.62196 q 1.309391,-0.0327 1.800412,-0.26188 0.491021,-0.22914 0.491021,-0.8511 0,-0.78564 -0.62196,-2.19323 l -1.342125,-3.14254 h -8.576506 l -1.5057992,3.82997 q -0.261878,0.68743 -0.261878,1.27666 0,1.34212 2.2259632,1.34212 v 0.62196 H 4.1848964 v -0.62196 q 1.211186,-0.0655 1.8658811,-0.91657 0.6874299,-0.88384 2.1932287,-4.45193 l 6.8088298,-16.07277 h 0.654695 l 8.150954,18.59335 q 0.785634,1.80041 1.30939,2.29143 0.523756,0.49102 1.636738,0.55649 z m -16.040031,-7.79087 h 7.561729 l -3.797232,-9.00206 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;stroke-width:0.81836891px"
+         id="path900"
+         inkscape:connector-curvature="0" />
+    </g>
     <g
        id="g12792"
        transform="matrix(4,0,0,4,-82.549975,-812.68331)">
