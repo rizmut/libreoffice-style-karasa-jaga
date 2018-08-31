@@ -17,9 +17,9 @@
    id="svg19039"
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="lc_spacepara1.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_spacepara1.png"
-   inkscape:export-xdpi="16.5"
-   inkscape:export-ydpi="16.5">
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_spacepara1.png"
+   inkscape:export-xdpi="16.500002"
+   inkscape:export-ydpi="16.500002">
   <defs
      id="defs19033">
     <linearGradient
@@ -48,7 +48,7 @@
        xlink:href="#linearGradient2399-7"
        id="linearGradient21473"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-9.4135481e-5,0.19190791,0.19190791,9.4135481e-5,0.0155292,264.6579)"
+       gradientTransform="matrix(-9.4135481e-5,0.19190791,0.19190791,9.4135481e-5,0.0114169,263.16747)"
        x1="113.15723"
        y1="25.786163"
        x2="39.268185"
@@ -61,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="39.821756"
-     inkscape:cy="58.99427"
+     inkscape:zoom="3.959798"
+     inkscape:cx="39.087698"
+     inkscape:cy="56.214164"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,7 @@
        width="20.011839"
        height="1.5393625"
        x="-32.326817"
-       y="272.37003"
+       y="273.90939"
        rx="0"
        ry="0"
        transform="scale(-1,1)" />
@@ -129,7 +129,7 @@
        width="20.011839"
        height="1.5393625"
        x="-32.326817"
-       y="281.60626"
+       y="280.06689"
        rx="0"
        ry="0"
        transform="scale(-1,1)" />
@@ -137,7 +137,7 @@
        transform="scale(-1,1)"
        ry="0"
        rx="0"
-       y="286.2244"
+       y="283.14563"
        x="-32.326817"
        height="1.5393625"
        width="20.011839"
@@ -146,7 +146,7 @@
     <path
        sodipodi:nodetypes="cccccccccc"
        id="path21471"
-       d="m 5.3776592,287.68948 -3.8359,-4.60767 0.76318,-0.76243 2.30699,1.49777 0.0103,-3.7992 1.53526,8e-4 -0.0103,3.7992 2.26983,-1.49554 0.80106,0.76319 -3.84042,4.60391 z"
+       d="m 5.3735469,286.19905 -3.8359,-4.60767 0.76318,-0.76243 2.30699,1.49777 0.0103,-3.7992 1.53526,8e-4 -0.0103,3.7992 2.26983,-1.49554 0.80106,0.76319 -3.84042,4.60391 z"
        style="fill:url(#linearGradient21473);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
        inkscape:connector-curvature="0" />
   </g>
