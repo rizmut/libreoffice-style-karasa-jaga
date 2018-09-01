@@ -16,11 +16,11 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    version="1.0"
    sodipodi:docname="lc_definename.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/lc_definename.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_definename.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5"
    sodipodi:modified="TRUE">
@@ -6850,8 +6850,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142135"
-     inkscape:cx="-112.17121"
-     inkscape:cy="14.725971"
+     inkscape:cx="-62.444945"
+     inkscape:cy="29.232502"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -6859,7 +6859,7 @@
      showgrid="true"
      showborder="true"
      inkscape:window-width="1366"
-     inkscape:window-height="741"
+     inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="true"
@@ -6890,7 +6890,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -14356,13 +14356,6 @@
        style="opacity:0.40163933"
        transform="matrix(1.3333329,0,0,0.8678386,803.2912,662.70552)"
        id="g4412-56" />
-    <rect
-       y="93.0914"
-       x="0"
-       height="5.8181014"
-       width="122.1801"
-       id="rect8147"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.6507177" />
     <g
        id="layer2-3"
        inkscape:label="slice"
@@ -15211,24 +15204,6 @@
        transform="matrix(0.1463445,-0.02678525,0.01010528,0.1292785,177.31436,-84.153947)"
        style="fill:url(#radialGradient4876-1);fill-opacity:1"
        id="g3561-89" />
-    <image
-       y="34.908447"
-       x="-186.18115"
-       id="image10448"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAABsQAAAbEBYZgoDgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGHSURB
-VDiNpdG7SkNBEAbgfzYbjWCMl5iQoEYkgliYiC9g7WsIPooBG7H0GaxEsBCsLLxECRERCy8QvCKC
-mpjdPSd7xkIIrsci4pTfPzvszhIz4z8l/nUagCyXy9wbjzvYqNfRqUmtNQrFWSc4PNjv2KTWGtYG
-TvAXk8YYXF1eOsFfTGqtMZrLOcHFxXnHJhtND03dcoKG8kLXNcb8anJxM4lS+q2NygRY3krhrv/l
-CwgIGChtJ7EzfhbegRiOYHp6rI0fuoWuTA2F4rjTjN1r5CenHDqtViCRirqNAsBwF34WJyOwwS+/
-EAxJVGp3bWzaAF4foVK7b1vADMQFnh4fwgNI1zmTiD0IgIkIxlomrz6SSXTfC4CFILYBc4//nvVF
-dvX7AGvtgszFmif5dP8zESkBaGOtl0rQQj41UCUBJQBtmb2JmJpU4DXnWcwfclD6KzaKhoRQVkB5
-2pq0NEcc5RtQRLUElGd8Peq/JuZn8rffB+xt0gZh/fjHFgEAUQB+aJFLcyH7BN4b6V54zMwWAAAA
-AElFTkSuQmCC
-"
-       preserveAspectRatio="none"
-       height="139.63635"
-       width="139.63635" />
     <rect
        style="opacity:1;fill:#acdefb;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10456"

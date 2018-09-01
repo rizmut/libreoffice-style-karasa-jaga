@@ -77,6 +77,10 @@ cmd/32/exitsearch.png cmd/32/closedoc.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
 cmd/32/fieldnames.png cmd/32/fields.png
 cmd/32/fillcolor.png cmd/32/formatarea.png
+cmd/32/fillmoderemovepredescessor.png cmd/32/cleararrowprecedents.png
+cmd/32/fillmoderemovesuccessor.png cmd/32/cleararrowdependents.png
+cmd/32/fillmodetracepredescessor.png cmd/32/showprecedents.png
+cmd/32/fillmodetracesuccessor.png  cmd/32/showdependents.png
 cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-internal-storage.png
 cmd/32/flowchartshapes.flowchart-alternate-process.png cmd/32/basicshapes.round-quadrat.png
 cmd/32/flowchartshapes.flowchart-connector.png cmd/32/basicshapes.circle.png
@@ -108,7 +112,6 @@ cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
 cmd/32/hu/underlinesimple.png cmd/32/hu/underline.png
 cmd/32/importfromfile.png cmd/32/importdialog.png
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
-cmd/32/inputlinevisible.png cmd/32/insertformula.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
 cmd/32/insertcell.png cmd/32/insertcellsright.png
 cmd/32/insertcolumndialog.png cmd/32/insertcolumns.png
@@ -280,6 +283,7 @@ cmd/32/templatemenu.png cmd/32/newdoc.png
 cmd/32/textalign.png cmd/32/alignblock.png
 cmd/32/texttoolbox.png cmd/32/text.png
 cmd/32/thesaurusdialog.png cmd/32/thesaurus.png
+cmd/32/toggleformula.png cmd/32/insertformula.png
 cmd/32/togglemergecells.png cmd/32/mergecells.png
 cmd/32/tr/underlinesimple.png cmd/32/tr/underline.png
 cmd/32/tracechangemode.png cmd/32/trackchanges.png
@@ -399,6 +403,10 @@ cmd/lc_exitsearch.png cmd/lc_closedoc.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
 cmd/lc_fieldnames.png cmd/lc_fields.png
 cmd/lc_fillcolor.png cmd/lc_formatarea.png
+cmd/lc_fillmoderemovepredescessor.png cmd/lc_cleararrowprecedents.png
+cmd/lc_fillmoderemovesuccessor.png cmd/lc_cleararrowdependents.png
+cmd/lc_fillmodetracepredescessor.png cmd/lc_showprecedents.png
+cmd/lc_fillmodetracesuccessor.png  cmd/lc_showdependents.png
 cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
 cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
 cmd/lc_flowchartshapes.flowchart-connector.png cmd/lc_basicshapes.circle.png
@@ -428,7 +436,6 @@ cmd/lc_hscroll.png cmd/lc_hscrollbar.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_importfromfile.png cmd/lc_importdialog.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
-cmd/lc_inputlinevisible.png cmd/lc_insertformula.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertcell.png cmd/lc_insertcellsright.png
 cmd/lc_insertcolumndialog.png cmd/lc_insertcolumns.png
@@ -587,6 +594,7 @@ cmd/lc_templatemenu.png cmd/lc_newdoc.png
 cmd/lc_textalign.png cmd/lc_alignblock.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
+cmd/lc_toggleformula.png cmd/lc_insertformula.png
 cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/lc_underlinesimple.png cmd/lc_underline.png
@@ -671,6 +679,10 @@ cmd/sc_exitsearch.png cmd/sc_closedoc.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
 cmd/sc_fieldnames.png cmd/sc_fields.png
 cmd/sc_fillcolor.png cmd/sc_formatarea.png
+cmd/sc_fillmoderemovepredescessor.png cmd/sc_cleararrowprecedents.png
+cmd/sc_fillmoderemovesuccessor.png cmd/sc_cleararrowdependents.png
+cmd/sc_fillmodetracepredescessor.png cmd/sc_showprecedents.png
+cmd/sc_fillmodetracesuccessor.png  cmd/sc_showdependents.png
 cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
 cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
 cmd/sc_flowchartshapes.flowchart-connector.png cmd/sc_basicshapes.circle.png
@@ -700,7 +712,6 @@ cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_importfromfile.png cmd/sc_importdialog.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
-cmd/sc_inputlinevisible.png cmd/sc_insertformula.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertcell.png cmd/sc_insertcellsright.png
 cmd/sc_insertcolumndialog.png cmd/sc_insertcolumns.png
@@ -859,6 +870,7 @@ cmd/sc_templatemenu.png cmd/sc_newdoc.png
 cmd/sc_textalign.png cmd/sc_alignblock.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
+cmd/sc_toggleformula.png cmd/sc_insertformula.png
 cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 cmd/sc_underlinesimple.png cmd/sc_underline.png
@@ -1080,6 +1092,7 @@ sc/res/lc26050.png cmd/lc_cancel.png
 sc/res/lc26051.png cmd/lc_ok.png
 sc/res/na05.png cmd/sc_upsearch.png
 sc/res/na06.png cmd/sc_downsearch.png
+sc/res/nc02.png cmd/sc_addname.png
 sc/res/nc04.png cmd/sc_graphic.png
 sc/res/nc05.png cmd/sc_insertobject.png
 sc/res/nc08.png cmd/sc_graphic.png
