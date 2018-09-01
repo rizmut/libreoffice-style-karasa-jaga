@@ -62,16 +62,6 @@
          id="stop2403" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#radialGradient3564"
-       id="linearGradient1483"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.2562284,0.15046505,0,24.505786,303.73809)"
-       x1="10.135816"
-       y1="29.107889"
-       x2="9.6922779"
-       y2="103.48482" />
-    <linearGradient
        gradientTransform="matrix(0,0.26458333,-0.26458333,0,33.959689,282.70038)"
        inkscape:collect="always"
        xlink:href="#linearGradient2399-7"
@@ -100,9 +90,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="19.48942"
-     inkscape:cy="50.937205"
+     inkscape:zoom="1.979899"
+     inkscape:cx="52.801841"
+     inkscape:cy="21.898607"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -127,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,20 +126,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <path
-       style="fill:url(#linearGradient1483);fill-opacity:1;stroke:none;stroke-width:0.84693122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08780003;stroke-opacity:1"
-       d="m 37.371372,305.9534 -1.058667,-1.05867 2.117333,-3.176 -8.469664,0.001 v -2.11666 l 8.469664,-0.002 -2.117333,-3.17588 1.058667,-1.05867 6.347335,5.295 z"
-       id="path1481"
-       sodipodi:nodetypes="cccccccccc"
-       inkscape:connector-curvature="0" />
-    <image
-       y="263.35095"
-       x="33.866665"
-       id="image1497"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAA2wAAANsAF9ZVn6AAAAB3RJTUUH4QESFg0mqbTwUQAAANhJREFUOMvNkKEOgmAUhb+fMWa1 0SlEfASiz0AhGXgBN4ubzUb6N9tf/mewuPkI0KSY5Q2YBS0XEwMmm/PEe86995wDv0KSZq++uSuk AlqZPYGjNXo/5bDq+bQEHtboxYCDBthZo/POwQHYAt7QN2u0En0AXIDcEW4DBNZo1YkmOG8/HQAn 4J6kmTexyEYc/wG6UnzgDERjHUiMElhbo2tHlq9ABBQTnhaivSZp5qskzW5A+GWCypnbgQvEEiEE Smv0aqSDLkIFxI41upYjpRBjiEQby+48vAExcUaCFzmJqwAAAABJRU5ErkJggg== "
-       preserveAspectRatio="none"
-       height="33.4314"
-       width="33.4314" />
     <path
        inkscape:connector-curvature="0"
        id="path1524"
