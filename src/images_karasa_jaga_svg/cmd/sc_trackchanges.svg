@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,7 +47,7 @@
      id="namedview239"
      showgrid="true"
      inkscape:zoom="2.6074563"
-     inkscape:cx="64.653052"
+     inkscape:cx="-2.4621668"
      inkscape:cy="33.47707"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -683,27 +683,30 @@
        d="m 78.586,119.414 c 0,0 11.914,-9.914 17.414,-15.414 5.5,-5.5 15.414,-17.414 15.414,-17.414 0,0 -21.164,1.414 -31.414,1.414 0,10.25 -1.414,31.414 -1.414,31.414 z"
        id="path181" />
   </g>
-  <circle
-     style="fill:url(#B);stroke-width:0.98184568"
-     cx="86.516479"
-     cy="86.516479"
-     r="41.483517"
-     id="circle229" />
-  <circle
-     style="fill:url(#C);stroke-width:1.05930197"
-     cx="86.516479"
-     cy="86.516479"
-     r="33.750359"
-     id="circle231" />
-  <circle
-     style="fill:#d90509"
-     cx="86.516479"
-     cy="86.516479"
-     r="15.008741"
-     id="circle233" />
-  <path
-     style="fill:#ffffff;fill-opacity:0.58088199;fill-rule:evenodd;stroke-width:1.05930197"
-     inkscape:connector-curvature="0"
-     d="m 86.515732,52.767033 a 33.750357,33.750357 0 0 0 -33.748699,33.748699 33.750357,33.750357 0 0 0 1.146198,8.656484 c 9.800243,-4.381471 18.941338,-5.57375 29.519766,-5.57375 16.675083,1.18387 24.229443,-0.786198 36.427993,-8.110281 A 33.750357,33.750357 0 0 0 86.515732,52.767033 Z"
-     id="path235" />
+  <g
+     id="g949">
+    <circle
+       id="circle229"
+       r="41.483517"
+       cy="86.516479"
+       cx="86.516479"
+       style="fill:url(#B);stroke-width:0.98184568" />
+    <circle
+       id="circle231"
+       r="33.750359"
+       cy="86.516479"
+       cx="86.516479"
+       style="fill:url(#C);stroke-width:1.05930197" />
+    <circle
+       id="circle233"
+       r="15.008741"
+       cy="86.516479"
+       cx="86.516479"
+       style="fill:#d90509" />
+    <path
+       id="path235"
+       d="m 86.515732,52.767033 a 33.750357,33.750357 0 0 0 -33.748699,33.748699 33.750357,33.750357 0 0 0 1.146198,8.656484 c 9.800243,-4.381471 18.941338,-5.57375 29.519766,-5.57375 16.675083,1.18387 24.229443,-0.786198 36.427993,-8.110281 A 33.750357,33.750357 0 0 0 86.515732,52.767033 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.58088199;fill-rule:evenodd;stroke-width:1.05930197" />
+  </g>
 </svg>
