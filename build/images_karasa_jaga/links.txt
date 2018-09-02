@@ -60,7 +60,6 @@ cmd/32/connect.png cmd/32/polygon.png
 cmd/32/connectortoolbox.png cmd/32/connector.png
 cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
 cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
-cmd/32/dataproviderrefresh.png cmd/32/calculate.png
 cmd/32/dbviewfunctions.png cmd/32/insertformula.png
 cmd/32/defaultparastyle.png cmd/32/controlcodes.png
 cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
@@ -159,10 +158,7 @@ cmd/32/insertrowdialog.png cmd/32/insertrows.png
 cmd/32/insertrowsbefore.png cmd/32/insertrows.png
 cmd/32/insertrowsmenu.png cmd/32/insertrows.png
 cmd/32/insertsignatureline.png cmd/32/signaturelinedialog.png
-cmd/32/insertslidefield.png cmd/32/insertpagenumberfield.png
-cmd/32/insertslidenumber.png cmd/32/insertpagenumberfield.png
-cmd/32/insertslidesfield.png cmd/32/insertpagecountfield.png
-cmd/32/insertslidetitlefield.png cmd/32/inserttitlefield.png
+cmd/32/insertslidefield.png cmd/32/insertslidenumber.png
 cmd/32/inserttimefield.png cmd/32/timefield.png
 cmd/32/inserttimefieldfix.png cmd/32/timefield.png
 cmd/32/inserttimefieldvar.png cmd/32/timefield.png
@@ -387,7 +383,6 @@ cmd/lc_connect.png cmd/lc_polygon.png
 cmd/lc_connectortoolbox.png cmd/lc_connector.png
 cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
 cmd/lc_datapilotmenu.png cmd/lc_datadatapilotrun.png
-cmd/lc_dataproviderrefresh.png cmd/lc_calculate.png
 cmd/lc_dbviewfunctions.png cmd/lc_insertformula.png
 cmd/lc_defaultparastyle.png cmd/lc_controlcodes.png
 cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
@@ -406,7 +401,7 @@ cmd/lc_fillcolor.png cmd/lc_formatarea.png
 cmd/lc_fillmoderemovepredescessor.png cmd/lc_cleararrowprecedents.png
 cmd/lc_fillmoderemovesuccessor.png cmd/lc_cleararrowdependents.png
 cmd/lc_fillmodetracepredescessor.png cmd/lc_showprecedents.png
-cmd/lc_fillmodetracesuccessor.png  cmd/lc_showdependents.png
+cmd/lc_fillmodetracesuccessor.png cmd/lc_showdependents.png
 cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
 cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
 cmd/lc_flowchartshapes.flowchart-connector.png cmd/lc_basicshapes.circle.png
@@ -483,10 +478,7 @@ cmd/lc_insertrowdialog.png cmd/lc_insertrows.png
 cmd/lc_insertrowsbefore.png cmd/lc_insertrows.png
 cmd/lc_insertrowsmenu.png cmd/lc_insertrows.png
 cmd/lc_insertsignatureline.png cmd/lc_signaturelinedialog.png
-cmd/lc_insertslidefield.png cmd/lc_insertpagenumberfield.png
-cmd/lc_insertslidenumber.png cmd/lc_insertpagenumberfield.png
-cmd/lc_insertslidesfield.png cmd/lc_insertpagecountfield.png
-cmd/lc_insertslidetitlefield.png cmd/lc_inserttitlefield.png
+cmd/lc_insertslidefield.png cmd/lc_insertslidenumber.png
 cmd/lc_inserttimefield.png cmd/lc_timefield.png
 cmd/lc_inserttimefieldfix.png cmd/lc_timefield.png
 cmd/lc_inserttimefieldvar.png cmd/lc_timefield.png
@@ -663,7 +655,6 @@ cmd/sc_connect.png cmd/sc_polygon.png
 cmd/sc_connectortoolbox.png cmd/sc_connector.png
 cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
 cmd/sc_datapilotmenu.png cmd/sc_datadatapilotrun.png
-cmd/sc_dataproviderrefresh.png cmd/sc_calculate.png
 cmd/sc_dbviewfunctions.png cmd/sc_insertformula.png
 cmd/sc_defaultparastyle.png cmd/sc_controlcodes.png
 cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
@@ -682,7 +673,7 @@ cmd/sc_fillcolor.png cmd/sc_formatarea.png
 cmd/sc_fillmoderemovepredescessor.png cmd/sc_cleararrowprecedents.png
 cmd/sc_fillmoderemovesuccessor.png cmd/sc_cleararrowdependents.png
 cmd/sc_fillmodetracepredescessor.png cmd/sc_showprecedents.png
-cmd/sc_fillmodetracesuccessor.png  cmd/sc_showdependents.png
+cmd/sc_fillmodetracesuccessor.png cmd/sc_showdependents.png
 cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
 cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
 cmd/sc_flowchartshapes.flowchart-connector.png cmd/sc_basicshapes.circle.png
@@ -759,10 +750,7 @@ cmd/sc_insertrowdialog.png cmd/sc_insertrows.png
 cmd/sc_insertrowsbefore.png cmd/sc_insertrows.png
 cmd/sc_insertrowsmenu.png cmd/sc_insertrows.png
 cmd/sc_insertsignatureline.png cmd/sc_signaturelinedialog.png
-cmd/sc_insertslidefield.png cmd/sc_insertpagenumberfield.png
-cmd/sc_insertslidenumber.png cmd/sc_insertpagenumberfield.png
-cmd/sc_insertslidesfield.png cmd/sc_insertpagecountfield.png
-cmd/sc_insertslidetitlefield.png cmd/sc_inserttitlefield.png
+cmd/sc_insertslidefield.png cmd/sc_insertslidenumber.png
 cmd/sc_inserttimefield.png cmd/sc_timefield.png
 cmd/sc_inserttimefieldfix.png cmd/sc_timefield.png
 cmd/sc_inserttimefieldvar.png cmd/sc_timefield.png
