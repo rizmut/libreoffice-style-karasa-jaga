@@ -70,7 +70,7 @@ cmd/32/draw.png cmd/32/reload.png
 cmd/32/drawselect.png cmd/32/selectobject.png
 cmd/32/drawtext.png cmd/32/text.png
 cmd/32/dsbeditdoc.png cmd/32/editdoc.png
-cmd/32/editpastespecialmenu.png cmd/32/pastespecial .png
+cmd/32/editpastespecialmenu.png cmd/32/pastespecial.png
 cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
 cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
 cmd/32/es/underlinesimple.png cmd/32/es/underline.png
@@ -175,7 +175,7 @@ cmd/32/ko/sortup.png cmd/32/ko/sortascending.png
 cmd/32/ko/tablesort.png cmd/32/ko/datasort.png
 cmd/32/ko/drawtext.png cmd/32/ko/text.png
 cmd/32/ko/underlinesimple.png cmd/32/ko/underline.png
-cmd/32/languagemenu.png cmd/32/managelanguage .png
+cmd/32/languagemenu.png cmd/32/managelanguage.png
 cmd/32/leftpara.png cmd/32/alignleft.png
 cmd/32/linenumberingdialog.png cmd/32/linenumberdialog.png
 cmd/32/linespacing.png cmd/32/spacepara15.png
@@ -396,7 +396,7 @@ cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/lc_drawtext.png cmd/lc_text.png
 cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
-cmd/lc_editpastespecialmenu .png cmd/lc_pastespecial.png
+cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
 cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_exitsearch.png cmd/lc_closedoc.png
@@ -490,7 +490,7 @@ cmd/lc_inserttimefieldvar.png cmd/lc_timefield.png
 cmd/lc_inserttoolbox.png cmd/lc_drawchart.png
 cmd/lc_insobjctrl.png cmd/lc_newdoc.png
 cmd/lc_justifypara.png cmd/lc_alignblock.png
-cmd/lc_languagemenu .png cmd/lc_managelanguage.png
+cmd/lc_languagemenu.png cmd/lc_managelanguage.png
 cmd/lc_leftpara.png cmd/lc_alignleft.png
 cmd/lc_linenumberingdialog.png cmd/lc_linenumberdialog.png
 cmd/lc_linespacing.png cmd/lc_spacepara15.png
@@ -671,7 +671,7 @@ cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_drawselect.png cmd/sc_selectobject.png
 cmd/sc_drawtext.png cmd/sc_text.png
 cmd/sc_dsbeditdoc.png cmd/sc_editdoc.png
-cmd/sc_editpastespecialmenu .png cmd/sc_pastespecial .png
+cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
 cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_exitsearch.png cmd/sc_closedoc.png
@@ -765,7 +765,7 @@ cmd/sc_inserttimefieldvar.png cmd/sc_timefield.png
 cmd/sc_inserttoolbox.png cmd/sc_drawchart.png
 cmd/sc_insobjctrl.png cmd/sc_newdoc.png
 cmd/sc_justifypara.png cmd/sc_alignblock.png
-cmd/sc_languagemenu .png cmd/sc_managelanguage .png
+cmd/sc_languagemenu.png cmd/sc_managelanguage.png
 cmd/sc_leftpara.png cmd/sc_alignleft.png
 cmd/sc_linenumberingdialog.png cmd/sc_linenumberdialog.png
 cmd/sc_linespacing.png cmd/sc_spacepara15.png
