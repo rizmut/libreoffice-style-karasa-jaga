@@ -26,7 +26,7 @@ curl -s https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/m
 Simply download zipped archive (```images_karasa_Jaga.zip```) from build directory and copy (with administrator priviledges) to ```C:\Program Files\LibreOffice-<version-here>\config\share```
 
 ```
-https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/build/images_karasa_Jaga.zip
+https://raw.githubusercontent.com/rizmut/libreoffice-style-karasa-jaga/master/build/images_karasa_jaga.zip
 
 ```
 
