@@ -15,7 +15,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg2368"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="decrementindent.svg"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/decrementindent.png"
    inkscape:export-xdpi="24"
@@ -139,14 +139,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="81.605389"
+     inkscape:cx="35.712532"
      inkscape:cy="61.393801"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1024"
+     inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -168,7 +168,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,7 +182,7 @@
        id="rect2970"
        width="10.583333"
        height="1.0583472"
-       x="-14.816667"
+       x="-29.633333"
        y="271.59995"
        rx="0"
        ry="0"
@@ -192,7 +192,7 @@
        ry="0"
        rx="0"
        y="275.83328"
-       x="-14.816667"
+       x="-29.633333"
        height="1.0583472"
        width="10.583333"
        id="rect11821"
@@ -202,7 +202,7 @@
        id="rect11823"
        width="10.583333"
        height="1.0583472"
-       x="-14.816667"
+       x="-29.633333"
        y="280.06662"
        rx="0"
        ry="0"
@@ -212,7 +212,7 @@
        id="rect11830"
        width="10.583333"
        height="1.0583472"
-       x="-14.816667"
+       x="-29.633333"
        y="288.53333"
        rx="0"
        ry="0"
@@ -222,7 +222,7 @@
        ry="0"
        rx="0"
        y="284.29999"
-       x="-14.816667"
+       x="-29.633333"
        height="1.0583472"
        width="10.583333"
        id="rect11832"
@@ -252,7 +252,7 @@
     </g>
     <g
        id="g7210"
-       transform="matrix(3.9999999,0,0,3.9999999,-74.179842,-854.86539)">
+       transform="matrix(3.9999999,0,0,3.9999999,-86.233247,-854.86539)">
       <path
          style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3809);stroke-width:0.47666678;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 25.714961,281.95864 -2.860001,1.90667 2.860001,1.90667 z"
@@ -267,7 +267,7 @@
          inkscape:connector-curvature="0" />
       <path
          style="display:inline;fill:url(#linearGradient3813);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23833339px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 25.714961,281.95865 -2.860001,1.90666 h 2.860001 z"
+         d="m 25.714961,281.95865 -2.860001,1.90666 2.860001,0 z"
          id="path3996"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0" />

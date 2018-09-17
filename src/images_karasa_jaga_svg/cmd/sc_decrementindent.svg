@@ -19,7 +19,7 @@
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/sc_decrementindent.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.91 r13725">
   <defs
      id="defs2">
     <linearGradient
@@ -126,15 +126,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="129.79547"
-     inkscape:cy="37.262402"
+     inkscape:zoom="1.4"
+     inkscape:cx="33.59684"
+     inkscape:cy="0.98143597"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1024"
+     inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -162,26 +162,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <image
-       y="263.13333"
-       x="-33.866665"
-       id="image13718"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAB2AAAAdgB+lymcgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAClSURB
-VDiN1ZBBCkIhEIZHfUKCJ4g6SBu1ZV3VfdtEqEXrOkHQEUSwtNUTkZ5IVNC3GnX852MA/h40FkKI
-LcZ42fMpxni11u5+bnAwxpw/MvVdg0y5A1S91eeS1DSQUm4AYNIAIXR8tYMcoJQaGGOkYQCc87vW
-+lHeDdkvpbVzbtEK8N6fAOAyZTALIdBWwAilNBhjfG2wIoTMewJSSjcA2Pf0fp8nJsI6zoQcTecA
-AAAASUVORK5CYII=
-"
-       preserveAspectRatio="none"
-       height="33.866665"
-       width="33.866665" />
     <rect
        style="opacity:1;fill:#404040;fill-opacity:0.83921569;stroke:none;stroke-width:1.40092885;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3124"
        width="8.4666662"
        height="2.1166959"
-       x="-12.7"
+       x="-29.633333"
        y="271.59998"
        rx="0"
        ry="0"
@@ -191,7 +177,7 @@ AAAASUVORK5CYII=
        ry="0"
        rx="0"
        y="280.06665"
-       x="-12.7"
+       x="-29.633333"
        height="2.1166959"
        width="8.4666662"
        id="rect13721"
@@ -200,7 +186,7 @@ AAAASUVORK5CYII=
        ry="0"
        rx="0"
        y="275.83331"
-       x="4.2333322"
+       x="21.166668"
        height="2.1166916"
        width="8.4666662"
        id="rect3114"
@@ -210,7 +196,7 @@ AAAASUVORK5CYII=
        id="rect13723"
        width="8.4666662"
        height="2.1166916"
-       x="4.2333322"
+       x="21.166668"
        y="284.29999"
        rx="0"
        ry="0" />
@@ -219,13 +205,13 @@ AAAASUVORK5CYII=
        id="rect13725"
        width="8.4666662"
        height="2.1166959"
-       x="4.2333322"
+       x="21.166668"
        y="288.53329"
        rx="0"
        ry="0" />
     <g
        id="g7505"
-       transform="matrix(7.1999999,0,0,7.1999999,-100.17874,-1703.5142)">
+       transform="matrix(7.1999999,0,0,7.1999999,-112.24388,-1703.5142)">
       <path
          sodipodi:nodetypes="cccc"
          id="path3980"
@@ -241,7 +227,7 @@ AAAASUVORK5CYII=
       <path
          sodipodi:nodetypes="cccc"
          id="path3984"
-         d="m 17.764871,274.71829 -1.322917,0.92604 h 1.322917 z"
+         d="m 17.764871,274.71829 -1.322917,0.92604 1.322917,0 z"
          style="display:inline;fill:url(#linearGradient3789);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
