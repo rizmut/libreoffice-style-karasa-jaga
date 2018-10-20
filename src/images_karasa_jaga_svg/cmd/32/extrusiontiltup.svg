@@ -15,9 +15,9 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg1045"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="extrusiontiltup.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_Jaga/cmd/32/extrusiontiltup.png"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/extrusiontiltup.png"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <defs
@@ -261,11 +261,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94335938"
-     inkscape:cx="39.388036"
-     inkscape:cy="30.056688"
+     inkscape:zoom="1.8867188"
+     inkscape:cx="45.161971"
+     inkscape:cy="39.903408"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -273,11 +273,12 @@
      inkscape:snap-page="true"
      inkscape:snap-global="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
+     inkscape:window-height="706"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata1042">
     <rdf:RDF>
@@ -295,14 +296,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-263.13332)">
-    <image
-       y="263.17346"
-       x="33.866665"
-       id="image1702"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAMnAAADJwBk4+WmgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAQ+SURB VDiNpZR/TNRlHMffz3PfX8cdd4BwQmRiQZIhP/y5mYSlrrl+QcuW6dRy4VazlVrpVjtvrfjH0iH9 oTaZaG5RrcjRNBRbsnIdQXh0B5IoEvEjOO4H3N3359Mfdi0Ugs339myfffb+vJ7P83mePWCMYbqV m7+vY8uzR9nTXj9DkevrmdRQTKNthe/XPZOdMV/s9U9nnaApwS7i4soXV/gKi+c/ufPARghWCabf +mBhxDwTMGGM3ZbcXLDfIZm0zjXPL09aVbYEvGjCzw2daGvpxo32Hshh2SCEXQ4MmVfX9r4x6VFu A7+Y58oXJLF5w+vr+Oz8LAz6wrBnSJBsHHgzB06k0DUdF2qbce6LS7qmKrurPc6D045CY7Q4OT2R n7cwE6H+GOSIBk0xEByQMegLobclgJGrUZSULsGbVVtNd81L/6h8UcW5mY3igfdes6eaD27dU0rs SUlIsAvo7R5Eol1C8mw7lLCOUH8Mko2H1cHjwM4TbKBvZEuNx3nif8EAsKnAtTSBF5rWrl8hrHi8 EBU7qjF+rwOmy70o2/oIih7OxegfEfCiCTKL4tDbJ3V1RE2tvuYMTDqKuE62Od1S0Jp29rMfbxz7 oA5KRMHo7nWo1eXGumONo59+WM+saSLG/AqsFitKnlpm4lOE76ac8X9V2bUj9EnL3rmnvT19iu3m KwsD4SO/7Enp8vSM+dzXINk4jN6IYFHxAlBCC2cEjstNWXOgctOEXEzRNjTUNjFqIlCiOnhOACjj n8tzWWcMnkw1nnfqg/4wdM2AphiIhlTMnpPKEnRaekdgAAAlLBKSoSk65HEdiTYrGGfk3BF4c8F+ B6WUGgqgygYMzUB/zxCohgYA4G4tOOvypsQ40TL4VWCgvHmxOmWzWmRf5n1zWTSkEk3Rock6gv4Q qn3Opgngz11eq0Qx12zncyRNLQw7hsJ7i08dq7j4wuit0JcfdGULZnH70hVFJBZUQQjBUN8IKOVi /24cD8xAoSWRXyWPq0vMNmHhgkfv3sbxhmfX8iNHLaCpcV8aQz6VxNaStQ+BpyJ0jYETCS6ev8RU Va6K+zgAIASk8omB5MyCWWtS77Gmjf0VcwgJYtbq9cv461f+fGmOe1ynAARKkJOZllVWUkIIo1Ai OjiBwtfehWAgNFztcb41oWPGwPz9v5+/3NQh+AcDiyyzxBwlqvMRv4aMjHSalGzjCblp5niJGAqg KQYoRzDiD6C9td1QDHXVhDuIB87m8shwaPiVH067xzp+vaoIVgpeMkHXGGAw6AyIGAyqqgMADGag 1d0auXCmsS8WVVfWtDm9k4IBoKrl1R5EormdLd2Hzpz6PnjFc00O+APQdR3kH08sJqPD12nUf/Nt uLv7+inKqfcf9777060XPOXvtjPvQAos5l2U0JVfav7FBSe2WwDAvfHj4cdUHNY1Vn/cdzswrr8B pPoa0M2r87cAAAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="33.786392"
-       width="33.786392" />
     <g
        id="g886"
        transform="rotate(90,16.933331,280.06666)">
