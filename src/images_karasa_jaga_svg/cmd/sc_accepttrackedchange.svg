@@ -14,8 +14,8 @@
    width="128"
    version="1.1"
    id="svg237"
-   sodipodi:docname="sc_accepttrackedchanges.svg"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_accepttrackedchanges.png"
+   sodipodi:docname="sc_accepttrackedchange.svg"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_accepttrackedchange.png"
    inkscape:export-xdpi="12"
    inkscape:export-ydpi="12"
    inkscape:version="0.92.3 (unknown)">
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,9 +145,9 @@
      inkscape:window-height="706"
      id="namedview239"
      showgrid="true"
-     inkscape:zoom="3.6875001"
-     inkscape:cx="-4.3435244"
-     inkscape:cy="63.164943"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="34.656408"
+     inkscape:cy="75.091905"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -286,7 +286,8 @@
      cx="102.000002"
      cy="112.3047"
      gradientUnits="userSpaceOnUse"
-     r="139.5585">
+     r="139.5585"
+     gradientTransform="translate(-2e-6,-0.3638)">
     <stop
        offset="0"
        stop-color="#00537d"
@@ -645,7 +646,7 @@
        style="opacity:0.83561599;filter:url(#g)" />
     <path
        id="path171"
-       d="m 16.000002,8 v 112 h 61.172 c 0.53,0 1.039,-0.211 1.414,-0.586 L 111.414,86.586 C 111.789,86.211 112,85.702 112,85.172 V 8 Z"
+       d="m 16,7.6362 v 112 h 61.172 c 0.53,0 1.039,-0.211 1.414,-0.586 l 32.828,-32.828 c 0.375,-0.375 0.586,-0.884 0.586,-1.414 V 7.6362 Z"
        style="fill:url(#f)"
        inkscape:connector-curvature="0" />
     <path

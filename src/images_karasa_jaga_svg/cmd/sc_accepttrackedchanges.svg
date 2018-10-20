@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -272,13 +272,13 @@
      inkscape:window-height="706"
      id="namedview239"
      showgrid="true"
-     inkscape:zoom="1.8437501"
-     inkscape:cx="-47.831754"
-     inkscape:cy="94.067016"
+     inkscape:zoom="29.5"
+     inkscape:cx="13.928661"
+     inkscape:cy="5.6035958"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg237">
+     inkscape:current-layer="g1069">
     <inkscape:grid
        type="xygrid"
        id="grid1050"
@@ -413,7 +413,8 @@
      cx="102.000002"
      cy="112.3047"
      gradientUnits="userSpaceOnUse"
-     r="139.5585">
+     r="139.5585"
+     gradientTransform="translate(-2e-6,-0.3638)">
     <stop
        offset="0"
        stop-color="#00537d"
@@ -772,7 +773,7 @@
        style="opacity:0.83561599;filter:url(#g)" />
     <path
        id="path171"
-       d="m 16.000002,8 v 112 h 61.172 c 0.53,0 1.039,-0.211 1.414,-0.586 L 111.414,86.586 C 111.789,86.211 112,85.702 112,85.172 V 8 Z"
+       d="m 16,7.6362 v 112 h 61.172 c 0.53,0 1.039,-0.211 1.414,-0.586 l 32.828,-32.828 c 0.375,-0.375 0.586,-0.884 0.586,-1.414 V 7.6362 Z"
        style="fill:url(#f)"
        inkscape:connector-curvature="0" />
     <path
