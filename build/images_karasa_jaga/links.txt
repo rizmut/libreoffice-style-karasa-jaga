@@ -92,11 +92,8 @@ cmd/32/fontworkcharacterspacingfloater.png cmd/32/spacing.png
 cmd/32/formatallnotes.png cmd/32/editannotation.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/framedialog.png
-cmd/32/formatgroup.png cmd/32/group.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
-cmd/32/formattextmenu.png cmd/32/text.png
-cmd/32/formatungroup.png cmd/32/ungroup.png
 cmd/32/fr/underlinesimple.png cmd/32/fr/underline.png
 cmd/32/functionbox.png cmd/32/insertformula.png
 cmd/32/functiondialog.png cmd/32/insertformula.png
@@ -414,11 +411,9 @@ cmd/lc_fontworkcharacterspacingfloater.png cmd/lc_spacing.png
 cmd/lc_formatallnotes.png cmd/lc_editannotation.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_framedialog.png
-cmd/lc_formatgroup.png cmd/lc_group.png
 cmd/lc_formatimagemenu.png cmd/lc_graphic.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
 cmd/lc_formattextmenu.png cmd/lc_text.png
-cmd/lc_formatungroup.png cmd/lc_ungroup.png
 cmd/lc_functionbox.png cmd/lc_insertformula.png
 cmd/lc_functiondialog.png cmd/lc_insertformula.png
 cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
@@ -686,11 +681,9 @@ cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
 cmd/sc_formatallnotes.png cmd/sc_editannotation.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_framedialog.png
-cmd/sc_formatgroup.png cmd/sc_group.png
 cmd/sc_formatimagemenu.png cmd/sc_graphic.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_text.png
-cmd/sc_formatungroup.png cmd/sc_ungroup.png
 cmd/sc_functionbox.png cmd/sc_insertformula.png
 cmd/sc_functiondialog.png cmd/sc_insertformula.png
 cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
