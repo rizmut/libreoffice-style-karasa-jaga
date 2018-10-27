@@ -100,7 +100,7 @@ cmd/32/functiondialog.png cmd/32/insertformula.png
 cmd/32/gotoendofdoc.png cmd/32/lastpage.png
 cmd/32/gotostartofdoc.png cmd/32/firstpage.png
 cmd/32/gridmenu.png cmd/32/gridvisible.png
-cmd/32/groupmenu.png cmd/32/group.png
+cmd/32/groupmenu.png cmd/32/formatgroup.png
 cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/hscroll.png cmd/32/hscrollbar.png
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
@@ -419,7 +419,7 @@ cmd/lc_functiondialog.png cmd/lc_insertformula.png
 cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
 cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
 cmd/lc_gridmenu.png cmd/lc_gridvisible.png
-cmd/lc_groupmenu.png cmd/lc_group.png
+cmd/lc_groupmenu.png cmd/lc_formatgroup.png
 cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
 cmd/lc_hscroll.png cmd/lc_hscrollbar.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
@@ -689,7 +689,7 @@ cmd/sc_functiondialog.png cmd/sc_insertformula.png
 cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
-cmd/sc_groupmenu.png cmd/sc_group.png
+cmd/sc_groupmenu.png cmd/sc_formatgroup.png
 cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
 cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
@@ -1098,7 +1098,7 @@ sd/res/docclose.png cmd/lc_closedoc.png
 sd/res/docopen.png cmd/lc_open.png
 sd/res/doctext.png res/sx03156.png
 sd/res/graphic.png cmd/sc_graphic.png
-sd/res/group.png cmd/sc_group.png
+sd/res/group.png cmd/sc_formatgroup.png
 sd/res/lc05928.png cmd/lc_autopilotmenu.png
 sd/res/lc27015.png cmd/lc_importdialog.png
 sd/res/lc27017.png cmd/lc_zoompanning.png
