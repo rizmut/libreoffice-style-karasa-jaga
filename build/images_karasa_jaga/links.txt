@@ -283,7 +283,6 @@ cmd/32/textalign.png cmd/32/alignblock.png
 cmd/32/texttoolbox.png cmd/32/text.png
 cmd/32/thesaurusdialog.png cmd/32/thesaurus.png
 cmd/32/toggleformula.png cmd/32/insertformula.png
-cmd/32/togglemergecells.png cmd/32/mergecells.png
 cmd/32/toolbarsmenu.png cmd/32/showtoolbar.png
 cmd/32/tr/underlinesimple.png cmd/32/tr/underline.png
 cmd/32/tracechangemode.png cmd/32/trackchanges.png
@@ -594,7 +593,6 @@ cmd/lc_textalign.png cmd/lc_alignblock.png
 cmd/lc_texttoolbox.png cmd/lc_text.png
 cmd/lc_thesaurusdialog.png cmd/lc_thesaurus.png
 cmd/lc_toggleformula.png cmd/lc_insertformula.png
-cmd/lc_togglemergecells.png cmd/lc_mergecells.png
 cmd/lc_toolbarsmenu.png cmd/lc_showtoolbar.png
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/lc_underlinesimple.png cmd/lc_underline.png
@@ -870,7 +868,6 @@ cmd/sc_textalign.png cmd/sc_alignblock.png
 cmd/sc_texttoolbox.png cmd/sc_text.png
 cmd/sc_thesaurusdialog.png cmd/sc_thesaurus.png
 cmd/sc_toggleformula.png cmd/sc_insertformula.png
-cmd/sc_togglemergecells.png cmd/sc_mergecells.png
 cmd/sc_toolbarsmenu.png cmd/sc_showtoolbar.png
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 cmd/sc_underlinesimple.png cmd/sc_underline.png
