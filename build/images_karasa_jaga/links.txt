@@ -72,6 +72,7 @@ cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
 cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
 cmd/32/es/underlinesimple.png cmd/32/es/underline.png
 cmd/32/exitsearch.png cmd/32/closepreview.png
+cmd/32/exportasgraphic.png cmd/32/graphic.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
 cmd/32/fieldnames.png cmd/32/fields.png
 cmd/32/fillcolor.png cmd/32/formatarea.png
@@ -398,6 +399,7 @@ cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
 cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_exitsearch.png cmd/lc_closepreview.png
+cmd/lc_exportasgraphic.png cmd/lc_graphic.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
 cmd/lc_fieldnames.png cmd/lc_fields.png
 cmd/lc_fillcolor.png cmd/lc_formatarea.png
@@ -675,6 +677,7 @@ cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
 cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_exitsearch.png cmd/sc_closepreview.png
+cmd/sc_exportasgraphic.png cmd/sc_graphic.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
 cmd/sc_fieldnames.png cmd/sc_fields.png
 cmd/sc_fillcolor.png cmd/sc_formatarea.png
