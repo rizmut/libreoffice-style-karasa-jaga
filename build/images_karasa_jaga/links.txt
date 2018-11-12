@@ -41,6 +41,7 @@ cmd/32/cellvertbottom.png cmd/32/alignbottom.png
 cmd/32/cellvertcenter.png cmd/32/alignverticalcenter.png
 cmd/32/cellverttop.png cmd/32/aligntop.png
 cmd/32/centerpara.png cmd/32/alignhorizontalcenter.png
+cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/charbackcolor.png cmd/32/backcolor.png
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
 cmd/32/circle.png cmd/32/basicshapes.circle.png
@@ -198,6 +199,7 @@ cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
 cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
 cmd/32/numberformattime.png cmd/32/timefield.png
+cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/numberliststyle.png cmd/32/defaultnumbering.png
 cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objectforwardone.png cmd/32/forward.png
@@ -217,6 +219,7 @@ cmd/32/pagedown.png cmd/32/navigateforward.png
 cmd/32/pageformatdialog.png cmd/32/pagedialog.png
 cmd/32/pagesetup.png cmd/32/pagedialog.png
 cmd/32/pageup.png cmd/32/navigateback.png
+cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/pl/underlinesimple.png cmd/32/pl/underline.png
 cmd/32/pluginsactive.png cmd/32/addons.png
@@ -374,6 +377,7 @@ cmd/lc_cellvertbottom.png cmd/lc_alignbottom.png
 cmd/lc_cellvertcenter.png cmd/lc_alignverticalcenter.png
 cmd/lc_cellverttop.png cmd/lc_aligntop.png
 cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
+cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
 cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
 cmd/lc_circle.png cmd/lc_basicshapes.circle.png
@@ -520,6 +524,7 @@ cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
 cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
 cmd/lc_numberformattime.png cmd/lc_timefield.png
+cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numberliststyle.png cmd/lc_defaultnumbering.png
 cmd/lc_objectbackone.png cmd/lc_backward.png
 cmd/lc_objectforwardone.png cmd/lc_forward.png
@@ -539,6 +544,7 @@ cmd/lc_pagedown.png cmd/lc_navigateforward.png
 cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 cmd/lc_pagesetup.png cmd/lc_pagedialog.png
 cmd/lc_pageup.png cmd/lc_navigateback.png
+cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
 cmd/lc_pie.png cmd/lc_basicshapes.circle-pie.png
 cmd/lc_pluginsactive.png cmd/lc_addons.png
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
@@ -657,6 +663,7 @@ cmd/sc_cellvertbottom.png cmd/sc_alignbottom.png
 cmd/sc_cellvertcenter.png cmd/sc_alignverticalcenter.png
 cmd/sc_cellverttop.png cmd/sc_aligntop.png
 cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
+cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
 cmd/sc_circle.png cmd/sc_basicshapes.circle.png
@@ -803,6 +810,7 @@ cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
 cmd/sc_numberformattime.png cmd/sc_timefield.png
+cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 cmd/sc_objectbackone.png cmd/sc_backward.png
 cmd/sc_objectforwardone.png cmd/sc_forward.png
@@ -822,6 +830,7 @@ cmd/sc_pagedown.png cmd/sc_navigateforward.png
 cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 cmd/sc_pagesetup.png cmd/sc_pagedialog.png
 cmd/sc_pageup.png cmd/sc_navigateback.png
+cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
 cmd/sc_pie.png cmd/sc_basicshapes.circle-pie.png
 cmd/sc_pluginsactive.png cmd/sc_addons.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
