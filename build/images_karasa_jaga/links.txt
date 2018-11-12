@@ -44,6 +44,7 @@ cmd/32/centerpara.png cmd/32/alignhorizontalcenter.png
 cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/charbackcolor.png cmd/32/backcolor.png
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
+cmd/32/chartmenu.png cmd/32/drawchart.png
 cmd/32/circle.png cmd/32/basicshapes.circle.png
 cmd/32/circlepie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/closedocs.png cmd/32/closedoc.png
@@ -205,6 +206,7 @@ cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/numberliststyle.png cmd/32/defaultnumbering.png
 cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objectforwardone.png cmd/32/forward.png
+cmd/32/objectmenu.png cmd/32/insertframe.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
@@ -383,6 +385,7 @@ cmd/lc_centerpara.png cmd/lc_alignhorizontalcenter.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
 cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
+cmd/lc_chartmenu.png cmd/lc_drawchart.png
 cmd/lc_circle.png cmd/lc_basicshapes.circle.png
 cmd/lc_circlepie.png cmd/lc_basicshapes.circle-pie.png
 cmd/lc_closedocs.png cmd/lc_closedoc.png
@@ -533,6 +536,7 @@ cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numberliststyle.png cmd/lc_defaultnumbering.png
 cmd/lc_objectbackone.png cmd/lc_backward.png
 cmd/lc_objectforwardone.png cmd/lc_forward.png
+cmd/lc_objectmenu.png cmd/lc_insertframe.png
 cmd/lc_objectmirrorhorizontal.png cmd/lc_fliphorizontal.png
 cmd/lc_objectmirrorvertical.png cmd/lc_flipvertical.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
@@ -672,6 +676,7 @@ cmd/sc_centerpara.png cmd/sc_alignhorizontalcenter.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
+cmd/sc_chartmenu.png cmd/sc_drawchart.png
 cmd/sc_circle.png cmd/sc_basicshapes.circle.png
 cmd/sc_circlepie.png cmd/sc_basicshapes.circle-pie.png
 cmd/sc_closedocs.png cmd/sc_closedoc.png
@@ -822,6 +827,7 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 cmd/sc_objectbackone.png cmd/sc_backward.png
 cmd/sc_objectforwardone.png cmd/sc_forward.png
+cmd/sc_objectmenu.png cmd/sc_insertframe.png
 cmd/sc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
 cmd/sc_objectmirrorvertical.png cmd/sc_flipvertical.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
