@@ -15,7 +15,7 @@
    version="1.1"
    id="svg78"
    sodipodi:docname="lc_dbreportedit.svg"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_dbreportedit.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5">
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -409,12 +409,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="707"
      id="namedview80"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-192.66102"
-     inkscape:cy="64"
+     inkscape:zoom="2"
+     inkscape:cx="16.154929"
+     inkscape:cy="91.754252"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -673,7 +673,7 @@
        fill="#2d2d2d" />
   </g>
   <g
-     transform="matrix(0.99669347,0,0,0.99669347,23.31244,-47.952874)"
+     transform="matrix(0.99669347,0,0,0.99669347,23.224052,-47.422544)"
      id="g165">
     <g
        style="fill-rule:evenodd"
