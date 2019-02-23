@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="128"
-   width="128"
+   height="24"
+   width="24"
    version="1.1"
    id="svg211"
    sodipodi:docname="lc_recsearch.svg"
@@ -70,11 +70,15 @@
      inkscape:window-width="640"
      inkscape:window-height="480"
      id="namedview213"
-     showgrid="false"
-     inkscape:zoom="1.3522727"
-     inkscape:cx="27.906016"
-     inkscape:cy="-32.795945"
-     inkscape:current-layer="svg211" />
+     showgrid="true"
+     inkscape:zoom="2.7045454"
+     inkscape:cx="4.4334663"
+     inkscape:cy="0.90849701"
+     inkscape:current-layer="svg211">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4872" />
+  </sodipodi:namedview>
   <linearGradient
      id="a">
     <stop
@@ -479,7 +483,7 @@
      y1="18.166855"
      y2="21.503107" />
   <g
-     transform="matrix(5.81818,0,0,5.81818,-5306.0999,-4007.4122)"
+     transform="matrix(1.0909088,0,0,1.0909088,-994.87866,-751.38979)"
      id="g209">
     <g
        id="g125"

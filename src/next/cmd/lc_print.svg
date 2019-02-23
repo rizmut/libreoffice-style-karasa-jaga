@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="128"
-   viewBox="0 0 128 128"
-   width="128"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
    version="1.1"
    id="svg101"
    sodipodi:docname="lc_print.svg"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/next/cmd/lc_print.png"
    inkscape:export-xdpi="18"
    inkscape:export-ydpi="18">
@@ -44,9 +44,9 @@
      inkscape:window-height="706"
      id="namedview103"
      showgrid="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="65.445067"
-     inkscape:cy="32.223922"
+     inkscape:zoom="14.75"
+     inkscape:cx="14.045436"
+     inkscape:cy="23.489007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,8 +54,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid914"
-       spacingx="5.33333"
-       spacingy="5.33333" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -183,8 +183,8 @@
   <linearGradient
      id="f"
      gradientUnits="userSpaceOnUse"
-     x1="64.254238"
-     x2="64.254238"
+     x1="64.254234"
+     x2="64.254234"
      y1="44"
      y2="64">
     <stop
@@ -215,7 +215,7 @@
   </linearGradient>
   <g
      id="g938"
-     transform="matrix(0.91667,0,0,0.91667,5.3336961,10.665142)">
+     transform="matrix(0.17187562,0,0,0.17187562,1.000068,1.9997141)">
     <rect
        id="rect57"
        y="112"
