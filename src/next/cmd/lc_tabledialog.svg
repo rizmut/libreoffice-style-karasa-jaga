@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="128"
-   viewBox="0 0 33.866666 33.866668"
-   width="128"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   width="24"
    version="1.1"
    id="svg23585"
    sodipodi:docname="lc_tabledialog.svg"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/next/cmd/lc_tabledialog.png"
    inkscape:export-xdpi="18"
    inkscape:export-ydpi="18">
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,21 +41,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="714"
      id="namedview23587"
      showgrid="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="-54.434966"
-     inkscape:cy="28.947391"
+     inkscape:zoom="3.6875"
+     inkscape:cx="36.405331"
+     inkscape:cy="32.632064"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg23585">
     <inkscape:grid
        type="xygrid"
        id="grid24136"
-       spacingx="1.4111102"
-       spacingy="1.4111102" />
+       spacingx="0.13229167"
+       spacingy="0.13229167" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -80,10 +80,10 @@
   <linearGradient
      id="b"
      gradientUnits="userSpaceOnUse"
-     x1="78.61085034347"
-     x2="120.34349451992"
-     y1="88.85241574791"
-     y2="111.54715161013">
+     x1="78.610847"
+     x2="120.3435"
+     y1="88.852417"
+     y2="111.54715">
     <stop
        offset="0"
        stop-color="#fff"
@@ -113,16 +113,17 @@
   <clipPath
      id="d">
     <path
-       d="m41.355614 933.74432h83.943993v117.52166h-83.943993z"
-       id="path23511" />
+       d="M 41.355614,933.74432 H 125.29961 V 1051.266 H 41.355614 Z"
+       id="path23511"
+       inkscape:connector-curvature="0" />
   </clipPath>
   <filter
      id="e"
-     color-interpolation-filters="sRGB"
      height="1.073732"
      width="1.13754"
-     x="-.06877"
-     y="-.036866">
+     x="-0.068769999"
+     y="-0.036866002"
+     style="color-interpolation-filters:sRGB">
     <feGaussianBlur
        stdDeviation="1.0557314"
        id="feGaussianBlur23514" />
@@ -228,10 +229,10 @@
   <linearGradient
      id="j"
      gradientUnits="userSpaceOnUse"
-     x1="32.02824601316"
-     x2="32.02824601316"
-     y1="256.97660170545"
-     y2="292.38216396773">
+     x1="32.028248"
+     x2="32.028248"
+     y1="256.97659"
+     y2="292.38217">
     <stop
        offset="0"
        stop-color="#fff"
@@ -260,7 +261,7 @@
   </linearGradient>
   <g
      id="g24150"
-     transform="matrix(0.916666,0,0,0.916666,1.4111102,1.4060432)">
+     transform="matrix(0.17187487,0,0,0.17187487,0.26458514,0.26363092)">
     <g
        id="g23565"
        transform="translate(0,-263.13332)">
@@ -293,7 +294,7 @@
          transform="matrix(0.69309305,0,0,0.69309305,41.153912,-600.6251)"
          d="m 92.81509,1029.6319 c 1.071428,1.4286 10.71429,15.3572 11.78571,13.5715 1.07143,-1.7858 26.42857,-25.3572 25,-26.7858 -1.42857,-1.4285 -33.928567,-41.78567 -33.928567,-41.78567 z"
          clip-path="url(#d)"
-         style="opacity:0.6800001;fill:url(#c);fill-rule:evenodd;filter:url(#e)"
+         style="opacity:0.68000034;fill:url(#c);fill-rule:evenodd;filter:url(#e)"
          inkscape:connector-curvature="0" />
       <path
          id="path23573"

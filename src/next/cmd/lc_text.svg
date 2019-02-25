@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
+   width="24"
+   height="24"
    id="svg1307"
    sodipodi:version="0.32"
    inkscape:version="0.92.4 (unknown)"
@@ -51,7 +51,7 @@
        id="linearGradient3186"
        x1="37.688"
        y1="63.0005"
-       x2="90.312"
+       x2="90.311996"
        y2="63.0005"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -142,23 +142,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="20.858596"
-     inkscape:cy="57.203703"
-     inkscape:current-layer="layer1"
+     inkscape:cx="44.009092"
+     inkscape:cy="20.601196"
+     inkscape:current-layer="g47"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      guidetolerance="0.1px"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1152"
-     inkscape:window-height="970"
-     inkscape:window-x="758"
-     inkscape:window-y="165"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      gridtolerance="10000"
      inkscape:grid-points="true"
      showborder="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="horizontal"
        position="32.487481"
@@ -169,8 +170,8 @@
        type="xygrid"
        originx="0"
        originy="0"
-       spacingx="2.66667"
-       spacingy="2.66667"
+       spacingx="0.5"
+       spacingy="0.5"
        color="#0000ff"
        empcolor="#0000ff"
        opacity="0.2"
@@ -216,58 +217,64 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
-    <path
-       sodipodi:nodetypes="ccc"
-       id="path2276"
-       d="m 54.892799,3.2812959 0,-2.79470843 0,2.79470843 z"
-       style="fill:#ffffff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none" />
-    <path
-       style="fill:url(#linearGradient3638);fill-opacity:1;stroke-width:1.03685415"
-       d="M 24.091827,15.99986 21.33336,47.9999 h 3.888203 c 1.602096,-8.76654 5.707879,-16.488326 8.891264,-19.094209 3.183385,-2.602315 9.389531,-2.239151 18.183719,-2.239151 H 53.3334 v 58.66674 c 0,7.00253 -4.128977,8.208878 -5.795225,9.944344 -1.669717,1.733692 -3.428985,2.868231 -10.204949,3.394393 l 1.54e-4,2.661283 24.554967,-0.0536 23.445093,0.0536 -1.54e-4,-2.661311 C 78.557322,98.145837 76.842556,97.011316 75.172839,95.277624 73.506591,93.542158 69.33342,92.33581 69.33342,85.33328 V 26.66654 h 1.036854 c 8.794188,0 14.557808,-0.363164 17.741193,2.239151 3.183381,2.605883 7.731693,10.327669 9.333788,19.094209 h 3.888205 L 98.66679,15.99986 H 60.770543 Z"
-       id="path2923"
-       sodipodi:nodetypes="cccccccscccccsccccccccc"
-       inkscape:connector-curvature="0" />
+     inkscape:groupmode="layer"
+     transform="translate(0,-104)">
     <g
-       style="fill:#a4c0e4;fill-opacity:1"
-       id="g2925"
-       transform="matrix(1.5991885,0,0,-5.8180975,-41.258811,663.44531)">
-      <radialGradient
-         id="XMLID_9_"
-         cx="112.667"
-         cy="114"
-         r="165.9342"
-         gradientUnits="userSpaceOnUse">
-        <stop
-           offset="0.0056"
-           style="stop-color:#888A85"
-           id="stop2928" />
-        <stop
-           offset="1"
-           style="stop-color:#EEEEEC"
-           id="stop2930" />
-      </radialGradient>
+       id="g47"
+       transform="matrix(0.1875,0,0,0.1875,0,104)">
+      <path
+         style="fill:#ffffff;fill-opacity:0.75688076;fill-rule:nonzero;stroke:none"
+         d="M 54.892799,3.2812959 V 0.48658747 Z"
+         id="path2276"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccscccccsccccccccc"
+         id="path2923"
+         d="M 24.091827,15.99986 21.33336,47.9999 h 3.888203 c 1.602096,-8.76654 5.707879,-16.488326 8.891264,-19.094209 3.183385,-2.602315 9.389531,-2.239151 18.183719,-2.239151 H 53.3334 v 58.66674 c 0,7.00253 -4.128977,8.208878 -5.795225,9.944344 -1.669717,1.733692 -3.428985,2.868231 -10.204949,3.394393 l 1.54e-4,2.661283 24.554967,-0.0536 23.445093,0.0536 -1.54e-4,-2.661311 C 78.557322,98.145837 76.842556,97.011316 75.172839,95.277624 73.506591,93.542158 69.33342,92.33581 69.33342,85.33328 V 26.66654 h 1.036854 c 8.794188,0 14.557808,-0.363164 17.741193,2.239151 3.183381,2.605883 7.731693,10.327669 9.333788,19.094209 h 3.888205 L 98.66679,15.99986 H 60.770543 Z"
+         style="fill:url(#linearGradient3638);fill-opacity:1;stroke-width:1.03685415" />
+      <g
+         transform="matrix(1.5991885,0,0,-5.8180975,-41.258811,663.44531)"
+         id="g2925"
+         style="fill:#a4c0e4;fill-opacity:1">
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           r="165.9342"
+           cy="114"
+           cx="112.667"
+           id="XMLID_9_">
+          <stop
+             id="stop2928"
+             style="stop-color:#888A85"
+             offset="0.0056" />
+          <stop
+             id="stop2930"
+             style="stop-color:#EEEEEC"
+             offset="1" />
+        </radialGradient>
+        <rect
+           id="rect2932"
+           height="0.91667777"
+           width="70.035614"
+           y="93.864357"
+           x="29.134871"
+           style="fill:#a4c0e4;fill-opacity:1" />
+      </g>
       <rect
          style="fill:#a4c0e4;fill-opacity:1"
-         x="29.134871"
-         y="93.864357"
-         width="70.035614"
-         height="0.91667777"
-         id="rect2932" />
+         x="10.66668"
+         y="5.33318"
+         width="5.3333392"
+         height="117.33348"
+         id="rect2950" />
+      <rect
+         id="rect3636"
+         height="117.33348"
+         width="5.3333373"
+         y="5.33318"
+         x="106.6668"
+         style="fill:#a4c0e4;fill-opacity:1" />
     </g>
-    <rect
-       id="rect2950"
-       height="117.33348"
-       width="5.3333392"
-       y="5.33318"
-       x="10.66668"
-       style="fill:#a4c0e4;fill-opacity:1" />
-    <rect
-       style="fill:#a4c0e4;fill-opacity:1"
-       x="106.6668"
-       y="5.33318"
-       width="5.3333373"
-       height="117.33348"
-       id="rect3636" />
   </g>
 </svg>

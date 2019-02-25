@@ -9,13 +9,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    enable-background="new 0 0 128 128"
-   height="128"
-   viewBox="0 0 128 128"
-   width="128"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
    version="1.1"
    id="svg3195"
    sodipodi:docname="lc_exporttopdf.svg"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/next/cmd/lc_exporttopdf.png"
    inkscape:export-xdpi="18"
    inkscape:export-ydpi="18">
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,22 +82,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="714"
      id="namedview3197"
      showgrid="true"
-     inkscape:zoom="2.6295533"
-     inkscape:cx="1.0852425"
-     inkscape:cy="103.21125"
+     inkscape:zoom="10.518213"
+     inkscape:cx="10.643016"
+     inkscape:cy="21.56527"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="g3216"
      inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid3203"
-       spacingx="5.33333"
-       spacingy="5.33333" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -134,9 +134,9 @@
      id="c"
      gradientUnits="userSpaceOnUse"
      x1="96"
-     x2="88.0002"
+     x2="88.000198"
      y1="104"
-     y2="96.0002">
+     y2="96.000198">
     <stop
        offset="0"
        stop-color="#888a85"
@@ -216,10 +216,10 @@
   </radialGradient>
   <radialGradient
      id="e"
-     cx="100.8098464"
-     cy="112.93460525694"
+     cx="100.80984"
+     cy="112.93461"
      gradientUnits="userSpaceOnUse"
-     r="135.1875556917">
+     r="135.18756">
     <stop
        offset="0"
        stop-color="#3e3e3e"
@@ -281,15 +281,16 @@
   </filter>
   <g
      id="g3216"
-     transform="matrix(1.0909091,0,0,1.0909091,-8.412198,-7.3625901)">
+     transform="matrix(1.0909091,0,0,1.0909091,-8.412198,-111.36259)">
     <g
-       id="g889">
+       id="g889"
+       transform="matrix(0.1875,0,0,0.1875,6.265335,100.81691)">
       <g
          id="g650">
         <path
            inkscape:connector-curvature="0"
            id="path4253"
-           d="m 18.193185,4.6471269 0,122.2660431 h 66.498509 c 0.53,0 1.039,-0.211 1.414,-0.586 L 123.34072,89.094563 c 0.375,-0.375 0.586,-0.884 0.586,-1.414 l -0.0228,-83.0334361 z"
+           d="M 18.193185,4.6471269 V 126.91317 h 66.498509 c 0.53,0 1.039,-0.211 1.414,-0.586 L 123.34072,89.094563 c 0.375,-0.375 0.586,-0.884 0.586,-1.414 l -0.0228,-83.0334361 z"
            style="opacity:0.68000034;fill:#530000;fill-opacity:1;filter:url(#filter1089)"
            transform="matrix(0.92495507,0,0,0.91966966,0.66107428,7.3641784)"
            sodipodi:nodetypes="cccccccc" />
@@ -302,7 +303,7 @@
            sodipodi:nodetypes="cccccccc" />
         <path
            id="path3181"
-           d="m 22.377839,16.526886 0,102.666604 h 54.36722 c 0.513401,0 1.006458,-0.20439 1.369714,-0.56765 L 109.929,89.821411 c 0.36326,-0.363255 0.56764,-0.856313 0.56764,-1.369714 l 0.0819,-71.924811 z"
+           d="M 22.377839,16.526886 V 119.19349 h 54.36722 c 0.513401,0 1.006458,-0.20439 1.369714,-0.56765 L 109.929,89.821411 c 0.36326,-0.363255 0.56764,-0.856313 0.56764,-1.369714 l 0.0819,-71.924811 z"
            style="fill:#c15e5e;fill-opacity:0.98823529"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccsccccc" />
