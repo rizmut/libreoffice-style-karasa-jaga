@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="128"
-   viewBox="0 0 33.866666 33.866668"
-   width="128"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
    version="1.1"
    id="svg99"
    sodipodi:docname="sc_print.svg"
@@ -40,14 +40,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="714"
      id="namedview101"
-     showgrid="false"
-     inkscape:zoom="0.65186406"
-     inkscape:cx="-616.77689"
-     inkscape:cy="30.49834"
+     showgrid="true"
+     inkscape:zoom="3.734375"
+     inkscape:cx="64"
+     inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg99" />
+     inkscape:current-layer="g951">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4794" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(0.29104575,0,0,0.33313079,-1.693333,-5.80263)"
@@ -147,10 +151,10 @@
   <linearGradient
      id="e"
      gradientUnits="userSpaceOnUse"
-     x1="17.99190444"
-     x2="17.84259398146"
-     y1="295.8606896"
-     y2="288.88286545249"
+     x1="17.991905"
+     x2="17.842594"
+     y1="295.86069"
+     y2="288.88287"
      gradientTransform="translate(0,-263.13332)">
     <stop
        offset="0"
@@ -193,10 +197,10 @@
   <linearGradient
      id="g"
      gradientUnits="userSpaceOnUse"
-     x1="17.00083912"
-     x2="17.00083912"
-     y1="275.75235652"
-     y2="281.04402312"
+     x1="17.000839"
+     x2="17.000839"
+     y1="275.75235"
+     y2="281.04404"
      gradientTransform="translate(0,-263.13332)">
     <stop
        offset="0"
@@ -209,7 +213,8 @@
        id="stop54" />
   </linearGradient>
   <g
-     id="g951">
+     id="g951"
+     transform="scale(0.125)">
     <rect
        height="9.0594854"
        rx="0.053633999"
