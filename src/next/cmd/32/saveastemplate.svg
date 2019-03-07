@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="24"
-   inkscape:export-xdpi="24"
-   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/32/saveastemplate.png"
-   inkscape:version="1.0alpha (c15df26, 2019-01-24)"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/src/next/cmd/32/saveastemplate.png"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="saveastemplate.svg"
    id="svg2"
    height="32"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +37,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="18.439303"
-     inkscape:cx="20.440122"
+     inkscape:cx="-7.7632678"
      inkscape:zoom="7.375"
      showgrid="true"
      id="namedview3349"
