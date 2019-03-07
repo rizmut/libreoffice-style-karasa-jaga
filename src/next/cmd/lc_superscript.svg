@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.4375"
-     inkscape:cx="39.75175"
-     inkscape:cy="7.2870988"
+     inkscape:zoom="14.875"
+     inkscape:cx="13.355487"
+     inkscape:cy="11.524049"
      inkscape:document-units="mm"
      inkscape:current-layer="g4771"
      showgrid="true"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,17 +112,15 @@
       <g
          transform="matrix(0.97678952,0,0,0.93448931,0.06534899,17.797491)"
          id="g3763">
-        <text
-           xml:space="preserve"
+        <g
+           aria-label="x"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.31366348px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2328999"
-           x="2.3759902"
-           y="295.44897"
-           id="text3806"><tspan
-             sodipodi:role="line"
-             id="tspan3804"
-             x="2.3759902"
-             y="295.44897"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.95052719px;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.2328999">x</tspan></text>
+           id="text3806">
+          <path
+             d="m 14.90189,283.53838 7.955046,11.91059 h -4.263201 l -5.757519,-8.83405 -5.8454205,8.83405 H 2.8154954 L 10.946343,283.71418 3.2550007,272.4189 h 4.1753001 l 5.5377662,8.3506 5.537767,-8.3506 h 4.131349 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.95052719px;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.2328999"
+             id="path4763" />
+        </g>
         <path
            inkscape:connector-curvature="0"
            style="opacity:0.85;fill:url(#linearGradient3736);fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
