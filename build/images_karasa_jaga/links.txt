@@ -2,7 +2,7 @@ avmedia/res/av02048.png cmd/sc_open.png
 avmedia/res/av02049.png cmd/sc_datastreamsplay.png
 avmedia/res/av02050.png cmd/sc_mediapause.png
 avmedia/res/av02051.png cmd/sc_datastreamsstop.png
-avmedia/res/av02052.png cmd/sc_mediarepeat.png 
+avmedia/res/av02052.png cmd/sc_mediarepeat.png
 avmedia/res/av02053.png cmd/sc_ok.png
 avmedia/res/av02054.png cmd/sc_mediamute.png
 avmedia/res/avl02048.png cmd/lc_open.png
@@ -13,7 +13,7 @@ avmedia/res/avl02052.png cmd/lc_mediarepeat.png
 avmedia/res/avl02053.png cmd/lc_ok.png
 avmedia/res/avl02054.png cmd/lc_mediamute.png
 cmd/32/acceptchanges.png cmd/32/accepttrackedchanges.png
-cmd/32/accepttracedchange.png cmd/32/accepttrackedchange.png 
+cmd/32/accepttracedchange.png cmd/32/accepttrackedchange.png
 cmd/32/adddatefield.png cmd/32/datefield.png
 cmd/32/addtextbox.png cmd/32/insertfixedtext.png
 cmd/32/adjust.png cmd/32/zoomoptimal.png
@@ -80,6 +80,7 @@ cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
 cmd/32/es/underlinesimple.png cmd/32/es/underline.png
 cmd/32/exitsearch.png cmd/32/closepreview.png
 cmd/32/exportasgraphic.png cmd/32/graphic.png
+cmd/32/exportasmenu.png cmd/32/exportto.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
 cmd/32/fieldnames.png cmd/32/fields.png
 cmd/32/fillcolor.png cmd/32/formatarea.png
@@ -145,6 +146,7 @@ cmd/32/insertformvscroll.png cmd/32/scrollbar.png
 cmd/32/insertframeinteract.png cmd/32/insertframe.png
 cmd/32/insertframeinteractnocolumns.png cmd/32/insertframe.png
 cmd/32/insertframemenu.png cmd/32/insertframe.png
+cmd/32/insertgridcontrol.png cmd/32/grid.png
 cmd/32/insertheaderfootermenu.png cmd/32/editheaderandfooter.png
 cmd/32/insertimagecontrol.png cmd/32/imagecontrol.png
 cmd/32/insertlistbox.png cmd/32/listbox.png
@@ -359,7 +361,7 @@ cmd/sl/sc_underlinesimple.png cmd/sl/sc_underline.png
 cmd/tr/lc_underlinesimple.png cmd/tr/lc_underline.png
 cmd/tr/sc_underlinesimple.png cmd/tr/sc_underline.png
 cmd/lc_acceptchanges.png cmd/lc_accepttrackedchanges.png
-cmd/lc_accepttracedchange.png cmd/lc_accepttrackedchange.png 
+cmd/lc_accepttracedchange.png cmd/lc_accepttrackedchange.png
 cmd/lc_adddatefield.png cmd/lc_datefield.png
 cmd/lc_addtextbox.png cmd/lc_insertfixedtext.png
 cmd/lc_adjust.png cmd/lc_zoomoptimal.png
@@ -424,6 +426,7 @@ cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_exitsearch.png cmd/lc_closepreview.png
 cmd/lc_exportasgraphic.png cmd/lc_graphic.png
+cmd/lc_exportasmenu.png cmd/lc_exportto.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
 cmd/lc_fieldnames.png cmd/lc_fields.png
 cmd/lc_fillcolor.png cmd/lc_formatarea.png
@@ -488,6 +491,7 @@ cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
 cmd/lc_insertframeinteract.png cmd/lc_insertframe.png
 cmd/lc_insertframeinteractnocolumns.png cmd/lc_insertframe.png
 cmd/lc_insertframemenu.png cmd/lc_insertframe.png
+cmd/lc_insertgridcontrol.png cmd/lc_grid.png
 cmd/lc_insertheaderfootermenu.png cmd/lc_editheaderandfooter.png
 cmd/lc_insertimagecontrol.png cmd/lc_imagecontrol.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
@@ -654,7 +658,7 @@ cmd/lc_zoomtoolbox.png cmd/lc_zoom.png
 cmd/nl/lc_underlinesimple.png cmd/nl/lc_underline.png
 cmd/nl/sc_underlinesimple.png cmd/nl/sc_underline.png
 cmd/sc_acceptchanges.png cmd/sc_accepttrackedchanges.png
-cmd/sc_accepttracedchange.png cmd/sc_accepttrackedchange.png 
+cmd/sc_accepttracedchange.png cmd/sc_accepttrackedchange.png
 cmd/sc_adddatefield.png cmd/sc_datefield.png
 cmd/sc_addtextbox.png cmd/sc_insertfixedtext.png
 cmd/sc_adjust.png cmd/sc_zoomoptimal.png
@@ -719,6 +723,7 @@ cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_exitsearch.png cmd/sc_closepreview.png
 cmd/sc_exportasgraphic.png cmd/sc_graphic.png
+cmd/sc_exportasmenu.png cmd/sc_exportto.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
 cmd/sc_fieldnames.png cmd/sc_fields.png
 cmd/sc_fillcolor.png cmd/sc_formatarea.png
@@ -745,6 +750,7 @@ cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_text.png
 cmd/sc_functionbox.png cmd/sc_insertformula.png
 cmd/sc_functiondialog.png cmd/sc_insertformula.png
+cmd/sc_newglobaldoc.png res/odm_16_8.png
 cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
@@ -783,6 +789,7 @@ cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
 cmd/sc_insertframeinteract.png cmd/sc_insertframe.png
 cmd/sc_insertframeinteractnocolumns.png cmd/sc_insertframe.png
 cmd/sc_insertframemenu.png cmd/sc_insertframe.png
+cmd/sc_insertgridcontrol.png cmd/sc_grid.png
 cmd/sc_insertheaderfootermenu.png cmd/sc_editheaderandfooter.png
 cmd/sc_insertimagecontrol.png cmd/sc_imagecontrol.png
 cmd/sc_insertlistbox.png cmd/sc_listbox.png
@@ -1008,7 +1015,7 @@ res/lx03163.png res/ott_32_8.png
 res/lx03165.png cmd/32/save.png
 res/lx03189.png cmd/32/open.png
 res/lx03218.png res/lx03217.png
-res/lx03219.png res/lx03217.png 
+res/lx03219.png res/lx03217.png
 res/lx03220.png res/lx03217.png
 res/lx03221.png res/lx03217.png
 res/lx03222.png res/lx03217.png
@@ -1348,6 +1355,7 @@ sw/res/sc20249.png cmd/sc_navigator.png
 sw/res/sc20556.png cmd/sc_insertformula.png
 sw/res/sc20557.png cmd/sc_cancel.png
 sw/res/sc20558.png cmd/sc_ok.png
+sw/res/sf06.png cmd/sc_autoformat.png
 sw/res/sidebar/pageproppanel/last_custom_common.png svx/res/symphony/last_custom_common.png
 sw/res/sidebar/pageproppanel/last_custom_common_grey.png svx/res/symphony/last_custom_common_grey.png
 sw/res/sr20000.png cmd/sc_downsearch.png
