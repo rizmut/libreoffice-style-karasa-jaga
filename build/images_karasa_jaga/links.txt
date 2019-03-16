@@ -232,6 +232,7 @@ cmd/32/pageformatdialog.png cmd/32/pagedialog.png
 cmd/32/pagesetup.png cmd/32/pagedialog.png
 cmd/32/pageup.png cmd/32/navigateback.png
 cmd/32/paragraphmenu.png cmd/32/paragraphdialog.png
+cmd/32/pastespecialmenu.png cmd/32/pastespecial.png
 cmd/32/pie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/pl/underlinesimple.png cmd/32/pl/underline.png
 cmd/32/pluginsactive.png cmd/32/addons.png
@@ -576,6 +577,7 @@ cmd/lc_pageformatdialog.png cmd/lc_pagedialog.png
 cmd/lc_pagesetup.png cmd/lc_pagedialog.png
 cmd/lc_pageup.png cmd/lc_navigateback.png
 cmd/lc_paragraphmenu.png cmd/lc_paragraphdialog.png
+cmd/lc_pastespecialmenu.png cmd/lc_pastespecial.png
 cmd/lc_pie.png cmd/lc_basicshapes.circle-pie.png
 cmd/lc_pluginsactive.png cmd/lc_addons.png
 cmd/lc_printpagepreview.png cmd/lc_printpreview.png
@@ -882,6 +884,7 @@ cmd/sc_pageformatdialog.png cmd/sc_pagedialog.png
 cmd/sc_pagesetup.png cmd/sc_pagedialog.png
 cmd/sc_pageup.png cmd/sc_navigateback.png
 cmd/sc_paragraphmenu.png cmd/sc_paragraphdialog.png
+cmd/sc_pastespecialmenu.png cmd/sc_pastespecial.png
 cmd/sc_pie.png cmd/sc_basicshapes.circle-pie.png
 cmd/sc_pluginsactive.png cmd/sc_addons.png
 cmd/sc_printpagepreview.png cmd/sc_printpreview.png
@@ -1111,6 +1114,7 @@ res/sx03130.png res/odp_16_8.png
 res/sx03131.png res/so03126.png
 res/sx03132.png res/sx03126.png
 res/sx03137.png res/sx03125.png
+res/sx03139.png cmd/sc_newhtmldoc.png
 res/sx03140.png res/sx03125.png
 res/sx03141.png formula/res/fapclose.png
 res/sx03144.png res/odf_16_8.png
