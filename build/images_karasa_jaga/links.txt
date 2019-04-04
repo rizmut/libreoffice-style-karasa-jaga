@@ -25,6 +25,7 @@ cmd/32/arrangeframemenu.png cmd/32/bringtofront.png
 cmd/32/arrangemenu.png cmd/32/bringtofront.png
 cmd/32/arrowshapes.png cmd/32/arrowshapes.left-right-arrow.png
 cmd/32/arrowstoolbox.png cmd/32/linearrowend.png
+cmd/32/authoritiesentrydialog.png cmd/32/insertauthorfield.png
 cmd/32/autofilter.png cmd/32/datafilterautofilter.png
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
 cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
@@ -80,6 +81,8 @@ cmd/32/drawselect.png cmd/32/selectobject.png
 cmd/32/drawtext.png cmd/32/text.png
 cmd/32/dsbeditdoc.png cmd/32/editdoc.png
 cmd/32/editcommentsmenu.png cmd/32/editannotation.png
+cmd/32/editfootnote.png cmd/32/insertfootnote.png
+cmd/32/editlinksmenu.png cmd/32/insertreferencefield.png
 cmd/32/editpastespecialmenu.png cmd/32/pastespecial.png
 cmd/32/editshapehyperlink.png cmd/32/inserthyperlink.png
 cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
@@ -88,6 +91,7 @@ cmd/32/es/underlinesimple.png cmd/32/es/underline.png
 cmd/32/exitsearch.png cmd/32/closepreview.png
 cmd/32/exportasgraphic.png cmd/32/graphic.png
 cmd/32/exportasmenu.png cmd/32/exportto.png
+cmd/32/fielddialog.png cmd/32/fields.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
 cmd/32/fieldnames.png cmd/32/fields.png
 cmd/32/fillcolor.png cmd/32/formatarea.png
@@ -123,6 +127,7 @@ cmd/32/hscroll.png cmd/32/hscrollbar.png
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
 cmd/32/hu/underlinesimple.png cmd/32/hu/underline.png
 cmd/32/importfromfile.png cmd/32/importdialog.png
+cmd/32/indexentrydialog.png cmd/32/insertindexesentry.png
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
 cmd/32/insertcell.png cmd/32/insertcellsright.png
@@ -147,6 +152,7 @@ cmd/32/insertformcheck.png cmd/32/checkbox.png
 cmd/32/insertformcombo.png cmd/32/combobox.png
 cmd/32/insertformhscroll.png cmd/32/hscrollbar.png
 cmd/32/insertformlist.png cmd/32/listbox.png
+cmd/32/insertformmenu.png cmd/32/choosecontrols.png
 cmd/32/insertformradio.png cmd/32/radiobutton.png
 cmd/32/insertformspin.png cmd/32/spinbutton.png
 cmd/32/insertformvscroll.png cmd/32/scrollbar.png
@@ -275,7 +281,10 @@ cmd/32/sectionalignbottom.png cmd/32/aligndown.png
 cmd/32/sectionalignleft.png cmd/32/objectalignleft.png
 cmd/32/sectionalignright.png cmd/32/objectalignright.png
 cmd/32/sectionaligntop.png cmd/32/alignup.png
+cmd/32/selectcolumn.png cmd/32/entirecolumn.png
 cmd/32/selectmode.png cmd/32/selectobject.png
+cmd/32/selectrow.png cmd/32/entirerow.png
+cmd/32/selectunprotectedcells.png cmd/32/unsetcellsreadonly.png
 cmd/32/sendtomenu.png cmd/32/sendto.png
 cmd/32/setcolumnwidth.png cmd/32/columnwidth.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
@@ -390,6 +399,7 @@ cmd/lc_arrangeframemenu.png cmd/lc_bringtofront.png
 cmd/lc_arrangemenu.png cmd/lc_bringtofront.png
 cmd/lc_arrowshapes.png cmd/lc_arrowshapes.left-right-arrow.png
 cmd/lc_arrowstoolbox.png cmd/lc_linearrowend.png
+cmd/lc_authoritiesentrydialog.png cmd/lc_insertauthorfield.png
 cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
 cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
@@ -444,6 +454,8 @@ cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/lc_drawtext.png cmd/lc_text.png
 cmd/lc_dsbeditdoc.png cmd/lc_editdoc.png
 cmd/lc_editcommentsmenu.png cmd/lc_editannotation.png
+cmd/lc_editfootnote.png cmd/lc_insertfootnote.png
+cmd/lc_editlinksmenu.png cmd/lc_insertreferencefield.png
 cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
 cmd/lc_editshapehyperlink.png cmd/lc_inserthyperlink.png
 cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
@@ -451,6 +463,7 @@ cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_exitsearch.png cmd/lc_closepreview.png
 cmd/lc_exportasgraphic.png cmd/lc_graphic.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
+cmd/lc_fielddialog.png cmd/lc_fields.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
 cmd/lc_fieldnames.png cmd/lc_fields.png
 cmd/lc_fillcolor.png cmd/lc_formatarea.png
@@ -485,6 +498,7 @@ cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
 cmd/lc_hscroll.png cmd/lc_hscrollbar.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_importfromfile.png cmd/lc_importdialog.png
+cmd/lc_indexentrydialog.png cmd/lc_insertindexesentry.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
 cmd/lc_insertcell.png cmd/lc_insertcellsright.png
@@ -509,6 +523,7 @@ cmd/lc_insertformcheck.png cmd/lc_checkbox.png
 cmd/lc_insertformcombo.png cmd/lc_combobox.png
 cmd/lc_insertformhscroll.png cmd/lc_hscrollbar.png
 cmd/lc_insertformlist.png cmd/lc_listbox.png
+cmd/lc_insertformmenu.png cmd/lc_choosecontrols.png
 cmd/lc_insertformradio.png cmd/lc_radiobutton.png
 cmd/lc_insertformspin.png cmd/lc_spinbutton.png
 cmd/lc_insertformvscroll.png cmd/lc_scrollbar.png
@@ -625,7 +640,10 @@ cmd/lc_sectionalignbottom.png cmd/lc_aligndown.png
 cmd/lc_sectionalignleft.png cmd/lc_objectalignleft.png
 cmd/lc_sectionalignright.png cmd/lc_objectalignright.png
 cmd/lc_sectionaligntop.png cmd/lc_alignup.png
+cmd/lc_selectcolumn.png cmd/lc_entirecolumn.png
 cmd/lc_selectmode.png cmd/lc_selectobject.png
+cmd/lc_selectrow.png cmd/lc_entirerow.png
+cmd/lc_selectunprotectedcells.png cmd/lc_unsetcellsreadonly.png
 cmd/lc_sendtomenu.png cmd/lc_sendto.png
 cmd/lc_setcolumnwidth.png cmd/lc_columnwidth.png
 cmd/lc_setdefault.png cmd/lc_resetattributes.png
@@ -704,6 +722,7 @@ cmd/sc_arrangeframemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrangemenu.png cmd/sc_bringtofront.png
 cmd/sc_arrowshapes.png cmd/sc_arrowshapes.left-right-arrow.png
 cmd/sc_arrowstoolbox.png cmd/sc_linearrowend.png
+cmd/sc_authoritiesentrydialog.png cmd/sc_insertauthorfield.png
 cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
@@ -758,6 +777,8 @@ cmd/sc_drawselect.png cmd/sc_selectobject.png
 cmd/sc_drawtext.png cmd/sc_text.png
 cmd/sc_dsbeditdoc.png cmd/sc_editdoc.png
 cmd/sc_editcommentsmenu.png cmd/sc_editannotation.png
+cmd/sc_editfootnote.png cmd/sc_insertfootnote.png
+cmd/sc_editlinksmenu.png cmd/sc_insertreferencefield.png
 cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
 cmd/sc_editshapehyperlink.png cmd/sc_inserthyperlink.png
 cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
@@ -765,6 +786,7 @@ cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_exitsearch.png cmd/sc_closepreview.png
 cmd/sc_exportasgraphic.png cmd/sc_graphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
+cmd/sc_fielddialog.png cmd/sc_fields.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
 cmd/sc_fieldnames.png cmd/sc_fields.png
 cmd/sc_fillcolor.png cmd/sc_formatarea.png
@@ -799,6 +821,7 @@ cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
 cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_importfromfile.png cmd/sc_importdialog.png
+cmd/sc_indexentrydialog.png cmd/sc_insertindexesentry.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
 cmd/sc_insertcell.png cmd/sc_insertcellsright.png
@@ -823,6 +846,7 @@ cmd/sc_insertformcheck.png cmd/sc_checkbox.png
 cmd/sc_insertformcombo.png cmd/sc_combobox.png
 cmd/sc_insertformhscroll.png cmd/sc_hscrollbar.png
 cmd/sc_insertformlist.png cmd/sc_listbox.png
+cmd/sc_insertformmenu.png cmd/sc_choosecontrols.png
 cmd/sc_insertformradio.png cmd/sc_radiobutton.png
 cmd/sc_insertformspin.png cmd/sc_spinbutton.png
 cmd/sc_insertformvscroll.png cmd/sc_scrollbar.png
@@ -940,7 +964,10 @@ cmd/sc_sectionalignbottom.png cmd/sc_aligndown.png
 cmd/sc_sectionalignleft.png cmd/sc_objectalignleft.png
 cmd/sc_sectionalignright.png cmd/sc_objectalignright.png
 cmd/sc_sectionaligntop.png cmd/sc_alignup.png
+cmd/sc_selectcolumn.png cmd/sc_entirecolumn.png
 cmd/sc_selectmode.png cmd/sc_selectobject.png
+cmd/sc_selectrow.png cmd/sc_entirerow.png
+cmd/sc_selectunprotectedcells.png cmd/sc_unsetcellsreadonly.png
 cmd/sc_sendtomenu.png cmd/sc_sendto.png
 cmd/sc_setcolumnwidth.png cmd/sc_columnwidth.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
