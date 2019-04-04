@@ -327,7 +327,7 @@ cmd/32/tracechangemode.png cmd/32/trackchanges.png
 cmd/32/underlinesimple.png cmd/32/underline.png
 cmd/32/updateall.png cmd/32/reload.png
 cmd/32/updateallindexes.png cmd/32/insertmultiindex.png
-cmd/32/updatealllinks.png cmd/32/inserthyperlink.png
+cmd/32/updatealllinks.png cmd/32/inserthyperlinkcontrol.png
 cmd/32/updatecharts.png cmd/32/drawchart.png
 cmd/32/updatefields.png cmd/32/insertfield.png
 cmd/32/updatemenu.png cmd/32/reload.png
@@ -675,7 +675,7 @@ cmd/lc_tracechangemode.png cmd/lc_trackchanges.png
 cmd/lc_underlinesimple.png cmd/lc_underline.png
 cmd/lc_updateall.png cmd/lc_reload.png
 cmd/lc_updateallindexes.png cmd/lc_insertmultiindex.png
-cmd/lc_updatealllinks.png cmd/lc_inserthyperlink.png
+cmd/lc_updatealllinks.png cmd/lc_inserthyperlinkcontrol.png
 cmd/lc_updatecharts.png cmd/lc_drawchart.png
 cmd/lc_updatefields.png cmd/lc_insertfield.png
 cmd/lc_updatemenu.png cmd/lc_reload.png
@@ -990,7 +990,7 @@ cmd/sc_tracechangemode.png cmd/sc_trackchanges.png
 cmd/sc_underlinesimple.png cmd/sc_underline.png
 cmd/sc_updateall.png cmd/sc_reload.png
 cmd/sc_updateallindexes.png cmd/sc_insertmultiindex.png
-cmd/sc_updatealllinks.png cmd/sc_inserthyperlink.png
+cmd/sc_updatealllinks.png cmd/sc_inserthyperlinkcontrol.png
 cmd/sc_updatecharts.png cmd/sc_drawchart.png
 cmd/sc_updatefields.png cmd/sc_insertfield.png
 cmd/sc_updatemenu.png cmd/sc_reload.png
