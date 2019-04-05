@@ -84,6 +84,7 @@ cmd/32/editcommentsmenu.png cmd/32/editannotation.png
 cmd/32/editfootnote.png cmd/32/insertfootnote.png
 cmd/32/editlinksmenu.png cmd/32/insertreferencefield.png
 cmd/32/editpastespecialmenu.png cmd/32/pastespecial.png
+cmd/32/editselectmenu.png cmd/32/selecttables.png
 cmd/32/editshapehyperlink.png cmd/32/inserthyperlink.png
 cmd/32/ellipse.png cmd/32/basicshapes.ellipse.png
 cmd/32/ellipsetoolbox.png cmd/32/basicshapes.ellipse.png
@@ -457,6 +458,7 @@ cmd/lc_editcommentsmenu.png cmd/lc_editannotation.png
 cmd/lc_editfootnote.png cmd/lc_insertfootnote.png
 cmd/lc_editlinksmenu.png cmd/lc_insertreferencefield.png
 cmd/lc_editpastespecialmenu.png cmd/lc_pastespecial.png
+cmd/lc_editselectmenu.png cmd/lc_selecttables.png
 cmd/lc_editshapehyperlink.png cmd/lc_inserthyperlink.png
 cmd/lc_ellipse.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
@@ -780,6 +782,7 @@ cmd/sc_editcommentsmenu.png cmd/sc_editannotation.png
 cmd/sc_editfootnote.png cmd/sc_insertfootnote.png
 cmd/sc_editlinksmenu.png cmd/sc_insertreferencefield.png
 cmd/sc_editpastespecialmenu.png cmd/sc_pastespecial.png
+cmd/sc_editselectmenu.png cmd/sc_selecttables.png
 cmd/sc_editshapehyperlink.png cmd/sc_inserthyperlink.png
 cmd/sc_ellipse.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
