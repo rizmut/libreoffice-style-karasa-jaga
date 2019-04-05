@@ -1050,6 +1050,7 @@ reportdesign/res/sx11047.png cmd/sc_basicshapes.diamond.png
 reportdesign/res/sx12452.png cmd/sc_actionmode.png
 reportdesign/res/sx12453.png cmd/lc_animationeffects.png
 reportdesign/res/sx12594.png cmd/sc_insertformula.png
+res/adrbook.png cmd/sc_viewdatasourcebrowser.png
 res/extension_plus_26.png cmd/lc_addons.png
 res/extension_plus_32.png cmd/32/addons.png
 res/fileopen.png formula/res/fapclose.png
@@ -1118,7 +1119,7 @@ res/lx03255.png res/ott_32_8.png
 res/lx03256.png cmd/lc_addons.png
 res/mainapp_16.png res/mainapp_16_8.png
 res/mainapp_32.png res/mainapp_32_8.png
-res/newdoc.png cmd/sc_newdoc.png
+res/newdoc.png cmd/sc_open.png
 res/oleobj.png cmd/32/insertobject.png
 res/page.png cmd/sc_adddirect.png
 res/plugin.png cmd/lc_addons.png
