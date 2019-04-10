@@ -30,6 +30,7 @@ cmd/32/autofilter.png cmd/32/datafilterautofilter.png
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
 cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
 cmd/32/backgroundpatterncontroller.png cmd/32/backgroundcolor.png
+cmd/32/badcellstyles.png cmd/32/badcellstyle.png
 cmd/32/basicideappear.png cmd/32/toolsmacroedit.png
 cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
 cmd/32/break.png cmd/32/polygon_unfilled.png
@@ -70,6 +71,7 @@ cmd/32/currentfootnotedialog.png cmd/32/footnotedialog.png
 cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
 cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
 cmd/32/dbviewfunctions.png cmd/32/insertformula.png
+cmd/32/defaultcellstyles.png cmd/32/defaultcharstyle.png
 cmd/32/defaultparastyle.png cmd/32/controlcodes.png
 cmd/32/deleteallnotes.png cmd/32/deleteallannotation.png
 cmd/32/deletecell.png cmd/32/delete.png
@@ -111,6 +113,7 @@ cmd/32/flowchartshapes.flowchart-process.png cmd/32/basicshapes.quadrat.png
 cmd/32/fontcolor.png cmd/32/color.png
 cmd/32/fontworkalignmentfloater.png cmd/32/alignhorizontalcenter.png
 cmd/32/fontworkcharacterspacingfloater.png cmd/32/spacing.png
+cmd/32/footnotecellstyles.png cmd/32/insertfootnote.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/framedialog.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
@@ -118,12 +121,15 @@ cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
 cmd/32/fr/underlinesimple.png cmd/32/fr/underline.png
 cmd/32/functionbox.png cmd/32/insertformula.png
 cmd/32/functiondialog.png cmd/32/insertformula.png
+cmd/32/goodcellstyles.png cmd/32/goodcellstyle.png
 cmd/32/gotoendofdoc.png cmd/32/lastpage.png
 cmd/32/gotostartofdoc.png cmd/32/firstpage.png
 cmd/32/graphicmenu.png cmd/32/avmediaplayer.png
 cmd/32/gridmenu.png cmd/32/gridvisible.png
 cmd/32/groupmenu.png cmd/32/formatgroup.png
 cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
+cmd/32/heading1cellstyles.png cmd/32/heading1parastyle.png
+cmd/32/heading2cellstyles.png cmd/32/heading2parastyle.png
 cmd/32/hscroll.png cmd/32/hscrollbar.png
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
 cmd/32/hu/underlinesimple.png cmd/32/hu/underline.png
@@ -217,7 +223,10 @@ cmd/32/mirrormenu.png cmd/32/fliphorizontal.png
 cmd/32/mirrorvert.png cmd/32/flipvertical.png
 cmd/32/nl/underlinesimple.png cmd/32/nl/underline.png
 cmd/32/namegroup.png cmd/32/renameobject.png
+cmd/32/neutralcellstyles.png cmd/32/neutralcellstyle.png
+cmd/32/newglobaldoc.png res/odm_32_8.png
 cmd/32/no.png cmd/32/cancel.png
+cmd/32/notecellstyles.png cmd/32/showannotations.png
 cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
 cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
@@ -405,6 +414,7 @@ cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
 cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
 cmd/lc_backgroundpatterncontroller.png cmd/lc_backgroundcolor.png
+cmd/lc_badcellstyles.png cmd/lc_badcellstyle.png
 cmd/lc_basicideappear.png cmd/lc_toolsmacroedit.png
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
 cmd/lc_break.png cmd/lc_polygon_unfilled.png
@@ -444,6 +454,7 @@ cmd/lc_currentfootnotedialog.png cmd/lc_footnotedialog.png
 cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
 cmd/lc_datapilotmenu.png cmd/lc_datadatapilotrun.png
 cmd/lc_dbviewfunctions.png cmd/lc_insertformula.png
+cmd/lc_defaultcellstyles.png cmd/lc_defaultcharstyle.png
 cmd/lc_defaultparastyle.png cmd/lc_controlcodes.png
 cmd/lc_deleteallnotes.png cmd/lc_deleteallannotation.png
 cmd/lc_deletecell.png cmd/lc_delete.png
@@ -484,6 +495,7 @@ cmd/lc_flowchartshapes.flowchart-process.png cmd/lc_basicshapes.quadrat.png
 cmd/lc_fontcolor.png cmd/lc_color.png
 cmd/lc_fontworkalignmentfloater.png cmd/lc_alignhorizontalcenter.png
 cmd/lc_fontworkcharacterspacingfloater.png cmd/lc_spacing.png
+cmd/lc_footnotecellstyles.png cmd/lc_insertfootnote.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_framedialog.png
 cmd/lc_formatimagemenu.png cmd/lc_graphic.png
@@ -491,12 +503,15 @@ cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
 cmd/lc_formattextmenu.png cmd/lc_text.png
 cmd/lc_functionbox.png cmd/lc_insertformula.png
 cmd/lc_functiondialog.png cmd/lc_insertformula.png
+cmd/lc_goodcellstyles.png cmd/lc_goodcellstyle.png
 cmd/lc_gotoendofdoc.png cmd/lc_lastpage.png
 cmd/lc_gotostartofdoc.png cmd/lc_firstpage.png
 cmd/lc_gridmenu.png cmd/lc_gridvisible.png
 cmd/lc_graphicmenu.png cmd/lc_avmediaplayer.png
 cmd/lc_groupmenu.png cmd/lc_formatgroup.png
 cmd/lc_headerandfooter.png cmd/lc_editheaderandfooter.png
+cmd/lc_heading1cellstyles.png cmd/lc_heading1parastyle.png
+cmd/lc_heading2cellstyles.png cmd/lc_heading2parastyle.png
 cmd/lc_hscroll.png cmd/lc_hscrollbar.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
 cmd/lc_importfromfile.png cmd/lc_importdialog.png
@@ -580,7 +595,9 @@ cmd/lc_mirrorhorz.png cmd/lc_fliphorizontal.png
 cmd/lc_mirrormenu.png cmd/lc_fliphorizontal.png
 cmd/lc_mirrorvert.png cmd/lc_flipvertical.png
 cmd/lc_namegroup.png cmd/lc_renameobject.png
+cmd/lc_neutralcellstyles.png cmd/lc_neutralcellstyle.png
 cmd/lc_no.png cmd/lc_cancel.png
+cmd/lc_notecellstyles.png cmd/lc_showannotations.png
 cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
 cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
@@ -729,6 +746,7 @@ cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
 cmd/sc_backgroundpatterncontroller.png cmd/sc_backgroundcolor.png
+cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
 cmd/sc_basicideappear.png cmd/sc_toolsmacroedit.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
 cmd/sc_break.png cmd/sc_polygon_unfilled.png
@@ -768,6 +786,7 @@ cmd/sc_currentfootnotedialog.png cmd/sc_footnotedialog.png
 cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
 cmd/sc_datapilotmenu.png cmd/sc_datadatapilotrun.png
 cmd/sc_dbviewfunctions.png cmd/sc_insertformula.png
+cmd/sc_defaultcellstyles.png cmd/sc_defaultcharstyle.png
 cmd/sc_defaultparastyle.png cmd/sc_controlcodes.png
 cmd/sc_deleteallnotes.png cmd/sc_deleteallannotation.png
 cmd/sc_deletecell.png cmd/sc_delete.png
@@ -808,6 +827,7 @@ cmd/sc_flowchartshapes.flowchart-process.png cmd/sc_basicshapes.quadrat.png
 cmd/sc_fontcolor.png cmd/sc_color.png
 cmd/sc_fontworkalignmentfloater.png cmd/sc_alignhorizontalcenter.png
 cmd/sc_fontworkcharacterspacingfloater.png cmd/sc_spacing.png
+cmd/sc_footnotecellstyles.png cmd/sc_insertfootnote.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_framedialog.png
 cmd/sc_formatimagemenu.png cmd/sc_graphic.png
@@ -815,12 +835,15 @@ cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_text.png
 cmd/sc_functionbox.png cmd/sc_insertformula.png
 cmd/sc_functiondialog.png cmd/sc_insertformula.png
+cmd/sc_goodcellstyles.png cmd/sc_goodcellstyle.png
 cmd/sc_gotoendofdoc.png cmd/sc_lastpage.png
 cmd/sc_gotostartofdoc.png cmd/sc_firstpage.png
 cmd/sc_graphicmenu.png cmd/sc_avmediaplayer.png
 cmd/sc_gridmenu.png cmd/sc_gridvisible.png
 cmd/sc_groupmenu.png cmd/sc_formatgroup.png
 cmd/sc_headerandfooter.png cmd/sc_editheaderandfooter.png
+cmd/sc_heading1cellstyles.png cmd/sc_heading1parastyle.png
+cmd/sc_heading2cellstyles.png cmd/sc_heading2parastyle.png
 cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
 cmd/sc_importfromfile.png cmd/sc_importdialog.png
@@ -904,8 +927,10 @@ cmd/sc_mirrorhorz.png cmd/sc_fliphorizontal.png
 cmd/sc_mirrormenu.png cmd/sc_fliphorizontal.png
 cmd/sc_mirrorvert.png cmd/sc_flipvertical.png
 cmd/sc_namegroup.png cmd/sc_renameobject.png
+cmd/sc_neutralcellstyles.png cmd/sc_neutralcellstyle.png
 cmd/sc_newglobaldoc.png res/odm_16_8.png
 cmd/sc_no.png cmd/sc_cancel.png
+cmd/sc_notecellstyles.png cmd/sc_showannotations.png
 cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
