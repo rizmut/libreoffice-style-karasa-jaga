@@ -29,7 +29,8 @@ cmd/32/authoritiesentrydialog.png cmd/32/insertauthorfield.png
 cmd/32/autofilter.png cmd/32/datafilterautofilter.png
 cmd/32/autoformatmenu.png cmd/32/autocorrectdlg.png
 cmd/32/availabletoolbars.png cmd/32/showtoolbar.png
-cmd/32/backgroundpatterncontroller.png cmd/32/backgroundcolor.png
+cmd/32/backgroundcolor.png cmd/32/formatarea.png
+cmd/32/backgroundpatterncontroller.png cmd/32/formatarea.png
 cmd/32/badcellstyles.png cmd/32/badcellstyle.png
 cmd/32/basicideappear.png cmd/32/toolsmacroedit.png
 cmd/32/basicshapes.png cmd/32/basicshapes.diamond.png
@@ -98,6 +99,7 @@ cmd/32/es/underlinesimple.png cmd/32/es/underline.png
 cmd/32/exitsearch.png cmd/32/closepreview.png
 cmd/32/exportasgraphic.png cmd/32/graphic.png
 cmd/32/exportasmenu.png cmd/32/exportto.png
+cmd/32/extrusiontoggle.png cmd/32/convertinto3d.png
 cmd/32/fielddialog.png cmd/32/fields.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
 cmd/32/fieldnames.png cmd/32/fields.png
@@ -311,7 +313,7 @@ cmd/32/setcolumnwidth.png cmd/32/columnwidth.png
 cmd/32/setdefault.png cmd/32/resetattributes.png
 cmd/32/setoptimalcolumnwidthdirect.png cmd/32/setoptimalcolumnwidth.png
 cmd/32/setrowheight.png cmd/32/rowheight.png
-cmd/32/settabbgcolor.png cmd/32/backgroundcolor.png
+cmd/32/settabbgcolor.png cmd/32/formatarea.png
 cmd/32/shapeslinemenu.png cmd/32/line.png
 cmd/32/shapesmenu.png cmd/32/basicshapes.rectangle.png
 cmd/32/sheetcommentmenu.png cmd/32/insertannotation.png
@@ -338,7 +340,7 @@ cmd/32/stylewatercanmode cmd/32/styleapply.png
 cmd/32/symbolcatalogue.png cmd/32/insertsymbol.png
 cmd/32/symbolshapes.png cmd/32/symbolshapes.smiley.png
 cmd/32/tableautofitmenu.png cmd/32/setoptimalrowheight.png 
-cmd/32/tablecellbackgroundcolor.png cmd/32/backgroundcolor.png
+cmd/32/tablecellbackgroundcolor.png cmd/32/formatarea.png
 cmd/32/tabledeletemenu.png cmd/32/deletetable.png
 cmd/32/tableevents.png cmd/32/animationeffects.png
 cmd/32/tableinsertmenu.png cmd/32/insertrowsafter.png
@@ -424,7 +426,8 @@ cmd/lc_authoritiesentrydialog.png cmd/lc_insertauthorfield.png
 cmd/lc_autofilter.png cmd/lc_datafilterautofilter.png
 cmd/lc_autoformatmenu.png cmd/lc_autocorrectdlg.png
 cmd/lc_availabletoolbars.png cmd/lc_showtoolbar.png
-cmd/lc_backgroundpatterncontroller.png cmd/lc_backgroundcolor.png
+cmd/lc_backgroundcolor.png cmd/lc_formatarea.png
+cmd/lc_backgroundpatterncontroller.png cmd/lc_formatarea.png
 cmd/lc_badcellstyles.png cmd/lc_badcellstyle.png
 cmd/lc_basicideappear.png cmd/lc_toolsmacroedit.png
 cmd/lc_basicshapes.png cmd/lc_basicshapes.diamond.png
@@ -491,6 +494,7 @@ cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_exitsearch.png cmd/lc_closepreview.png
 cmd/lc_exportasgraphic.png cmd/lc_graphic.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
+cmd/lc_extrusiontoggle.png cmd/lc_convertinto3d.png
 cmd/lc_fielddialog.png cmd/lc_fields.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
 cmd/lc_fieldnames.png cmd/lc_fields.png
@@ -690,7 +694,7 @@ cmd/lc_setcolumnwidth.png cmd/lc_columnwidth.png
 cmd/lc_setdefault.png cmd/lc_resetattributes.png
 cmd/lc_setoptimalcolumnwidthdirect.png cmd/lc_setoptimalcolumnwidth.png
 cmd/lc_setrowheight.png cmd/lc_rowheight.png
-cmd/lc_settabbgcolor.png cmd/lc_backgroundcolor.png
+cmd/lc_settabbgcolor.png cmd/lc_formatarea.png
 cmd/lc_shapeslinemenu.png cmd/lc_line.png
 cmd/lc_shapesmenu.png cmd/lc_basicshapes.rectangle.png
 cmd/lc_sheetcommentmenu.png cmd/lc_insertannotation.png
@@ -716,7 +720,7 @@ cmd/lc_stylewatercanmode cmd/lc_styleapply.png
 cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
 cmd/lc_tableautofitmenu.png cmd/lc_setoptimalrowheight.png 
-cmd/lc_tablecellbackgroundcolor.png cmd/lc_backgroundcolor.png
+cmd/lc_tablecellbackgroundcolor.png cmd/lc_formatarea.png
 cmd/lc_tabledeletemenu.png cmd/lc_deletetable.png
 cmd/lc_tableevents.png cmd/lc_animationeffects.png
 cmd/lc_tableinsertmenu.png cmd/lc_insertrowsafter.png
@@ -767,7 +771,8 @@ cmd/sc_authoritiesentrydialog.png cmd/sc_insertauthorfield.png
 cmd/sc_autofilter.png cmd/sc_datafilterautofilter.png
 cmd/sc_autoformatmenu.png cmd/sc_autocorrectdlg.png
 cmd/sc_availabletoolbars.png cmd/sc_showtoolbar.png
-cmd/sc_backgroundpatterncontroller.png cmd/sc_backgroundcolor.png
+cmd/sc_backgroundcolor.png cmd/sc_formatarea.png
+cmd/sc_backgroundpatterncontroller.png cmd/sc_formatarea.png
 cmd/sc_badcellstyles.png cmd/sc_badcellstyle.png
 cmd/sc_basicideappear.png cmd/sc_toolsmacroedit.png
 cmd/sc_basicshapes.png cmd/sc_basicshapes.diamond.png
@@ -834,6 +839,7 @@ cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_exitsearch.png cmd/sc_closepreview.png
 cmd/sc_exportasgraphic.png cmd/sc_graphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
+cmd/sc_extrusiontoggle.png cmd/sc_convertinto3d.png
 cmd/sc_fielddialog.png cmd/sc_fields.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
 cmd/sc_fieldnames.png cmd/sc_fields.png
@@ -1034,7 +1040,7 @@ cmd/sc_setcolumnwidth.png cmd/sc_columnwidth.png
 cmd/sc_setdefault.png cmd/sc_resetattributes.png
 cmd/sc_setoptimalcolumnwidthdirect.png cmd/sc_setoptimalcolumnwidth.png
 cmd/sc_setrowheight.png cmd/sc_rowheight.png
-cmd/sc_settabbgcolor.png cmd/sc_backgroundcolor.png
+cmd/sc_settabbgcolor.png cmd/sc_formatarea.png
 cmd/sc_shapeslinemenu.png cmd/sc_line.png
 cmd/sc_shapesmenu.png cmd/sc_basicshapes.rectangle.png
 cmd/sc_sheetcommentmenu.png cmd/sc_insertannotation.png
@@ -1060,7 +1066,7 @@ cmd/sc_stylewatercanmode cmd/sc_styleapply.png
 cmd/sc_symbolcatalogue.png cmd/sc_insertsymbol.png
 cmd/sc_symbolshapes.png cmd/sc_symbolshapes.smiley.png
 cmd/sc_tableautofitmenu.png cmd/sc_setoptimalrowheight.png 
-cmd/sc_tablecellbackgroundcolor.png cmd/sc_backgroundcolor.png
+cmd/sc_tablecellbackgroundcolor.png cmd/sc_formatarea.png
 cmd/sc_tabledeletemenu.png cmd/sc_deletetable.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
 cmd/sc_tableinsertmenu.png cmd/sc_insertrowsafter.png
@@ -1460,7 +1466,7 @@ svx/res/symphony/lpselected-spacing-1.png cmd/lc_spacepara1.png
 svx/res/symphony/lpselected-spacing-1_5.png cmd/lc_spacepara15.png
 svx/res/symphony/lpselected-spacing-2.png cmd/lc_spacepara2.png
 svx/res/symphony/lpsmall-spacing-1.png cmd/lc_spacepara1.png
-svx/res/symphony/fill_color.png cmd/sc_backgroundcolor.png
+svx/res/symphony/fill_color.png cmd/sc_formatarea.png
 svx/res/symphony/rotate_left.png cmd/sc_rotateleft.png
 svx/res/symphony/rotate_right.png cmd/sc_rotateright.png
 svx/res/symphony/sc_backgroundcolor.png cmd/sc_formatarea.png
