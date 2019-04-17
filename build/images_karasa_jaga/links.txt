@@ -108,6 +108,7 @@ cmd/32/fillmoderemovepredescessor.png cmd/32/cleararrowprecedents.png
 cmd/32/fillmoderemovesuccessor.png cmd/32/cleararrowdependents.png
 cmd/32/fillmodetracepredescessor.png cmd/32/showprecedents.png
 cmd/32/fillmodetracesuccessor.png cmd/32/showdependents.png
+cmd/32/fillstyle.png cmd/32/formatarea.png
 cmd/32/flipmenu.png cmd/32/flipvertical.png
 cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-internal-storage.png
 cmd/32/flowchartshapes.flowchart-alternate-process.png cmd/32/basicshapes.round-quadrat.png
@@ -503,6 +504,7 @@ cmd/lc_fillmoderemovepredescessor.png cmd/lc_cleararrowprecedents.png
 cmd/lc_fillmoderemovesuccessor.png cmd/lc_cleararrowdependents.png
 cmd/lc_fillmodetracepredescessor.png cmd/lc_showprecedents.png
 cmd/lc_fillmodetracesuccessor.png cmd/lc_showdependents.png
+cmd/lc_fillstyle.png cmd/lc_formatarea.png
 cmd/lc_flipmenu.png cmd/lc_flipvertical.png
 cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
 cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
@@ -848,6 +850,7 @@ cmd/sc_fillmoderemovepredescessor.png cmd/sc_cleararrowprecedents.png
 cmd/sc_fillmoderemovesuccessor.png cmd/sc_cleararrowdependents.png
 cmd/sc_fillmodetracepredescessor.png cmd/sc_showprecedents.png
 cmd/sc_fillmodetracesuccessor.png cmd/sc_showdependents.png
+cmd/sc_fillstyle.png cmd/sc_formatarea.png
 cmd/sc_flipmenu.png cmd/sc_flipvertical.png
 cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
 cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
