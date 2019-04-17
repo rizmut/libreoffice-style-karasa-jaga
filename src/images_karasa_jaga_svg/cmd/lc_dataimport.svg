@@ -16,7 +16,7 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    version="1.0"
    sodipodi:docname="lc_dataimport.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -602,17 +602,17 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath5163-1">
       <circle
+         style="fill:url(#linearGradient5167);fill-opacity:1"
+         r="36"
+         cx="343.99899"
+         cy="92"
+         id="circle5165-1"
          sodipodi:ry="36"
          sodipodi:rx="36"
          sodipodi:cy="92"
          sodipodi:cx="343.99899"
-         style="fill:url(#linearGradient5167);fill-opacity:1"
-         r="36"
-         rx="8.0010004"
-         cx="343.99899"
-         cy="92"
          ry="8.0010004"
-         id="circle5165-1" />
+         rx="8.0010004" />
     </clipPath>
     <linearGradient
        id="linearGradient4296-0">
@@ -1979,17 +1979,17 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath5163-1-9">
       <circle
+         style="fill:url(#linearGradient5167);fill-opacity:1"
+         r="36"
+         cx="343.99899"
+         cy="92"
+         id="circle5165-9"
          sodipodi:ry="36"
          sodipodi:rx="36"
          sodipodi:cy="92"
          sodipodi:cx="343.99899"
-         style="fill:url(#linearGradient5167);fill-opacity:1"
-         r="36"
-         rx="8.0010004"
-         cx="343.99899"
-         cy="92"
          ry="8.0010004"
-         id="circle5165-9" />
+         rx="8.0010004" />
     </clipPath>
     <linearGradient
        id="linearGradient4296-6">
@@ -3618,16 +3618,16 @@
        clipPathUnits="userSpaceOnUse">
       <circle
          id="circle5165"
-         ry="8.0010004"
          cy="92"
          cx="343.99899"
-         rx="8.0010004"
          r="36"
          style="fill:url(#linearGradient5167);fill-opacity:1"
-         sodipodi:cx="343.99899"
-         sodipodi:cy="92"
+         sodipodi:ry="36"
          sodipodi:rx="36"
-         sodipodi:ry="36" />
+         sodipodi:cy="92"
+         sodipodi:cx="343.99899"
+         ry="8.0010004"
+         rx="8.0010004" />
     </clipPath>
     <linearGradient
        id="linearGradient3711"
@@ -7080,9 +7080,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="156.33341"
-     inkscape:cy="70.716986"
+     inkscape:zoom="22.627416"
+     inkscape:cx="10.417563"
+     inkscape:cy="18.611838"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -7090,20 +7090,20 @@
      showgrid="true"
      showborder="true"
      inkscape:window-width="1366"
-     inkscape:window-height="691"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-height="706"
+     inkscape:window-x="-1"
+     inkscape:window-y="-1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="1"
-     inkscape:snap-global="true">
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false">
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
        originx="0"
        originy="0"
-       spacingx="5.8181"
-       spacingy="5.8181"
+       spacingx="0.5"
+       spacingy="0.5"
        color="#0000ff"
        empcolor="#0000ff"
        opacity="0.2"

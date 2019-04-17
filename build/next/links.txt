@@ -79,6 +79,7 @@ cmd/32/deletecell.png cmd/32/delete.png
 cmd/32/deletenote.png cmd/32/deleteannotation.png
 cmd/32/deleteshapehyperlink.png cmd/32/removehyperlink.png
 cmd/32/diagramaxisall.png cmd/32/diagramaxisxyz.png
+cmd/32/diagramdata.png cmd/32/changedatabasefield.png
 cmd/32/draw.png cmd/32/reload.png
 cmd/32/drawselect.png cmd/32/selectobject.png
 cmd/32/drawtext.png cmd/32/text.png
@@ -120,6 +121,7 @@ cmd/32/footnotecellstyles.png cmd/32/insertfootnote.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/framedialog.png
 cmd/32/formatimagemenu.png cmd/32/graphic.png
+cmd/32/formatselection.png cmd/32/configuredialog.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
 cmd/32/fr/underlinesimple.png cmd/32/fr/underline.png
 cmd/32/functionbox.png cmd/32/insertformula.png
@@ -471,6 +473,7 @@ cmd/lc_deletecell.png cmd/lc_delete.png
 cmd/lc_deletenote.png cmd/lc_deleteannotation.png
 cmd/lc_deleteshapehyperlink.png cmd/lc_removehyperlink.png
 cmd/lc_diagramaxisall.png cmd/lc_diagramaxisxyz.png
+cmd/lc_diagramdata.png cmd/lc_changedatabasefield.png
 cmd/lc_draw.png cmd/lc_reload.png
 cmd/lc_drawselect.png cmd/lc_selectobject.png
 cmd/lc_drawtext.png cmd/lc_text.png
@@ -511,6 +514,7 @@ cmd/lc_footnotecellstyles.png cmd/lc_insertfootnote.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_framedialog.png
 cmd/lc_formatimagemenu.png cmd/lc_graphic.png
+cmd/lc_formatselection.png cmd/lc_configuredialog.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
 cmd/lc_formattextmenu.png cmd/lc_text.png
 cmd/lc_functionbox.png cmd/lc_insertformula.png
@@ -812,6 +816,7 @@ cmd/sc_deletecell.png cmd/sc_delete.png
 cmd/sc_deletenote.png cmd/sc_deleteannotation.png
 cmd/sc_deleteshapehyperlink.png cmd/sc_removehyperlink.png
 cmd/sc_diagramaxisall.png cmd/sc_diagramaxisxyz.png
+cmd/sc_diagramdata.png cmd/sc_changedatabasefield.png
 cmd/sc_draw.png cmd/sc_reload.png
 cmd/sc_drawselect.png cmd/sc_selectobject.png
 cmd/sc_drawtext.png cmd/sc_text.png
@@ -852,6 +857,7 @@ cmd/sc_footnotecellstyles.png cmd/sc_insertfootnote.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_framedialog.png
 cmd/sc_formatimagemenu.png cmd/sc_graphic.png
+cmd/sc_formatselection.png cmd/sc_configuredialog.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_text.png
 cmd/sc_functionbox.png cmd/sc_insertformula.png
