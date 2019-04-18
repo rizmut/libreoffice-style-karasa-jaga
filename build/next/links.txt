@@ -108,6 +108,7 @@ cmd/32/fillmoderemovepredescessor.png cmd/32/cleararrowprecedents.png
 cmd/32/fillmoderemovesuccessor.png cmd/32/cleararrowdependents.png
 cmd/32/fillmodetracepredescessor.png cmd/32/showprecedents.png
 cmd/32/fillmodetracesuccessor.png cmd/32/showdependents.png
+cmd/32/fillstyle.png cmd/32/formatarea.png
 cmd/32/flipmenu.png cmd/32/flipvertical.png
 cmd/32/flowchartshapes.png cmd/32/flowchartshapes.flowchart-internal-storage.png
 cmd/32/flowchartshapes.flowchart-alternate-process.png cmd/32/basicshapes.round-quadrat.png
@@ -142,7 +143,6 @@ cmd/32/helpindex.png cmd/32/helperdialog.png
 cmd/32/hscroll.png cmd/32/hscrollbar.png
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
 cmd/32/hu/underlinesimple.png cmd/32/hu/underline.png
-cmd/32/importfromfile.png cmd/32/importdialog.png
 cmd/32/indexentrydialog.png cmd/32/insertindexesentry.png
 cmd/32/indexesmenu.png cmd/32/insertindexesentry.png
 cmd/32/insertavmedia.png cmd/32/avmediaplayer.png
@@ -293,7 +293,6 @@ cmd/32/rowoperations.png cmd/32/entirerow.png
 cmd/32/rulermenu.png cmd/32/ruler.png
 cmd/32/rulerrows.png cmd/32/extrusiontiltleft.png
 cmd/32/rulerrowsvertical.png cmd/32/extrusiontiltright.png
-cmd/32/savebasicas.png cmd/32/saveas.png
 cmd/32/savegraphic.png cmd/32/save.png
 cmd/32/savesimple.png cmd/32/save.png
 cmd/32/sbabrwinsert.png cmd/32/insertfield.png
@@ -503,6 +502,7 @@ cmd/lc_fillmoderemovepredescessor.png cmd/lc_cleararrowprecedents.png
 cmd/lc_fillmoderemovesuccessor.png cmd/lc_cleararrowdependents.png
 cmd/lc_fillmodetracepredescessor.png cmd/lc_showprecedents.png
 cmd/lc_fillmodetracesuccessor.png cmd/lc_showdependents.png
+cmd/lc_fillstyle.png cmd/lc_formatarea.png
 cmd/lc_flipmenu.png cmd/lc_flipvertical.png
 cmd/lc_flowchartshapes.png cmd/lc_flowchartshapes.flowchart-internal-storage.png
 cmd/lc_flowchartshapes.flowchart-alternate-process.png cmd/lc_basicshapes.round-quadrat.png
@@ -536,7 +536,6 @@ cmd/lc_heading2cellstyles.png cmd/lc_heading2parastyle.png
 cmd/lc_helpindex.png cmd/lc_helperdialog.png
 cmd/lc_hscroll.png cmd/lc_hscrollbar.png
 cmd/lc_hyperlinkdialog.png cmd/lc_inserthyperlink.png
-cmd/lc_importfromfile.png cmd/lc_importdialog.png
 cmd/lc_indexentrydialog.png cmd/lc_insertindexesentry.png
 cmd/lc_indexesmenu.png cmd/lc_insertindexesentry.png
 cmd/lc_insertavmedia.png cmd/lc_avmediaplayer.png
@@ -674,7 +673,6 @@ cmd/lc_rowoperations.png cmd/lc_entirerow.png
 cmd/lc_rulermenu.png cmd/lc_ruler.png
 cmd/lc_rulerrows.png cmd/lc_extrusiontiltleft.png
 cmd/lc_rulerrowsvertical.png cmd/lc_extrusiontiltright.png
-cmd/lc_savebasicas.png cmd/lc_saveas.png
 cmd/lc_savegraphic.png cmd/lc_save.png
 cmd/lc_savesimple.png cmd/lc_save.png
 cmd/lc_sbabrwinsert.png cmd/lc_insertfield.png
@@ -848,6 +846,7 @@ cmd/sc_fillmoderemovepredescessor.png cmd/sc_cleararrowprecedents.png
 cmd/sc_fillmoderemovesuccessor.png cmd/sc_cleararrowdependents.png
 cmd/sc_fillmodetracepredescessor.png cmd/sc_showprecedents.png
 cmd/sc_fillmodetracesuccessor.png cmd/sc_showdependents.png
+cmd/sc_fillstyle.png cmd/sc_formatarea.png
 cmd/sc_flipmenu.png cmd/sc_flipvertical.png
 cmd/sc_flowchartshapes.png cmd/sc_flowchartshapes.flowchart-internal-storage.png
 cmd/sc_flowchartshapes.flowchart-alternate-process.png cmd/sc_basicshapes.round-quadrat.png
@@ -881,7 +880,6 @@ cmd/sc_heading2cellstyles.png cmd/sc_heading2parastyle.png
 cmd/sc_helpindex.png cmd/sc_helperdialog.png
 cmd/sc_hscroll.png cmd/sc_hscrollbar.png
 cmd/sc_hyperlinkdialog.png cmd/sc_inserthyperlink.png
-cmd/sc_importfromfile.png cmd/sc_importdialog.png
 cmd/sc_indexentrydialog.png cmd/sc_insertindexesentry.png
 cmd/sc_indexesmenu.png cmd/sc_insertindexesentry.png
 cmd/sc_insertavmedia.png cmd/sc_avmediaplayer.png
@@ -1020,7 +1018,6 @@ cmd/sc_rowoperations.png cmd/sc_entirerow.png
 cmd/sc_rulermenu.png cmd/sc_ruler.png
 cmd/sc_rulerrows.png cmd/sc_extrusiontiltleft.png
 cmd/sc_rulerrowsvertical.png cmd/sc_extrusiontiltright.png
-cmd/sc_savebasicas.png cmd/sc_saveas.png
 cmd/sc_savegraphic.png cmd/sc_save.png
 cmd/sc_savesimple.png cmd/sc_save.png
 cmd/sc_sbabrwinsert.png cmd/sc_insertfield.png
@@ -1328,7 +1325,7 @@ sd/res/doctext.png res/sx03156.png
 sd/res/graphic.png cmd/sc_graphic.png
 sd/res/group.png cmd/sc_formatgroup.png
 sd/res/lc05928.png cmd/lc_autopilotmenu.png
-sd/res/lc27015.png cmd/lc_importdialog.png
+sd/res/lc27015.png cmd/lc_importfromfile.png
 sd/res/lc27017.png cmd/lc_zoompanning.png
 sd/res/lc27058.png sd/res/lc27028.png
 sd/res/lc27059.png cmd/lc_animationmode.png
@@ -1347,7 +1344,7 @@ sd/res/page.png cmd/sc_adddirect.png
 sd/res/playblue_16.png cmd/sc_datastreamsplay.png
 sd/res/pipette.png cmd/sc_bmpmask.png
 sd/res/sc05928.png cmd/sc_autopilotmenu.png
-sd/res/sc27015.png cmd/sc_importdialog.png
+sd/res/sc27015.png cmd/sc_importfromfile.png
 sd/res/sc27055.png sd/res/sc27054.png
 sd/res/sc27056.png sd/res/sc27054.png
 sd/res/sc27057.png sd/res/sc27054.png
