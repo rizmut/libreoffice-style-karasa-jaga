@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="sc_text_marquee.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/next/cmd/ko/sc_text_marquee.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview26"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="6.5873157"
+     inkscape:cy="2.0180818"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g22">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="16.933332"
+     x2="16.933332"
+     y1="286.84003"
+     y2="259.74667">
+    <stop
+       offset="0"
+       stop-color="#1c1c1c"
+       id="stop2" />
+    <stop
+       offset=".5"
+       stop-color="#888"
+       id="stop4" />
+    <stop
+       offset="1"
+       id="stop6" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(0.2645833,-1.2976e-4,1.2976e-4,0.2645833,2.688222,284.28451)"
+     gradientUnits="userSpaceOnUse"
+     x1="113.15723"
+     x2="1.82603"
+     xlink:href="#c"
+     y1="25.786163"
+     y2="28.059395" />
+  <linearGradient
+     id="c">
+    <stop
+       offset="0"
+       stop-color="#0968ef"
+       id="stop10" />
+    <stop
+       offset="1"
+       stop-color="#aecffc"
+       id="stop12" />
+  </linearGradient>
+  <linearGradient
+     id="d"
+     gradientTransform="matrix(-0.2645833,-1.2978e-4,-1.2978e-4,0.2645833,31.761229,284.29875)"
+     gradientUnits="userSpaceOnUse"
+     x1="113.15723"
+     x2="4.028707"
+     xlink:href="#c"
+     y1="25.786163"
+     y2="28.006655" />
+  <g
+     id="g833"
+     transform="scale(0.125)">
+    <g
+       id="g22"
+       transform="translate(0,-263.13332)"
+       style="fill-rule:evenodd">
+      <path
+         id="path16"
+         d="M 23.706664,263.13332 V 286.84 h 3.386669 v -10.15999 h 3.386669 v -3.38669 h -3.386669 v -10.16 z m -20.3199998,0 v 3.38669 H 16.933333 c 0,8.46663 -5.08,15.24 -13.5466688,15.24 v 3.38663 c 10.1599998,0 16.9333378,-6.77332 16.9333378,-19.54605 v -2.46727 z"
+         style="fill:url(#a);stroke-width:1.69333303"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path18"
+         d="m 0.00760128,291.69151 6.35259562,-5.28855 1.0511578,1.05219 -2.0649777,3.18064 11.587956,0.0142 -10e-4,2.11666 -11.5879558,-0.0142 2.0618767,3.12942 -1.0522188,1.10441 z"
+         style="fill:url(#d)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path20"
+         d="m 33.866667,291.70832 -6.352596,-5.28855 -1.051158,1.05219 2.064978,3.18065 -11.595658,-0.003 0.0011,2.11667 11.595658,0.003 -2.061903,3.12942 1.052219,1.10442 z"
+         style="fill:url(#b)"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+  </g>
+</svg>

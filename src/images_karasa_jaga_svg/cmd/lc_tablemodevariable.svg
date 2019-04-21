@@ -14,7 +14,7 @@
    version="1.1"
    id="svg93"
    sodipodi:docname="lc_tablemodevariable.svg"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/lc_tablemodevariable.png"
    inkscape:export-xdpi="16.5"
    inkscape:export-ydpi="16.5">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -102,14 +102,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="657"
+     inkscape:window-height="714"
      id="namedview95"
      showgrid="true"
-     inkscape:zoom="3.6875"
-     inkscape:cx="76.813334"
-     inkscape:cy="93.517791"
+     inkscape:zoom="1.84375"
+     inkscape:cx="6.8897178"
+     inkscape:cy="85.04917"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg93">
     <inkscape:grid
@@ -364,7 +364,7 @@
      transform="rotate(90)" />
   <path
      style="fill:url(#linearGradient957);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1.5393723,3.7669492 4.6181169,-3.7664728 0,7.6968615 z"
+     d="M 1.5393723,3.7669492 6.1574892,4.764e-4 v 7.6968615 z"
      id="path949"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
