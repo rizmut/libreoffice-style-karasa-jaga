@@ -1126,7 +1126,7 @@ res/adrbook.png cmd/sc_viewdatasourcebrowser.png
 res/extension_plus_26.png cmd/lc_addons.png
 res/extension_plus_32.png cmd/32/addons.png
 res/fileopen.png cmd/sc_open.png
-res/foldercl.png formula/res/fapclose.png
+res/foldercl.png svtools/res/folder.png
 res/fp010.png cmd/sc_upsearch.png
 res/fp015.png fpicker/res/fp014.png
 res/grafikei.png cmd/sc_graphic.png
@@ -1243,7 +1243,7 @@ res/sx03132.png res/sx03126.png
 res/sx03137.png res/sx03125.png
 res/sx03139.png cmd/sc_newhtmldoc.png
 res/sx03140.png res/sx03125.png
-res/sx03141.png formula/res/fapclose.png
+res/sx03141.png svtools/res/folder.png
 res/sx03144.png res/odf_16_8.png
 res/sx03145.png res/odf_16_8.png
 res/sx03153.png res/sx03152.png
@@ -1255,7 +1255,7 @@ res/sx03162.png res/odt_16_8.png
 res/sx03163.png res/ott_16_8.png
 res/sx03165.png cmd/sc_save.png
 res/sx03188.png res/sx03126.png
-res/sx03189.png formula/res/fapclose.png
+res/sx03189.png svtools/res/folder.png
 res/sx03218.png res/sx03217.png
 res/sx03219.png res/sx03125.png
 res/sx03220.png res/sx03217.png
@@ -1403,7 +1403,7 @@ starmath/res/at21719.png cmd/lc_fontheight.png
 starmath/res/at21720.png cmd/lc_charfontname.png
 svtools/res/back_large.png cmd/lc_navigateback.png
 svtools/res/back_small.png cmd/sc_navigateback.png
-svtools/res/folder.png formula/res/fapclose.png
+formula/res/fapclose.png svtools/res/folder.png 
 svtools/res/fp011.png fpicker/res/fp015.png
 svtools/res/preview_large.png cmd/lc_printpreview.png
 svtools/res/preview_small.png cmd/sc_printpreview.png
@@ -1439,11 +1439,11 @@ svx/res/fontworkalignright_26.png cmd/lc_alignright.png
 svx/res/fw07.png cmd/sc_alignleft.png
 svx/res/fw08.png cmd/sc_alignhorizontalcenter.png
 svx/res/fw09.png cmd/sc_alignright.png
-svx/res/galdefs.png formula/res/fapclose.png
+svx/res/galdefs.png svtools/res/folder.png
 svx/res/galnorl.png svx/res/galdefl.png
-svx/res/galnors.png formula/res/fapclose.png
+svx/res/galnors.png svtools/res/folder.png
 svx/res/galrdol.png svx/res/galdefl.png
-svx/res/galrdos.png formula/res/fapclose.png
+svx/res/galrdos.png svtools/res/folder.png
 svx/res/graphic.png cmd/lc_graphic.png
 svx/res/id01.png cmd/sc_ok.png
 svx/res/id018.png cmd/sc_choosemacro.png
