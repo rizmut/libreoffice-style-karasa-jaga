@@ -382,6 +382,10 @@ cmd/es/lc_underlinesimple.png cmd/es/lc_underline.png
 cmd/es/sc_underlinesimple.png cmd/es/sc_underline.png
 cmd/fr/lc_underlinesimple.png cmd/fr/lc_underline.png
 cmd/fr/sc_underlinesimple.png cmd/fr/sc_underline.png
+cmd/he/lc_redo.png cmd/ar/lc_redo.png
+cmd/he/sc_redo.png cmd/ar/sc_redo.png
+cmd/he/lc_undo.png cmd/ar/lc_undo.png
+cmd/he/sc_undo.png cmd/ar/sc_undo.png
 cmd/hu/lc_underlinesimple.png cmd/hu/lc_underline.png
 cmd/hu/sc_underlinesimple.png cmd/hu/sc_underline.png
 cmd/it/lc_underlinesimple.png cmd/it/lc_underline.png
@@ -1352,8 +1356,8 @@ sd/res/lc27318.png cmd/lc_drawchart.png
 sd/res/nv010.png cmd/sc_inserthyperlink.png
 sd/res/nv02.png cmd/sc_freeline_unfilled.png
 sd/res/nv03.png cmd/sc_firstrecord.png
-sd/res/nv04.png cmd/sc_navigateback.png
-sd/res/nv05.png cmd/sc_navigateforward.png
+sd/res/nv04.png cmd/sc_prevrecord.png
+sd/res/nv05.png cmd/sc_nextrecord.png
 sd/res/nv06.png cmd/sc_lastrecord.png
 sd/res/nv09.png sc/res/droplink.png
 sd/res/nv010.png sc/res/dropurl.png
