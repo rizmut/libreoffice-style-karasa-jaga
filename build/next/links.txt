@@ -1111,6 +1111,8 @@ desktop/res/extension_16.png cmd/sc_addons.png
 desktop/res/extension_32.png cmd/32/addons.png
 extensions/res/scanner/minus.png res/minus.png
 extensions/res/scanner/plus.png res/plus.png
+formula/res/fapclose.png svtools/res/folder.png 
+formula/res/fapopen.png res/folderop.png
 formula/res/fx.png cmd/sc_insertformula.png
 framework/res/addtemplate_32.png cmd/32/newdoc.png
 framework/res/arrow.png cmd/sc_nextrecord.png
@@ -1130,6 +1132,7 @@ res/foldercl.png svtools/res/folder.png
 res/fp010.png cmd/sc_upsearch.png
 res/fp015.png fpicker/res/fp014.png
 res/grafikei.png cmd/sc_graphic.png
+res/im30820.png cmd/sc_scriptorganizer.png
 res/im30827.png res/im30820.png
 res/lc05303.png cmd/lc_quit.png
 res/lc05504.png cmd/lc_print.png
@@ -1303,6 +1306,7 @@ res/sx10768.png cmd/sc_scrollbar.png
 res/sx10769.png cmd/sc_spinbutton.png
 res/sx18002.png res/minus.png
 res/sx18003.png res/plus.png
+res/sx18013.png res/dialogfolder_16.png
 res/xml_16.png cmd/sc_managexmlsource.png
 sc/res/date.png cmd/sc_datefield.png
 sc/res/dropcopy.png cmd/sc_copy.png
@@ -1403,7 +1407,6 @@ starmath/res/at21719.png cmd/lc_fontheight.png
 starmath/res/at21720.png cmd/lc_charfontname.png
 svtools/res/back_large.png cmd/lc_navigateback.png
 svtools/res/back_small.png cmd/sc_navigateback.png
-formula/res/fapclose.png svtools/res/folder.png 
 svtools/res/fp011.png fpicker/res/fp015.png
 svtools/res/preview_large.png cmd/lc_printpreview.png
 svtools/res/preview_small.png cmd/sc_printpreview.png
