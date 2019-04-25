@@ -238,7 +238,7 @@ cmd/32/leftpara.png cmd/32/alignleft.png
 cmd/32/linenumberingdialog.png cmd/32/linenumberdialog.png
 cmd/32/linespacing.png cmd/32/spacepara15.png
 cmd/32/linestyle.png cmd/32/borderdialog.png
-cmd/32/linetoolbox.png cmd/32/freeline.png
+cmd/32/linetoolbox.png cmd/32/freeline_unfilled.png
 cmd/32/loadstyles.png cmd/32/open.png
 cmd/32/macrodialog.png cmd/32/scriptorganizer.png
 cmd/32/macrosmenu.png cmd/32/choosemacro.png
@@ -708,7 +708,7 @@ cmd/lc_leftpara.png cmd/lc_alignleft.png
 cmd/lc_linenumberingdialog.png cmd/lc_linenumberdialog.png
 cmd/lc_linespacing.png cmd/lc_spacepara15.png
 cmd/lc_linestyle.png cmd/lc_borderdialog.png
-cmd/lc_linetoolbox.png cmd/lc_freeline.png
+cmd/lc_linetoolbox.png cmd/lc_freeline_unfilled.png
 cmd/lc_loadstyles.png cmd/lc_open.png
 cmd/lc_macrodialog.png cmd/lc_scriptorganizer.png
 cmd/lc_macrosmenu.png cmd/lc_choosemacro.png
@@ -1056,7 +1056,7 @@ cmd/sc_leftpara.png cmd/sc_alignleft.png
 cmd/sc_linenumberingdialog.png cmd/sc_linenumberdialog.png
 cmd/sc_linespacing.png cmd/sc_spacepara15.png
 cmd/sc_linestyle.png cmd/sc_borderdialog.png
-cmd/sc_linetoolbox.png cmd/sc_freeline.png
+cmd/sc_linetoolbox.png cmd/sc_freeline_unfilled.png
 cmd/sc_loadstyles.png cmd/sc_open.png
 cmd/sc_macrodialog.png cmd/sc_scriptorganizer.png
 cmd/sc_macrosmenu.png cmd/sc_choosemacro.png
@@ -1232,7 +1232,7 @@ res/fp010.png cmd/sc_upsearch.png
 res/fp015.png fpicker/res/fp014.png
 res/grafikei.png cmd/sc_graphic.png
 res/im30820.png cmd/sc_scriptorganizer.png
-res/im30827.png res/im30820.png
+res/im30827.png cmd/sc_scriptorganizer.png
 res/lc05303.png cmd/lc_quit.png
 res/lc05504.png cmd/lc_print.png
 res/lc05509.png cmd/lc_print.png
@@ -1355,6 +1355,7 @@ res/sx03158.png res/sx03125.png
 res/sx03160.png res/odg_16_8.png
 res/sx03162.png res/odt_16_8.png
 res/sx03163.png res/ott_16_8.png
+res/sx03164.png res/harddisk_16.png
 res/sx03165.png cmd/sc_save.png
 res/sx03188.png res/sx03126.png
 res/sx03189.png svtools/res/folder.png
