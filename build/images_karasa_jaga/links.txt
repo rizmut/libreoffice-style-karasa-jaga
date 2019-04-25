@@ -106,6 +106,7 @@ cmd/32/exitsearch.png cmd/32/closepreview.png
 cmd/32/exportasgraphic.png cmd/32/graphic.png
 cmd/32/exportasmenu.png cmd/32/exportto.png
 cmd/32/extrusiontoggle.png cmd/32/convertinto3d.png
+cmd/32/fa/redo.png cmd/32/ar/redo.png
 cmd/32/fa/undo.png cmd/32/ar/undo.png
 cmd/32/fielddialog.png cmd/32/fields.png
 cmd/32/fieldmenu.png cmd/32/insertfield.png
@@ -151,6 +152,7 @@ cmd/32/headerandfooter.png cmd/32/editheaderandfooter.png
 cmd/32/heading1cellstyles.png cmd/32/heading1parastyle.png
 cmd/32/heading2cellstyles.png cmd/32/heading2parastyle.png
 cmd/32/he/redo.png cmd/32/ar/redo.png
+cmd/32/he/undo.png cmd/32/ar/undo.png
 cmd/32/helpindex.png cmd/32/helperdialog.png
 cmd/32/hscroll.png cmd/32/hscrollbar.png
 cmd/32/hyperlinkdialog.png cmd/32/inserthyperlink.png
@@ -421,16 +423,20 @@ cmd/es/sc_italic.png cmd/ca/sc_italic.png
 cmd/es/sc_underline.png cmd/ca/sc_underline.png
 cmd/es/sc_underlinedouble.png cmd/ca/sc_underlinedouble.png
 cmd/es/sc_underlinesimple.png cmd/ca/sc_underline.png
+cmd/fa/lc_redo.png cmd/ar/lc_redo.png
 cmd/fa/lc_undo.png cmd/ar/lc_undo.png
+cmd/fa/sc_redo.png cmd/ar/sc_redo.png
 cmd/fa/sc_undo.png cmd/ar/sc_undo.png
 cmd/fr/lc_underline.png cmd/ca/lc_underline.png
-cmd/fr/lc_underlinedouble.png cmd/ca/lc_underlinedouble.png\
+cmd/fr/lc_underlinedouble.png cmd/ca/lc_underlinedouble.png
 cmd/fr/lc_underlinesimple.png cmd/ca/lc_underline.png
 cmd/fr/sc_underline.png cmd/ca/sc_underline.png
 cmd/fr/sc_underlinedouble.png cmd/ca/sc_underlinedouble.png
 cmd/fr/sc_underlinesimple.png cmd/ca/sc_underline.png
 cmd/he/lc_redo.png cmd/ar/lc_redo.png
+cmd/he/lc_undo.png cmd/ar/lc_undo.png
 cmd/he/sc_redo.png cmd/ar/sc_redo.png
+cmd/he/sc_undo.png cmd/ar/sc_undo.png
 cmd/hu/lc_bold.png cmd/de/lc_bold.png
 cmd/hu/lc_underlinesimple.png cmd/hu/lc_underline.png
 cmd/hu/sc_bold.png cmd/de/sc_bold.png
