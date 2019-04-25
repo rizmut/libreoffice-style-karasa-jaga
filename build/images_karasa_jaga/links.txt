@@ -374,7 +374,7 @@ cmd/32/sv/bold.png cmd/32/de/bold.png
 cmd/32/sv/italic.png cmd/32/de/italic.png
 cmd/32/symbolcatalogue.png cmd/32/insertsymbol.png
 cmd/32/symbolshapes.png cmd/32/symbolshapes.smiley.png
-cmd/32/tableautofitmenu.png cmd/32/setoptimalrowheight.png 
+cmd/32/tableautofitmenu.png cmd/32/setoptimalrowheight.png
 cmd/32/tablecellbackgroundcolor.png cmd/32/formatarea.png
 cmd/32/tabledeletemenu.png cmd/32/deletetable.png
 cmd/32/tableevents.png cmd/32/animationeffects.png
@@ -414,11 +414,11 @@ cmd/32/zoomtoolbox.png cmd/32/zoom.png
 cmd/ca/lc_underlinesimple.png cmd/ca/lc_underline.png
 cmd/ca/sc_underlinesimple.png cmd/ca/sc_underline.png
 cmd/es/lc_bold.png cmd/ca/lc_bold.png
-cmd/es/sc_bold.png cmd/ca/sc_bold.png
 cmd/es/lc_italic.png cmd/ca/lc_italic.png
 cmd/es/lc_underline.png cmd/ca/lc_underline.png
 cmd/es/lc_underlinedouble.png cmd/ca/lc_underlinedouble.png
 cmd/es/lc_underlinesimple.png cmd/ca/lc_underline.png
+cmd/es/sc_bold.png cmd/ca/sc_bold.png
 cmd/es/sc_italic.png cmd/ca/sc_italic.png
 cmd/es/sc_underline.png cmd/ca/sc_underline.png
 cmd/es/sc_underlinedouble.png cmd/ca/sc_underlinedouble.png
@@ -443,11 +443,11 @@ cmd/hu/sc_bold.png cmd/de/sc_bold.png
 cmd/hu/sc_underlinesimple.png cmd/hu/sc_underline.png
 cmd/it/lc_bold.png cmd/fr/lc_bold.png
 cmd/it/lc_italic.png cmd/ca/lc_italic.png
-cmd/it/sc_bold.png cmd/fr/sc_bold.png
-cmd/it/sc_italic.png cmd/ca/sc_italic.png
 cmd/it/lc_underline.png cmd/ca/lc_underline.png
 cmd/it/lc_underlinedouble.png cmd/ca/lc_underlinedouble.png
 cmd/it/lc_underlinesimple.png cmd/ca/lc_underline.png
+cmd/it/sc_bold.png cmd/fr/sc_bold.png
+cmd/it/sc_italic.png cmd/ca/sc_italic.png
 cmd/it/sc_underline.png cmd/ca/sc_underline.png
 cmd/it/sc_underlinedouble.png cmd/ca/sc_underlinedouble.png
 cmd/it/sc_underlinesimple.png cmd/ca/sc_underline.png
@@ -823,7 +823,7 @@ cmd/lc_starshapes.png cmd/lc_starshapes.star5.png
 cmd/lc_stylewatercanmode cmd/lc_styleapply.png
 cmd/lc_symbolcatalogue.png cmd/lc_insertsymbol.png
 cmd/lc_symbolshapes.png cmd/lc_symbolshapes.smiley.png
-cmd/lc_tableautofitmenu.png cmd/lc_setoptimalrowheight.png 
+cmd/lc_tableautofitmenu.png cmd/lc_setoptimalrowheight.png
 cmd/lc_tablecellbackgroundcolor.png cmd/lc_formatarea.png
 cmd/lc_tabledeletemenu.png cmd/lc_deletetable.png
 cmd/lc_tableevents.png cmd/lc_animationeffects.png
@@ -1172,7 +1172,7 @@ cmd/sc_starshapes.png cmd/sc_starshapes.star5.png
 cmd/sc_stylewatercanmode cmd/sc_styleapply.png
 cmd/sc_symbolcatalogue.png cmd/sc_insertsymbol.png
 cmd/sc_symbolshapes.png cmd/sc_symbolshapes.smiley.png
-cmd/sc_tableautofitmenu.png cmd/sc_setoptimalrowheight.png 
+cmd/sc_tableautofitmenu.png cmd/sc_setoptimalrowheight.png
 cmd/sc_tablecellbackgroundcolor.png cmd/sc_formatarea.png
 cmd/sc_tabledeletemenu.png cmd/sc_deletetable.png
 cmd/sc_tableevents.png cmd/sc_animationeffects.png
@@ -1210,7 +1210,7 @@ desktop/res/extension_16.png cmd/sc_addons.png
 desktop/res/extension_32.png cmd/32/addons.png
 extensions/res/scanner/minus.png res/minus.png
 extensions/res/scanner/plus.png res/plus.png
-formula/res/fapclose.png svtools/res/folder.png 
+formula/res/fapclose.png svtools/res/folder.png
 formula/res/fapopen.png res/folderop.png
 formula/res/fx.png cmd/sc_insertformula.png
 framework/res/addtemplate_32.png cmd/32/newdoc.png
