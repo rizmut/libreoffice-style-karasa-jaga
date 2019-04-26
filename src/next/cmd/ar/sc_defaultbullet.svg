@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="sc_defaultbullet.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/next/cmd/ar/sc_defaultbullet.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.71186441"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33">
+    <inkscape:grid
+       type="xygrid"
+       id="grid846" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="7.093015"
+     x2="7.093015"
+     y1="-274.818525"
+     y2="-268.055367">
+    <stop
+       offset="0"
+       stop-color="#06f"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#80b3ff"
+       id="stop4" />
+  </linearGradient>
+  <g
+     transform="matrix(.125 0 0 .125 0 -32.89167)"
+     id="g31">
+    <path
+       d="m-33.866665 263.13333h33.866665v33.866665h-33.866665z"
+       fill="#fff"
+       fill-opacity=".055147"
+       transform="scale(-1 1)"
+       id="path7" />
+    <g
+       fill="#404040"
+       fill-opacity=".839216"
+       id="g17">
+      <path
+         d="m2.009939 269.48331h17.04006v2.116696h-17.04006z"
+         id="path9" />
+      <path
+         d="m6.349999 273.71664h12.699999v2.116692h-12.699999z"
+         id="path11" />
+      <path
+         d="m2.009941 284.29999h17.04006v2.116696h-17.04006z"
+         id="path13" />
+      <path
+         d="m6.35 288.53333h12.699999v2.116692h-12.699999z"
+         id="path15" />
+    </g>
+    <g
+       transform="matrix(-.99999999 0 0 .99999999 33.649429 .206031)"
+       id="g23">
+      <circle
+         cx="6.63171"
+         cy="-272.99435"
+         fill="none"
+         r="1.470957"
+         stroke="url(#a)"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="5.88383"
+         transform="scale(1 -1)"
+         id="circle19" />
+      <circle
+         cx="6.63171"
+         cy="272.99435"
+         fill="#bfd9ff"
+         r="1.470957"
+         id="circle21" />
+    </g>
+    <g
+       transform="matrix(-.99999999 0 0 .99999999 33.634268 14.661319)"
+       id="g29">
+      <circle
+         cx="6.63171"
+         cy="-272.99435"
+         fill="none"
+         r="1.470957"
+         stroke="url(#a)"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="5.88383"
+         transform="scale(1 -1)"
+         id="circle25" />
+      <circle
+         cx="6.63171"
+         cy="272.99435"
+         fill="#bfd9ff"
+         r="1.470957"
+         id="circle27" />
+    </g>
+  </g>
+</svg>
