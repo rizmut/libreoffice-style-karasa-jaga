@@ -119,7 +119,7 @@ cmd/32/fa/linenumberdialog.png cmd/32/ar/linenumberdialog.png
 cmd/32/fa/numberingstart.png cmd/32/ar/numberingstart.png
 cmd/32/fa/numberliststyle.png cmd/32/ar/defaultnumbering.png
 cmd/32/fa/outlinebullet.png cmd/32/ar/outlinebullet.png
-cmd/32/fa/redo.png cmd/ar/redo.png
+cmd/32/fa/redo.png cmd/32/ar/redo.png
 cmd/32/fa/removebullets.png cmd/32/ar/removebullets.png
 cmd/32/fa/romanliststyle.png cmd/32/ar/romanliststyle.png
 cmd/32/fa/romanlowliststyle.png cmd/32/ar/romanlowliststyle.png
@@ -1308,10 +1308,10 @@ cmd/sc_zoommenu.png cmd/sc_zoom.png
 cmd/sc_zoomminus.png cmd/sc_zoomout.png
 cmd/sc_zoomplus.png cmd/sc_zoomin.png
 cmd/sc_zoomtoolbox.png cmd/sc_zoom.png
-cmd/ar/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
-cmd/ar/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
-cmd/ar/sc_bulletliststyle.png cmd/ar/sc_defaultbullet.png
-cmd/ar/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
+cmd/ur/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
+cmd/ur/lc_numberliststyle.png cmd/ar/lc_defaultnumbering.png
+cmd/ur/sc_bulletliststyle.png cmd/ar/sc_defaultbullet.png
+cmd/ur/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/ur/lc_alphaliststyle.png cmd/ar/lc_alphaliststyle.png
 cmd/ur/lc_alphalowliststyle.png cmd/ar/lc_alphalowliststyle.png
 cmd/ar/lc_bulletliststyle.png cmd/ar/lc_defaultbullet.png
@@ -1337,7 +1337,7 @@ cmd/ur/sc_defaultnumbering.png cmd/ar/sc_defaultnumbering.png
 cmd/ur/sc_insertneutralparagraph.png cmd/ar/sc_insertneutralparagraph.png
 cmd/ur/sc_linenumberdialog.png cmd/ar/sc_linenumberdialog.png
 cmd/ur/sc_numberingstart.png cmd/ar/sc_numberingstart.png
-cmd/ar/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
+cmd/ur/sc_numberliststyle.png cmd/ar/sc_defaultnumbering.png
 cmd/ur/sc_outlinebullet.png cmd/ar/sc_outlinebullet.png
 cmd/ur/sc_redo.png cmd/ar/sc_redo.png
 cmd/ur/sc_removebullets.png cmd/ar/sc_removebullets.png
