@@ -1646,7 +1646,6 @@ sd/res/nv010.png sc/res/dropurl.png
 sd/res/objects.png cmd/sc_objectcatalog.png
 sd/res/ole.png cmd/sc_insertobject.png
 sd/res/page.png cmd/sc_adddirect.png
-sd/res/playblue_16.png cmd/sc_datastreamsplay.png
 sd/res/pipette.png cmd/sc_bmpmask.png
 sd/res/sc05928.png cmd/sc_autopilotmenu.png
 sd/res/sc27015.png cmd/sc_importfromfile.png
@@ -1662,6 +1661,7 @@ sd/res/sc27095.png cmd/sc_toggleobjectrotatemode.png
 sd/res/sc27173.png sd/res/sc27171.png
 sd/res/sc27296.png sd/res/sc27295.png
 sd/res/stopplayingblue_16.png cmd/sc_datastreamsstop.png
+sd/res/time_16.png cmd/sc_timefield.png
 sfx2/actionview030.png cmd/lc_open.png
 sfx2/res/deleterow.png cmd/sc_deleterows.png
 sfx2/res/favorite.png sw/res/nc20005.png
