@@ -1662,9 +1662,10 @@ sd/res/sc27173.png sd/res/sc27171.png
 sd/res/sc27296.png sd/res/sc27295.png
 sd/res/stopplayingblue_16.png cmd/sc_datastreamsstop.png
 sd/res/time_16.png cmd/sc_timefield.png
-sfx2/actionview030.png cmd/lc_open.png
+sfx2/res/actionview028.png cmd/lc_save.png
+sfx2/res/actionview030.png cmd/lc_open.png
 sfx2/res/deleterow.png cmd/sc_deleterows.png
-sfx2/res/favorite.png sw/res/nc20005.png
+sw/res/nc20005.png sfx2/res/favourite.png
 sfx2/res/newex.png cmd/sc_stylenewbyexample.png
 sfx2/res/sortascending.png cmd/lc_sortascending.png
 sfx2/res/styfam1.png sw/res/sf02.png
@@ -1812,7 +1813,7 @@ sw/res/sr20004.png cmd/sc_adddirect.png
 sw/res/sr20005.png cmd/sc_insertdraw.png
 sw/res/sr20006.png cmd/sc_choosecontrols.png
 sw/res/sr20007.png cmd/sc_insertsection.png
-sw/res/sr20008.png sw/res/nc20005.png
+sw/res/sr20008.png sfx2/res/favourite.png.png
 sw/res/sr20009.png cmd/sc_graphic.png
 sw/res/sr20010.png cmd/sc_insertobject.png
 sw/res/sr20011.png sw/res/nc20000.png
