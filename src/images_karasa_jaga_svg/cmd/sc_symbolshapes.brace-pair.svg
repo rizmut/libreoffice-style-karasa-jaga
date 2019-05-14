@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="sc_symbolshapes.brace-pair.svg"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/next/cmd/sc_symbolshapes.brace-pair.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1364"
+     inkscape:window-height="704"
+     id="namedview4"
+     showgrid="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="39.190861"
+     inkscape:cx="11.265114"
+     inkscape:cy="13.190093"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g835">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
+  <g
+     id="g835"
+     transform="scale(0.125)">
+    <path
+       id="path864"
+       d="m 84,0 c 14.883807,0.24158 20.16327,1.698443 26.70313,6.046875 6.53985,4.348435 9.7733,13.995236 9.125,27.75 l -0.14063,3.0625 C 118.89133,53.751191 124.89068,59.16841 140,64 124.89068,68.83159 118.89133,74.248809 119.6875,91.140624 l 0.14063,3.062504 c 0.6483,13.754762 -2.58515,23.401562 -9.125,27.750002 C 104.16327,126.30155 98.883807,127.75842 84,128 v -2.65625 C 99.56034,120.99532 103.9375,113.74346 103.9375,95.625 V 87.031248 C 103.9375,66.980148 108.03971,68.83159 124.95313,64 108.03971,59.16841 103.9375,61.019852 103.9375,40.96875 V 32.375 C 103.9375,14.256531 99.56034,7.00468 84,2.65625 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#507dbe;fill-opacity:0.72941176;stroke:none;stroke-width:5.83519268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#507dbe;fill-opacity:0.72941176;stroke:none;stroke-width:0.72939909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.5 0 C 5.6395241 0.0301975 4.979591 0.21230538 4.1621094 0.75585938 C 3.3446275 1.2994137 2.9404459 2.5052639 3.0214844 4.2246094 L 3.0390625 4.6074219 C 3.1385834 6.7188989 2.3886645 7.3960513 0.5 8 C 2.3886645 8.6039487 3.1385834 9.2811011 3.0390625 11.392578 L 3.0214844 11.775391 C 2.9404459 13.494736 3.3446275 14.700586 4.1621094 15.244141 C 4.979591 15.787694 5.6395241 15.969803 7.5 16 L 7.5 15.667969 C 5.5549575 15.124415 5.0078125 14.217933 5.0078125 11.953125 L 5.0078125 10.878906 C 5.0078125 8.3725185 4.4950366 8.6039488 2.3808594 8 C 4.4950366 7.3960513 5.0078125 7.6274815 5.0078125 5.1210938 L 5.0078125 4.046875 C 5.0078125 1.7820664 5.5549575 0.875585 7.5 0.33203125 L 7.5 0 z "
+       transform="scale(8)"
+       id="path992" />
+  </g>
+</svg>

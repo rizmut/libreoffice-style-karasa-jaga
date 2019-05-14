@@ -112,6 +112,7 @@ cmd/32/es/underlinesimple.png cmd/32/ca/underline.png
 cmd/32/exitsearch.png cmd/32/closepreview.png
 cmd/32/exportasgraphic.png cmd/32/graphic.png
 cmd/32/exportasmenu.png cmd/32/exportto.png
+cmd/32/extrusionsurfacefloater.png cmd/32/cube.png
 cmd/32/extrusiontoggle.png cmd/32/convertinto3d.png
 cmd/32/fa/alphaliststyle.png cmd/32/ar/alphaliststyle.png
 cmd/32/fa/alphalowliststyle.png cmd/32/ar/alphalowliststyle.png
@@ -735,6 +736,7 @@ cmd/lc_ellipsetoolbox.png cmd/lc_basicshapes.ellipse.png
 cmd/lc_exitsearch.png cmd/lc_closepreview.png
 cmd/lc_exportasgraphic.png cmd/lc_graphic.png
 cmd/lc_exportasmenu.png cmd/lc_exportto.png
+cmd/lc_extrusionsurfacefloater.png cmd/lc_cube.png
 cmd/lc_extrusiontoggle.png cmd/lc_convertinto3d.png
 cmd/lc_fielddialog.png cmd/lc_fields.png
 cmd/lc_fieldmenu.png cmd/lc_insertfield.png
@@ -1088,6 +1090,7 @@ cmd/sc_ellipsetoolbox.png cmd/sc_basicshapes.ellipse.png
 cmd/sc_exitsearch.png cmd/sc_closepreview.png
 cmd/sc_exportasgraphic.png cmd/sc_graphic.png
 cmd/sc_exportasmenu.png cmd/sc_exportto.png
+cmd/sc_extrusionsurfacefloater.png cmd/sc_cube.png
 cmd/sc_extrusiontoggle.png cmd/sc_convertinto3d.png
 cmd/sc_fielddialog.png cmd/sc_fields.png
 cmd/sc_fieldmenu.png cmd/sc_insertfield.png
