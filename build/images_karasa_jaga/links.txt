@@ -74,6 +74,7 @@ cmd/32/convertmenu.png cmd/32/bezierconvert.png
 cmd/32/currentfootnotedialog.png cmd/32/footnotedialog.png
 cmd/32/datafilterhideautofilter.png cmd/32/removefiltersort.png
 cmd/32/datapilotmenu.png cmd/32/datadatapilotrun.png
+cmd/32/dbdtableedit.png cmd/32/dbtableedit.png
 cmd/32/dbviewfunctions.png cmd/32/insertformula.png
 cmd/32/defaultcellstyles.png cmd/32/defaultcharstyle.png
 cmd/32/defaultparastyle.png cmd/32/controlcodes.png
@@ -709,6 +710,7 @@ cmd/lc_convertmenu.png cmd/lc_bezierconvert.png
 cmd/lc_currentfootnotedialog.png cmd/lc_footnotedialog.png
 cmd/lc_datafilterhideautofilter.png cmd/lc_removefiltersort.png
 cmd/lc_datapilotmenu.png cmd/lc_datadatapilotrun.png
+cmd/lc_dbdtableedit.png cmd/lc_dbtableedit.png
 cmd/lc_dbviewfunctions.png cmd/lc_insertformula.png
 cmd/lc_defaultcellstyles.png cmd/lc_defaultcharstyle.png
 cmd/lc_defaultparastyle.png cmd/lc_controlcodes.png
@@ -1064,6 +1066,7 @@ cmd/sc_convertmenu.png cmd/sc_bezierconvert.pngs
 cmd/sc_currentfootnotedialog.png cmd/sc_footnotedialog.png
 cmd/sc_datafilterhideautofilter.png cmd/sc_removefiltersort.png
 cmd/sc_datapilotmenu.png cmd/sc_datadatapilotrun.png
+cmd/sc_dbdtableedit.png cmd/sc_dbtableedit.png
 cmd/sc_dbviewfunctions.png cmd/sc_insertformula.png
 cmd/sc_defaultcellstyles.png cmd/sc_defaultcharstyle.png
 cmd/sc_defaultparastyle.png cmd/sc_controlcodes.png
