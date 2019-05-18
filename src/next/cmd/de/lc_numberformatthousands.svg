@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,15 +53,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="706"
      id="namedview13"
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:zoom="19.666666"
-     inkscape:cx="3.3758371"
+     inkscape:cx="-5.5224683"
      inkscape:cy="10.769447"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11">
     <inkscape:grid
@@ -83,15 +83,21 @@
        offset="1"
        id="stop4" />
   </linearGradient>
-  <text
-     xml:space="preserve"
+  <g
+     aria-label="1.0"
      style="font-style:normal;font-weight:normal;font-size:5.29212713px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient836);fill-opacity:1;stroke:none;stroke-width:0.13230318"
-     x="-0.36278692"
-     y="4.7114401"
-     id="text23"><tspan
-       sodipodi:role="line"
-       id="tspan21"
-       x="-0.36278692"
-       y="4.7114401"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#linearGradient836);fill-opacity:1;stroke-width:0.13230318">1.0</tspan></text>
+     id="text23">
+    <path
+       d="m 0.60567235,1.5732087 q -0.0952583,0 -0.38103316,0.1164268 v -0.07409 l 0.95258291,-0.4815836 0.042337,0.010584 v 3.1752763 q 0,0.1905166 0.095258,0.24873 0.095258,0.058213 0.4074938,0.063506 v 0.079382 H 0.26168408 V 4.6320582 Q 0.5580432,4.6214739 0.65859362,4.5473841 0.76443616,4.4680022 0.76443616,4.2192723 V 1.8219387 q 0,-0.24873 -0.15876381,-0.24873 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#linearGradient836);fill-opacity:1;stroke-width:0.13230318"
+       id="path818" />
+    <path
+       d="m 2.9447925,4.1822274 q 0.121719,0 0.206393,0.089966 0.089966,0.089966 0.089966,0.2116851 0,0.1164268 -0.089966,0.2011009 -0.089966,0.084674 -0.2116851,0.084674 -0.1164268,0 -0.2011008,-0.084674 -0.084674,-0.084674 -0.084674,-0.2011009 0,-0.1217189 0.084674,-0.2116851 0.089966,-0.089966 0.2063929,-0.089966 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#linearGradient836);fill-opacity:1;stroke-width:0.13230318"
+       id="path820" />
+    <path
+       d="m 5.7972489,4.2774857 q -0.3281118,0.5080442 -0.8679088,0.5080442 -0.539797,0 -0.8679089,-0.5186285 -0.3281118,-0.5186285 -0.3281118,-1.333616 0,-0.7673585 0.3281118,-1.2806948 0.3281119,-0.5186285 0.8890774,-0.5186285 0.5186285,0 0.8467403,0.5080442 0.3281119,0.5080443 0.3281119,1.3230318 0,0.8044034 -0.3281119,1.3124476 z M 4.9346322,1.2715575 q -0.6932686,0 -0.6932686,1.709357 0,1.6670201 0.6879765,1.6670201 0.6879765,0 0.6879765,-1.6723122 0,-0.830864 -0.1746402,-1.2648184 Q 5.2680362,1.2715575 4.9346322,1.2715575 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:url(#linearGradient836);fill-opacity:1;stroke-width:0.13230318"
+       id="path822" />
+  </g>
 </svg>

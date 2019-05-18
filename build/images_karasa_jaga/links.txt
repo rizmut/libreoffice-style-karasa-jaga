@@ -12,6 +12,13 @@ avmedia/res/avl02051.png cmd/lc_datastreamsstop.png
 avmedia/res/avl02052.png cmd/lc_mediarepeat.png
 avmedia/res/avl02053.png cmd/lc_ok.png
 avmedia/res/avl02054.png cmd/lc_mediamute.png
+chart2/res/dataeditor_icon01.png cmd/sc_insertrowsafter.png
+chart2/res/dataeditor_icon02.png cmd/sc_insertcolumnsafter.png
+chart2/res/dataeditor_icon03.png cmd/sc_deleterows.png
+chart2/res/dataeditor_icon04.png cmd/sc_deletecolumns.png
+chart2/res/typecolumn_16.png cmd/sc_insertobjectchartfromfile.png
+chart2/res/typecolumnline_16.png cmd/sc_statisticsmenu.png
+chart2/res/typepie_16.png cmd/sc_drawchart.png
 cmd/32/acceptchanges.png cmd/32/accepttrackedchanges.png
 cmd/32/accepttracedchange.png cmd/32/accepttrackedchange.png
 cmd/32/adddatefield.png cmd/32/datefield.png
