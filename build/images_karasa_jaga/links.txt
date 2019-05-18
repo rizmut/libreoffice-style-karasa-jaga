@@ -1406,6 +1406,16 @@ cmd/ur/sc_romanliststyle.png cmd/ar/sc_romanliststyle.png
 cmd/ur/sc_romanlowliststyle.png cmd/ar/sc_romanlowliststyle.png
 cmd/ur/sc_undo.png cmd/ar/sc_undo.png
 dbaccess/res/db.png cmd/sc_changedatabasefield.png
+dbaccess/res/lc036.png cmd/lc_dbnewreport.png
+dbaccess/res/lc037.png cmd/lc_dbreportdelete.png
+dbaccess/res/lc038.png cmd/lc_dbreportedit.png
+dbaccess/res/sc021.png cmd/sc_dbqueryedit.png
+dbaccess/res/sc023.png cmd/sc_dbnewquerysql.png
+dbaccess/res/sc036.png cmd/sc_dbnewreport.png
+dbaccess/res/sc037.png cmd/sc_dbreportdelete.png
+dbaccess/res/sc038.png cmd/sc_dbreportedit.png
+dbaccess/res/sortdown.png cmd/sc_sortascending.png
+dbaccess/res/sortup.png cmd/sc_sortdescending.png
 desktop/res/extension_16.png cmd/sc_addons.png
 desktop/res/extension_32.png cmd/32/addons.png
 extensions/res/scanner/minus.png res/minus.png
@@ -1561,6 +1571,7 @@ res/sx03164.png res/harddisk_16.png
 res/sx03165.png cmd/sc_save.png
 res/sx03188.png dbaccess/res/tables_16.png
 res/sx03189.png svtools/res/folder.png
+res/sx03202.png dbaccess/res/query_16.png
 res/sx03218.png res/sx03217.png
 res/sx03219.png res/sx03125.png
 res/sx03220.png res/sx03217.png
