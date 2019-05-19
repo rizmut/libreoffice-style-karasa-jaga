@@ -1429,9 +1429,12 @@ framework/res/extension.png cmd/lc_addons.png
 framework/res/info_26.png cmd/lc_helperdialog.png
 reportdesign/res/sc30768.png cmd/sc_upsearch.png
 reportdesign/res/sc30769.png cmd/sc_downsearch.png
+reportdesign/res/sx10928.png cmd/sc_hfixedline.png
+reportdesign/res/sx10929.png cmd/sc_vfixedline.png
 reportdesign/res/sx11047.png cmd/sc_basicshapes.diamond.png
 reportdesign/res/sx12452.png cmd/sc_actionmode.png
 reportdesign/res/sx12453.png cmd/lc_animationeffects.png
+reportdesign/res/sx12464.png dbaccess/res/report_16.png
 reportdesign/res/sx12594.png cmd/sc_insertformula.png
 res/adrbook.png cmd/sc_viewdatasourcebrowser.png
 res/extension_plus_26.png cmd/lc_addons.png
@@ -1869,4 +1872,5 @@ sw/res/wr011.png cmd/32/wrapideal.png
 vcl/res/closedoc.png sfx2/res/closedoc.png
 vcl/res/index.png cmd/sc_insertindexesentry.png
 vcl/source/src/msgbox.png vcl/res/msgbox.png
+xmlsecurity/res/notcertificate_16.png svx/res/notcertificate_16.png
 xmlsecurity/res/signet_11x16.png svx/res/signet_11x16.png
