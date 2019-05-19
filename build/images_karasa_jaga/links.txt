@@ -321,7 +321,6 @@ cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/numberliststyle.png cmd/32/defaultnumbering.png
 cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objectforwardone.png cmd/32/forward.png
-cmd/32/objectmenu.png cmd/32/insertobject.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
@@ -889,7 +888,6 @@ cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numberliststyle.png cmd/lc_defaultnumbering.png
 cmd/lc_objectbackone.png cmd/lc_backward.png
 cmd/lc_objectforwardone.png cmd/lc_forward.png
-cmd/lc_objectmenu.png cmd/lc_insertobject.png
 cmd/lc_objectmirrorhorizontal.png cmd/lc_fliphorizontal.png
 cmd/lc_objectmirrorvertical.png cmd/lc_flipvertical.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
@@ -1246,7 +1244,6 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 cmd/sc_objectbackone.png cmd/sc_backward.png
 cmd/sc_objectforwardone.png cmd/sc_forward.png
-cmd/sc_objectmenu.png cmd/sc_insertobject.png
 cmd/sc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
 cmd/sc_objectmirrorvertical.png cmd/sc_flipvertical.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
@@ -1642,6 +1639,7 @@ sc/res/nc05.png cmd/sc_insertobject.png
 sc/res/nc06.png cmd/sc_showannotations.png
 sc/res/nc08.png cmd/sc_graphic.png
 sc/res/page.png cmd/sc_adddirect.png
+sc/res/nc07.png sc/res/droplink.png
 sc/res/sc26047.png cmd/sc_insertformula.png
 sc/res/sc26048.png cmd/sc_autosum.png
 sc/res/sc26050.png cmd/sc_cancel.png
@@ -1853,14 +1851,13 @@ sw/res/sr20004.png cmd/sc_adddirect.png
 sw/res/sr20005.png cmd/sc_insertdraw.png
 sw/res/sr20006.png cmd/sc_choosecontrols.png
 sw/res/sr20007.png cmd/sc_insertsection.png
-sw/res/sr20008.png sfx2/res/favourite.png.png
+sw/res/sr20008.png sfx2/res/favourite.png
 sw/res/sr20009.png cmd/sc_graphic.png
 sw/res/sr20010.png cmd/sc_insertobject.png
 sw/res/sr20011.png sw/res/nc20000.png
 sw/res/sr20013.png cmd/sc_insertfootnote.png
 sw/res/sr20014.png sw/res/sc20183.png
 sw/res/sr20015.png cmd/sc_showannotations.png
-sw/res/sr20016.png cmd/sc_searchdialog.png
 sw/res/sr20017.png cmd/sc_insertindexesentry.png
 sw/res/styfamnu.png sw/res/sf05.png
 sw/res/sx01.png cmd/sc_changedatabasefield.png
