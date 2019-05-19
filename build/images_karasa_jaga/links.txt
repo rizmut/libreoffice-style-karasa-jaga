@@ -1406,6 +1406,7 @@ cmd/ur/sc_romanliststyle.png cmd/ar/sc_romanliststyle.png
 cmd/ur/sc_romanlowliststyle.png cmd/ar/sc_romanlowliststyle.png
 cmd/ur/sc_undo.png cmd/ar/sc_undo.png
 dbaccess/res/db.png cmd/sc_changedatabasefield.png
+dbaccess/res/exinfo.png res/info_16.png
 dbaccess/res/lc036.png cmd/lc_dbnewreport.png
 dbaccess/res/lc037.png cmd/lc_dbreportdelete.png
 dbaccess/res/lc038.png cmd/lc_dbreportedit.png
@@ -1437,6 +1438,7 @@ reportdesign/res/sx12453.png cmd/lc_animationeffects.png
 reportdesign/res/sx12464.png dbaccess/res/report_16.png
 reportdesign/res/sx12594.png cmd/sc_insertformula.png
 res/adrbook.png cmd/sc_viewdatasourcebrowser.png
+res/browse.png fpicker/res/fp016.png
 res/extension_plus_26.png cmd/lc_addons.png
 res/extension_plus_32.png cmd/32/addons.png
 res/fileopen.png cmd/sc_open.png
@@ -1725,8 +1727,11 @@ starmath/res/at21720.png cmd/lc_charfontname.png
 svtools/res/back_large.png cmd/lc_navigateback.png
 svtools/res/back_small.png cmd/sc_navigateback.png
 svtools/res/fp011.png fpicker/res/fp015.png
+svtools/res/info_small.png res/info_16.png
+svtools/res/new_doc.png cmd/32/insertpage.png
 svtools/res/preview_large.png cmd/lc_printpreview.png
 svtools/res/preview_small.png cmd/sc_printpreview.png
+svtools/res/samples.png cmd/32/open.png
 svtools/res/up_large.png cmd/lc_upsearch.png
 svtools/res/up_small.png cmd/sc_upsearch.png
 svx/res/3dlight.png cmd/sc_extrusionlightingfloater.png
