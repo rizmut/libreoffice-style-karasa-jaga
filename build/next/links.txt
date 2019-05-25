@@ -59,7 +59,6 @@ cmd/32/changesmenu.png cmd/32/accepttrackedchange.png
 cmd/32/charactermenu.png cmd/32/fontdialog.png
 cmd/32/charbackcolor.png cmd/32/backcolor.png
 cmd/32/charmapcontrol.png cmd/32/insertsymbol.png
-cmd/32/chartmenu.png cmd/32/drawchart.png
 cmd/32/circle.png cmd/32/basicshapes.circle.png
 cmd/32/circlepie.png cmd/32/basicshapes.circle-pie.png
 cmd/32/closedocs.png cmd/32/closedoc.png
@@ -163,7 +162,7 @@ cmd/32/fontworkgalleryfloater.png cmd/32/fontwork.png
 cmd/32/footnotecellstyles.png cmd/32/insertfootnote.png
 cmd/32/formatbulletsmenu.png cmd/32/defaultbullet.png
 cmd/32/formatframemenu.png cmd/32/framedialog.png
-cmd/32/formatimagemenu.png cmd/32/graphic.png
+cmd/32/formatimagemenu.png cmd/32/graphicdialog.png
 cmd/32/formatselection.png cmd/32/configuredialog.png
 cmd/32/formatspacingmenu.png cmd/32/spacepara15.png
 cmd/32/fr/underline.png cmd/32/ca/underline.png
@@ -321,6 +320,7 @@ cmd/32/numberingmenu.png cmd/32/outlinebullet.png
 cmd/32/numberliststyle.png cmd/32/defaultnumbering.png
 cmd/32/objectbackone.png cmd/32/backward.png
 cmd/32/objectforwardone.png cmd/32/forward.png
+cmd/32/objectmenu.png cmd/32/insertobject.png
 cmd/32/objectmirrorhorizontal.png cmd/32/fliphorizontal.png
 cmd/32/objectmirrorvertical.png cmd/32/flipvertical.png
 cmd/32/objects3dtoolbox.png cmd/32/cube.png
@@ -694,7 +694,6 @@ cmd/lc_changesmenu.png cmd/lc_accepttrackedchange.png
 cmd/lc_charactermenu.png cmd/lc_fontdialog.png
 cmd/lc_charbackcolor.png cmd/lc_backcolor.png
 cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.png
-cmd/lc_chartmenu.png cmd/lc_drawchart.png
 cmd/lc_circle.png cmd/lc_basicshapes.circle.png
 cmd/lc_circlepie.png cmd/lc_basicshapes.circle-pie.png
 cmd/lc_closedocs.png cmd/lc_closedoc.png
@@ -772,7 +771,7 @@ cmd/lc_fontworkgalleryfloater.png cmd/lc_fontwork.png
 cmd/lc_footnotecellstyles.png cmd/lc_insertfootnote.png
 cmd/lc_formatbulletsmenu.png cmd/lc_defaultbullet.png
 cmd/lc_formatframemenu.png cmd/lc_framedialog.png
-cmd/lc_formatimagemenu.png cmd/lc_graphic.png
+cmd/lc_formatimagemenu.png cmd/lc_graphicdialog.png
 cmd/lc_formatselection.png cmd/lc_configuredialog.png
 cmd/lc_formatspacingmenu.png cmd/lc_spacepara15.png
 cmd/lc_formattextmenu.png cmd/lc_text.png
@@ -888,6 +887,7 @@ cmd/lc_numberingmenu.png cmd/lc_outlinebullet.png
 cmd/lc_numberliststyle.png cmd/lc_defaultnumbering.png
 cmd/lc_objectbackone.png cmd/lc_backward.png
 cmd/lc_objectforwardone.png cmd/lc_forward.png
+cmd/lc_objectmenu.png cmd/lc_insertobject.png
 cmd/lc_objectmirrorhorizontal.png cmd/lc_fliphorizontal.png
 cmd/lc_objectmirrorvertical.png cmd/lc_flipvertical.png
 cmd/lc_objects3dtoolbox.png cmd/lc_cube.png
@@ -1049,7 +1049,6 @@ cmd/sc_changesmenu.png cmd/sc_accepttrackedchange.png
 cmd/sc_charactermenu.png cmd/sc_fontdialog.png
 cmd/sc_charbackcolor.png cmd/sc_backcolor.png
 cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.png
-cmd/sc_chartmenu.png cmd/sc_drawchart.png
 cmd/sc_circle.png cmd/sc_basicshapes.circle.png
 cmd/sc_circlepie.png cmd/sc_basicshapes.circle-pie.png
 cmd/sc_closedocs.png cmd/sc_closedoc.png
@@ -1127,7 +1126,7 @@ cmd/sc_fontworkgalleryfloater.png cmd/sc_fontwork.png
 cmd/sc_footnotecellstyles.png cmd/sc_insertfootnote.png
 cmd/sc_formatbulletsmenu.png cmd/sc_defaultbullet.png
 cmd/sc_formatframemenu.png cmd/sc_framedialog.png
-cmd/sc_formatimagemenu.png cmd/sc_graphic.png
+cmd/sc_formatimagemenu.png cmd/sc_graphicdialog.png
 cmd/sc_formatselection.png cmd/sc_configuredialog.png
 cmd/sc_formatspacingmenu.png cmd/sc_spacepara15.png
 cmd/sc_formattextmenu.png cmd/sc_text.png
@@ -1244,6 +1243,7 @@ cmd/sc_numberingmenu.png cmd/sc_outlinebullet.png
 cmd/sc_numberliststyle.png cmd/sc_defaultnumbering.png
 cmd/sc_objectbackone.png cmd/sc_backward.png
 cmd/sc_objectforwardone.png cmd/sc_forward.png
+cmd/sc_objectmenu.png cmd/sc_insertobject.png
 cmd/sc_objectmirrorhorizontal.png cmd/sc_fliphorizontal.png
 cmd/sc_objectmirrorvertical.png cmd/sc_flipvertical.png
 cmd/sc_objects3dtoolbox.png cmd/sc_cube.png
@@ -1703,9 +1703,13 @@ sd/res/sc27173.png sd/res/sc27171.png
 sd/res/sc27296.png sd/res/sc27295.png
 sd/res/stopplayingblue_16.png cmd/sc_datastreamsstop.png
 sd/res/time_16.png cmd/sc_timefield.png
+sfx2/res/actionaction012.png cmd/lc_recsearch.png
+sfx2/res/actiontemplates016.png svtools/res/info_large.png
+sfx2/res/actionview025.png sfx2/res/actionview018.png
 sfx2/res/actionview028.png cmd/lc_save.png
 sfx2/res/actionview030.png cmd/lc_open.png
 sfx2/res/deleterow.png cmd/sc_deleterows.png
+sfx2/res/hlpbookclosed.png cmd/sc_documentation.png
 sw/res/nc20005.png sfx2/res/favourite.png
 sfx2/res/newex.png cmd/sc_stylenewbyexample.png
 sfx2/res/sortascending.png cmd/lc_sortascending.png
