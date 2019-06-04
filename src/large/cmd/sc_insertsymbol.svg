@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   width="128"
+   version="1.1"
+   id="svg1494"
+   sodipodi:docname="sc_insertsymbol.svg"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/rizmut/Dokumen/Rizmut/Github/libreoffice-style-karasa-jaga/build/images_karasa_jaga/cmd/sc_insertsymbol.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12">
+  <metadata
+     id="metadata1500">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1498">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#b"
+       id="linearGradient4498"
+       x1="64"
+       y1="-7.559056e-07"
+       x2="64"
+       y2="80"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview1496"
+     showgrid="true"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="74.325727"
+     inkscape:cy="73.054868"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1494">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3932"
+       spacingx="2.1166667"
+       spacingy="2.1166667"
+       empspacing="0" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="15.71217359615"
+     x2="16.9333311282"
+     y1="294.720546641"
+     y2="266.6339107115"
+     gradientTransform="matrix(1.0122175,0,0,1.0122174,0,-266.70825)">
+    <stop
+       offset="0"
+       stop-color="#555"
+       id="stop1476" />
+    <stop
+       offset="1"
+       id="stop1478" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="15.7121748"
+     x2="16.93333272"
+     y1="262.97044706116"
+     y2="288.61476216"
+     gradientTransform="translate(0,-263.13332)">
+    <stop
+       offset="0"
+       stop-color="#3b3e22"
+       id="stop1481" />
+    <stop
+       offset="1"
+       stop-color="#454545"
+       stop-opacity="0"
+       id="stop1483" />
+  </linearGradient>
+  <g
+     id="g4503">
+    <text
+       style="font-size:41.11136246px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:url(#a);stroke-width:1.02778339"
+       x="1.5440083"
+       y="31.359663"
+       id="text1488"
+       transform="scale(0.98792997,1.0122175)">
+      <tspan
+         font-size="42.740532"
+         x="1.5440083"
+         y="31.359663"
+         id="tspan1486"
+         style="font-size:43.26271439px;font-family:FreeSerif;fill:url(#a);stroke-width:1.02778339">Ω</tspan>
+    </text>
+    <path
+       id="path4480"
+       transform="scale(0.26458334)"
+       d="M 89.46875 19.771484 C 93.304751 23.412163 96.330455 28.171847 98.482422 34.125 C 100.89381 40.795815 102.02539 48.454673 102.02539 57.080078 C 102.02539 59.821043 101.92174 62.445135 101.71484 64.962891 A 88.000004 48.000002 0 0 0 110.02539 61.863281 C 110.31362 59.656029 110.46484 57.34999 110.46484 54.927734 C 110.46484 41.97633 106.39626 32.41662 97.949219 24.84375 A 4.9868032 5.1094001 0 0 1 97.919922 24.822266 C 95.45139 22.580456 92.339551 21.367088 89.46875 19.771484 z M 39.818359 19.837891 C 36.672504 21.596857 33.309645 23.023419 30.652344 25.5625 C 21.951304 33.876441 17.859375 43.494374 17.859375 55.591797 C 17.859375 59.866773 18.387862 63.850847 19.423828 67.603516 A 88.000004 48.000002 0 0 0 27.277344 69.314453 C 26.615952 65.1755 26.296875 60.712068 26.296875 55.921875 C 26.296875 42.813766 29.607734 31.48984 36.419922 22.640625 A 4.9868032 5.1094001 0 0 1 36.449219 22.603516 C 37.395366 21.396011 38.77055 20.892211 39.818359 19.837891 z "
+       style="opacity:0.75;fill:url(#linearGradient4498);fill-opacity:1;stroke:none;stroke-width:5.81799984;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
