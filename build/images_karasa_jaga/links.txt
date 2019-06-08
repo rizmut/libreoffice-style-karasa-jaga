@@ -242,7 +242,7 @@ cmd/32/insertimagecontrol.png cmd/32/imagecontrol.png
 cmd/32/insertlistbox.png cmd/32/listbox.png
 cmd/32/insertmenuaxes.png cmd/32/diagramaxis.png
 cmd/32/insertmenugrids.png cmd/32/togglegridhorizontal.png
-cmd/32/insertmenulegend.png cmd/32/legend.png
+cmd/32/insertmenulegend.png cmd/32/togglelegend.png
 cmd/32/insertnumericfield.png cmd/32/numericfield.png
 cmd/32/insertobjctrl.png cmd/32/insertobject.png
 cmd/32/insertobjectchart.png cmd/32/drawchart.png
@@ -835,7 +835,7 @@ cmd/lc_insertimagecontrol.png cmd/lc_imagecontrol.png
 cmd/lc_insertlistbox.png cmd/lc_listbox.png
 cmd/lc_insertmenuaxes.png cmd/lc_diagramaxis.png
 cmd/lc_insertmenugrids.png cmd/lc_togglegridhorizontal.png
-cmd/lc_insertmenulegend.png cmd/lc_legend.png
+cmd/lc_insertmenulegend.png cmd/lc_togglelegend.png
 cmd/lc_insertnumericfield.png cmd/lc_numericfield.png
 cmd/lc_insertobjctrl.png cmd/lc_insertobject.png
 cmd/lc_insertobjectchart.png cmd/lc_drawchart.png
@@ -1194,7 +1194,7 @@ cmd/sc_insertimagecontrol.png cmd/sc_imagecontrol.png
 cmd/sc_insertlistbox.png cmd/sc_listbox.png
 cmd/sc_insertmenuaxes.png cmd/sc_diagramaxis.png
 cmd/sc_insertmenugrids.png cmd/sc_togglegridhorizontal.png
-cmd/sc_insertmenulegend.png cmd/sc_legend.png
+cmd/sc_insertmenulegend.png cmd/sc_togglelegend.png
 cmd/sc_insertnumericfield.png cmd/sc_numericfield.png
 cmd/sc_insertobjctrl.png cmd/sc_insertobject.png
 cmd/sc_insertobjectchart.png cmd/sc_drawchart.png
