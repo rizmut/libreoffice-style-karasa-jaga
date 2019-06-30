@@ -15,17 +15,17 @@ EOF
 
 temp_dir="$(mktemp -d)"
 
-cd "build/images_karasa_jaga"
+cd "images_karasa_jaga"
 zip -r -D images_karasa_jaga.zip *
-cp -R "images_karasa_jaga.zip" \
-  "./.."
+mv "images_karasa_jaga.zip" \
+  "./../build/"
 cd "./.."
 echo "=> Deleting old $gh_desc extension file ..."
 rm -f "build/Karasa_Jaga-IconSet.oxt"
 echo "=> Create new $gh_desc extension one ..."
-cp "images_karasa_jaga.zip" \
-   "Karasa_Jaga-IconSet/iconsets"
-cd "./Karasa_Jaga-IconSet"
+cp "build/images_karasa_jaga.zip" \
+   "build/Karasa_Jaga-IconSet/iconsets"
+cd "build/Karasa_Jaga-IconSet"
 zip -r -D Karasa_Jaga-IconSet.oxt *
 mv "Karasa_Jaga-IconSet.oxt" \
    "./.."
@@ -35,7 +35,7 @@ sudo rm -f "/usr/share/libreoffice/share/config/images_karasa_jaga.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
 sudo mv \
-  "build/images_karasa_jaga/images_karasa_jaga.zip" \
+  "build/images_karasa_jaga.zip" \
   "/usr/share/libreoffice/share/config"
 for dir in \
   /usr/lib64/libreoffice/share/config \
