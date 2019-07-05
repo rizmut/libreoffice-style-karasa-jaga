@@ -312,6 +312,7 @@ cmd/32/nl/italic.png cmd/32/ca/italic.png
 cmd/32/nl/underlinesimple.png cmd/32/nl/underline.png
 cmd/32/no.png cmd/32/cancel.png
 cmd/32/notecellstyles.png cmd/32/shownote.png
+cmd/32/notevisible.png cmd/32/shownote.png
 cmd/32/numberformatcurrency.png cmd/32/currencyfield.png
 cmd/32/numberformatcurrencysimple.png cmd/32/currencyfield.png
 cmd/32/numberformatmenu.png cmd/32/numberformatstandard.png
@@ -838,6 +839,7 @@ cmd/lc_navigatemenu.png cmd/lc_navigator.png
 cmd/lc_neutralcellstyles.png cmd/lc_neutralcellstyle.png
 cmd/lc_no.png cmd/lc_cancel.png
 cmd/lc_notecellstyles.png cmd/lc_shownote.png
+cmd/lc_notevisible.png cmd/lc_shownote.png
 cmd/lc_numberformatcurrency.png cmd/lc_currencyfield.png
 cmd/lc_numberformatcurrencysimple.png cmd/lc_currencyfield.png
 cmd/lc_numberformatmenu.png cmd/lc_numberformatstandard.png
@@ -1225,6 +1227,7 @@ cmd/sc_neutralcellstyles.png cmd/sc_neutralcellstyle.png
 cmd/sc_newglobaldoc.png res/odm_16_8.png
 cmd/sc_no.png cmd/sc_cancel.png
 cmd/sc_notecellstyles.png cmd/sc_shownote.png
+cmd/sc_notevisible.png cmd/sc_shownote.png
 cmd/sc_numberformatcurrency.png cmd/sc_currencyfield.png
 cmd/sc_numberformatcurrencysimple.png cmd/sc_currencyfield.png
 cmd/sc_numberformatmenu.png cmd/sc_numberformatstandard.png
@@ -1496,7 +1499,6 @@ res/lx03163.png res/ott_32_8.png
 res/lx03165.png cmd/32/save.png
 res/lx03188.png cmd/32/dbviewtables.png
 res/lx03189.png cmd/32/open.png
-res/lx03189.png svx/res/galdefl.png
 res/lx03217.png res/odg_32_8.png
 res/lx03218.png res/odg_32_8.png
 res/lx03219.png res/lx03125.png
@@ -1588,7 +1590,7 @@ res/sx03163.png res/ott_16_8.png
 res/sx03164.png res/harddisk_16.png
 res/sx03165.png cmd/sc_save.png
 res/sx03188.png cmd/sc_dbviewtables.png
-res/sx03189.png svtools/res/folder.png
+res/sx03189.png cmd/sc_open.png
 res/sx03202.png cmd/sc_dbviewqueries.png
 res/sx03217.png res/odg_16_8.png
 res/sx03218.png res/odg_16_8.png
@@ -1642,6 +1644,7 @@ res/sx18013.png res/dialogfolder_16.png
 res/xml_16.png cmd/sc_managexmlsource.png
 sc/res/date.png cmd/sc_datefield.png
 sc/res/dropcopy.png cmd/sc_copy.png
+sc/res/dropurl.png cmd/sc_inserthyperlinkcontrol.png
 sc/res/file.png cmd/sc_open.png
 sc/res/fx.png cmd/sc_insertformula.png
 sc/res/lc26047.png cmd/lc_insertformula.png
@@ -1681,8 +1684,7 @@ sd/res/lc27058.png sd/res/lc27028.png
 sd/res/lc27059.png cmd/lc_animationmode.png
 sd/res/lc27175.png sd/res/lc27177.png
 sd/res/lc27318.png cmd/lc_drawchart.png
-sd/res/nv010.png cmd/sc_inserthyperlink.png
-sd/res/nv010.png sc/res/dropurl.png
+sd/res/nv010.png cmd/sc_inserthyperlinkcontrol.png
 sd/res/nv02.png cmd/sc_freeline_unfilled.png
 sd/res/nv03.png cmd/sc_firstrecord.png
 sd/res/nv04.png cmd/sc_prevrecord.png
