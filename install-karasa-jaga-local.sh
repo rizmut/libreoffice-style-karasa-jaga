@@ -50,10 +50,10 @@ sudo rm -f "/usr/share/libreoffice/share/config/images_karasa_jaga.zip"
 sudo rm -f "/usr/share/libreoffice/share/config/images_karasa_jaga_svg.zip"
 echo "=> Installing ..."
 sudo mkdir -p "/usr/share/libreoffice/share/config"
-sudo mv \
+sudo cp \
   "build/images_karasa_jaga.zip" \
   "/usr/share/libreoffice/share/config"
-sudo mv \
+sudo cp \
   "build/images_karasa_jaga_svg.zip" \
   "/usr/share/libreoffice/share/config"
 for dir in \
