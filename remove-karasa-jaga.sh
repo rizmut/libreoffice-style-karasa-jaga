@@ -21,6 +21,7 @@ for dir in \
   /usr/local/lib/libreoffice/share/config \
   /opt/libreoffice*/share/config; do
   [ -d "$dir" ] || continue
-  sudo rm -f "$dir/images_karasa_Jaga.zip"
+  sudo rm -f "$dir/images_karasa_jaga.zip"
+  sudo rm -f "$dir/images_karasa_jaga_svg.zip"
 done
 echo "=> Done!"
