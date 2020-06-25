@@ -15,7 +15,7 @@ EOF
 
 temp_dir="$(mktemp -d)"
 
-cd "images_karasa_jaga"
+cd "karasa_jaga"
 zip -r -D images_karasa_jaga.zip *
 mv "images_karasa_jaga.zip" \
   "./../build/"
@@ -30,7 +30,7 @@ zip -r -D Karasa_Jaga-IconSet.oxt *
 mv "Karasa_Jaga-IconSet.oxt" \
    "./.."
 cd "./../.."
-cd "images_karasa_jaga_svg"
+cd "karasa_jaga_svg"
 zip -r -D images_karasa_jaga_svg.zip *
 mv "images_karasa_jaga_svg.zip" \
   "./../build/"
